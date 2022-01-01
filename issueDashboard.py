@@ -66,7 +66,7 @@ def write_issue_to_file(repoIssues, fileName):
 if __name__ == '__main__':
     # config env
     fileName = 'index.md'
-    repoUrl = 'bgzocg/2021'
+    repoUrl = 'bgzocg/2022'
     githubToken = get_github_token_from_command()
     # config env end
     # FIXME: how to know Github function???
