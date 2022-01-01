@@ -70,7 +70,7 @@ MONTH_SUMMARY_STAT_TEMPLATE = "| {month} | {number} |\n"
 # | General Showing |
 # +-----------------+
 IssueTableHead = "\
-## Issues I Created In 2021\n\
+## Issues I Created In 2022\n\
 \n\
 | Name | Update At | Url |\n\
 | ---- | ---- | ---- |\n"
