@@ -2,4 +2,5 @@
 
 | Name | Update At | Url |
 | ---- | ---- | ---- |
-| thought(message) | 2022-01-01 12:41:30 | [#1](https://github.com/bGZoCg/2022/issues/1) |
+| listen(podcast) | 2022-01-02 00:43:00 | [#2](https://github.com/bGZoCg/2022/issues/2) |
+| thought(message) | 2022-01-01 18:24:48 | [#1](https://github.com/bGZoCg/2022/issues/1) |
