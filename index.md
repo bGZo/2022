@@ -2,9 +2,9 @@
 
 | Name | Update At | Url |
 | ---- | ---- | ---- |
-| log(bug) | 2022-01-02 15:26:36 | [#7](https://github.com/bGZoCg/2022/issues/7) |
-| make(mark) | 2022-01-02 15:26:06 | [#8](https://github.com/bGZoCg/2022/issues/8) |
-| bought(sth) | 2022-01-02 15:25:17 | [#6](https://github.com/bGZoCg/2022/issues/6) |
+| log(bug) | 2022-01-03 10:14:57 | [#7](https://github.com/bGZoCg/2022/issues/7) |
+| bought(sth) | 2022-01-03 08:39:04 | [#6](https://github.com/bGZoCg/2022/issues/6) |
+| make(mark) | 2022-01-03 08:27:25 | [#8](https://github.com/bGZoCg/2022/issues/8) |
 | play(game) | 2022-01-02 15:24:52 | [#5](https://github.com/bGZoCg/2022/issues/5) |
 | read(book) | 2022-01-02 15:24:33 | [#4](https://github.com/bGZoCg/2022/issues/4) |
 | swipe(bangumi) | 2022-01-02 15:23:40 | [#3](https://github.com/bGZoCg/2022/issues/3) |
