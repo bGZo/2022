@@ -2,8 +2,8 @@
 
 | Name | Update At | Url |
 | ---- | ---- | ---- |
+| log(bug) | 2022-01-08 10:49:37 | [#7](https://github.com/bGZoCg/2022/issues/7) |
 | thought(message) | 2022-01-06 13:11:43 | [#1](https://github.com/bGZoCg/2022/issues/1) |
-| log(bug) | 2022-01-06 13:09:21 | [#7](https://github.com/bGZoCg/2022/issues/7) |
 | bought(sth) | 2022-01-03 08:39:04 | [#6](https://github.com/bGZoCg/2022/issues/6) |
 | make(mark) | 2022-01-03 08:27:25 | [#8](https://github.com/bGZoCg/2022/issues/8) |
 | play(game) | 2022-01-02 15:24:52 | [#5](https://github.com/bGZoCg/2022/issues/5) |
