@@ -8,7 +8,7 @@ def get_github_token_from_command():
     try:
         return sys.argv[1]
     except Exception as ex:
-        print("[Get Token Failed] " + ex.message + ex.args)
+        print("[Get Token Failed] ")
         # raise Exception("[Failed Getting argv] Make Sure adding para after .py")
 
 
@@ -17,7 +17,7 @@ def get_name_by_token(token):
         g = Github(token)
         return g.get_user().name
     except Exception as ex:
-        print("[Get Repo Failed] " + ex.message + ex.args)
+        print("[Get Repo Failed] ")
 
 
 def get_repo_from_github(token, repoUrl):
@@ -25,7 +25,7 @@ def get_repo_from_github(token, repoUrl):
         g = Github(token)
         return g.get_repo(repoUrl)
     except Exception as ex:
-        print("[Get Repo Failed] " + ex.message + ex.args)
+        print("[Get Repo Failed] ")
 
 
 def get_update_issue_from_repo(token, repo):
@@ -34,7 +34,7 @@ def get_update_issue_from_repo(token, repo):
         myName = get_name_by_token(token)
         return repo.get_issues(state='open', creator=myName, sort='updated')
     except Exception as ex:
-        print("[Get Issues Failed] " + ex.message + ex.args)
+        print("[Get Issues Failed] ")
 
 
 def get_comments_from_issue(token, issue):
@@ -42,7 +42,7 @@ def get_comments_from_issue(token, issue):
         g = Github(token)
         return issue.get_comments()
     except Exception as ex:
-        print("[Get comments Failed] " + ex.message + ex.args)
+        print("[Get comments Failed] ")
 
 
 def format_template_str(name, date, url):
