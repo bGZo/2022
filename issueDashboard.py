@@ -3,21 +3,12 @@ from github import Github
 from config import (IssueTableHead, IssueTableTemplate)
 # from cfig import githubToken
 
-
 def get_github_token_from_command():
     try:
         return sys.argv[1]
     except Exception as ex:
         print("[Get Token Failed] ")
         # raise Exception("[Failed Getting argv] Make Sure adding para after .py")
-
-
-def get_name_by_token(token):
-    try:
-        g = Github(token)
-        return g.get_user().name
-    except Exception as ex:
-        print("[Get Repo Failed] ")
 
 
 def get_repo_from_github(token, repoUrl):
@@ -31,8 +22,7 @@ def get_repo_from_github(token, repoUrl):
 def get_update_issue_from_repo(token, repo):
     try:
         g = Github(token)
-        myName = get_name_by_token(token)
-        return repo.get_issues(state='open', creator=myName, sort='updated')
+        return repo.get_issues(state='open', creator='bGZoCg', sort='updated')
     except Exception as ex:
         print("[Get Issues Failed] ")
 
