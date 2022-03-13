@@ -2,7 +2,7 @@
 
 | Name | Update At | Url |
 | ---- | ---- | ---- |
-| log(bug) | 2022-03-10 14:43:01 | [#7](https://github.com/bGZoCg/2022/issues/7) |
+| log(bug) | 2022-03-12 06:15:52 | [#7](https://github.com/bGZoCg/2022/issues/7) |
 | make(mark) | 2022-02-23 12:32:55 | [#8](https://github.com/bGZoCg/2022/issues/8) |
 | thought(message) | 2022-02-23 01:34:27 | [#1](https://github.com/bGZoCg/2022/issues/1) |
 | bought(sth) | 2022-02-02 03:38:13 | [#6](https://github.com/bGZoCg/2022/issues/6) |
