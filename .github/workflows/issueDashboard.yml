@@ -31,12 +31,13 @@ jobs:
         run: |
           python3 issueDashboard.py ${{ secrets.G_T }}
 
-      - name: Push new Bookmark
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Replace issueDashboard"
-          files: .
-          rebase: 'true'
-          name: bGZoCg
-          email: bgzocg@outlook.com
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
+      - name: Push Bookmark README
+        run: |
+          git config user.name bgzo
+          git config user.email lfh010618@gmail.com
+          git add .
+          git commit -m "Update Issue Dashboard"
+          git push
