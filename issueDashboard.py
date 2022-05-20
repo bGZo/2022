@@ -1,3 +1,4 @@
+import os
 import sys
 from github import Github
 from config import (IssueTableHead, IssueTableTemplate)
@@ -52,6 +53,22 @@ def write_issue_to_file(repoIssues, fileName):
             issueUrl = '[#' + str(issue.number) + '](' + str(issue.html_url) + ')'
             f.write(format_template_str(issueName, issueUpdate, issueUrl))
 
+def get_open_issues_by_me(issues, repoUrl):
+    g = Github(token)
+    repo = g.get_repo(repoUrl)
+    user = g.get_user()
+    name = user.login
+    issues= repo.get_issues(state='open', creator=name, sort='updated')
+    for issue in issues:
+        fileName='./docs/'+issue.title + '.md'
+        comments=issue.get_comments()
+
+        with open(fileName, "a+") as f:
+            print('ok')
+            f.write(issue.body)
+            for comment in comments:
+                f.write(comment.body)
+        f.close()
 
 if __name__ == '__main__':
     # config env
