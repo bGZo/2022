@@ -42,7 +42,7 @@ if __name__ == '__main__':
                 h_title = matches[0][1].strip()
                 indent = ' ' * (tablen * (h_level - 1))
                 md_link = re.sub(r' ', '-', re.sub(r'[^\d\w ]', '', h_title)).lower()
-                f.write(('%s-%s[%s](#%s)') % (indent, ' ' * tablen, h_title, md_link)+'\n')
+                f.write(('%s- [%s](#%s)') % (indent, h_title, md_link)+'\n')
         f.write('\n\n')
         for line in lines:
             f.write(line)
