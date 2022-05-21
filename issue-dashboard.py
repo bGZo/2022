@@ -25,14 +25,15 @@ if __name__ == '__main__':
     g = Github(token)
     repo = g.get_repo(repoUrl)
     name = g.get_user().login
-    issues = repo.get_issues(state='open', creator=name)
+    issues = repo.get_issues(state='open', creator=name, sort='updated')
 
     write_issue_to_file(issues, file)
 
-    tablen=2
+    tablen = 4 # via: https://github.com/zhouie/github-md-toc/blob/master/github-md-toc.py
     with open(file, 'r') as f:
         lines = f.readlines()
 
+    #FIXME: is there more effective way???
     with open(file, 'w') as f:
         for line in lines:
             matches = re.findall(r'(^#{1,6}) (.*)', line)
