@@ -1,13 +1,11 @@
-name: issueDashboard
+name: issue dashboard
 
 on:
   workflow_dispatch:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
-    - cron:  '0 5 * * *'
+    - cron:  '0 16 * * *'
 
 jobs:
   sync:
@@ -16,10 +14,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.6
+          python-version: 3.8
 
       - name: Install Dependencies
         run: |
@@ -27,22 +26,23 @@ jobs:
           pip install -r requirements.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
       
-      - name: Collecting Issues
+      - name: Run Script
         run: |
-          python3 issueDashboard.py ${{ secrets.G_T }}
+          python3 issue-dashboard.py ${{ secrets.G_T }}
 
       - name: Run Safe Dir
         run: |
           git config --global --add safe.directory /github/workspace
-      - name: Push README
+
+      - name: Push Readme
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name bgzo
-            git config user.email lfh010618@gmail.com
+            git config user.email bgzocg@gmail.com
             git add .
             git commit -m "Update Issue Dashboard"
             git push
           else
             echo "no changes";
           fi
-         
+
