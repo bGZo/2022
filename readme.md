@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-05-23](#logbug-updated-at-20220523)
+- [log(bug) Updated at 2022-05-25](#logbug-updated-at-20220525)
     - [摇摆不定的互联网](#摇摆不定的互联网)
     - [翻墙](#翻墙)
     - [整理房间](#整理房间)
@@ -14,6 +14,7 @@
 - [error: Your local changes to the following files would be overwritten by merge:](#error-your-local-changes-to-the-following-files-would-be-overwritten-by-merge)
 - [/xxxx/xxxx.json](#xxxxxxxxjson)
         - [遗留问题](#遗留问题)
+        - [拉不下来.](#拉不下来)
     - [[PP] 远程控制](#pp-远程控制)
         - [Diff](#diff)
         - [优化 RD 显示及帧率](#优化-rd-显示及帧率)
@@ -43,6 +44,7 @@
         - [More See](#more-see)
     - [WSL](#wsl)
     - [android browser download file cannot open(cannot find](#android-browser-download-file-cannot-opencannot-find)
+    - [Privacy](#privacy)
 - [make(mark) Updated at 2022-05-22](#makemark-updated-at-20220522)
     - [比快排更高效的排序](#比快排更高效的排序)
     - [Five timeless lessons](#five-timeless-lessons)
@@ -172,7 +174,7 @@
     - [圆桌04：谈谈恋爱.](#圆桌04谈谈恋爱)
 
 
-# log(bug) Updated at 2022-05-23
+# log(bug) Updated at 2022-05-25
 ## 摇摆不定的互联网
 
 也如 [2021](github.com/bgzocg/2021) 那样，想不明白很多事，越来越多的重定向，404。诸如此类
@@ -312,7 +314,12 @@ git pull
 ![image](https://user-images.githubusercontent.com/57313137/154320652-bc58623e-cb02-4d3a-9f56-ddd2abebaca5.png)
 
 
+### 拉不下来. 
 
+```shell
+scoop config proxy 127.0.0.1:7890
+scoop config aria2-enabled false
+```
 ## [PP] 远程控制 
 
 一度认为 `TeamViewer` 是最优解, 但是今天发现国区也需要[绑定](https://community.teamviewer.com/English/discussion/92643/cant-validate-my-account-cant-recieve-sms) `+86` 的手机号... 之后发现手机号绑到另一个号上了, 得嘞, 上另外一个号, excuse me??? [You have no switches left???](https://community.teamviewer.com/English/discussion/110182/how-can-i-remove-devices-in-free-account) 合着我这辈子就只能在这个账户下用两台设备是吗??? 官方也没个回复, 嫖不到服务, delete account, 走了...
@@ -940,6 +947,10 @@ USE database_name;
 ## android browser download file cannot open(cannot find
 
 ![20220523_013824.png](https://user-images.githubusercontent.com/57313137/169709645-c3e6f95e-7aba-4fde-9357-2859b44198da.png)
+## Privacy
+
+- 一键关闭所有传感器 via: [一键关闭所有传感器](https://www.bilibili.com/read/cv7551428 ) 
+  - `Developer Options\Quick settings developer tiles\Sensors off`
 
 
 # make(mark) Updated at 2022-05-22
