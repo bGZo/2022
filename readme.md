@@ -1,4 +1,4 @@
-- [thought(message) Updated at 2022-05-27](#thoughtmessage-updated-at-20220527)
+- [thought(message) Updated at 2022-05-29](#thoughtmessage-updated-at-20220529)
     - [GFW, 审查和其他](#gfw-审查和其他)
         - [去你妈, 阴阳怪气](#去你妈-阴阳怪气)
         - [边缘人群注定痛苦](#边缘人群注定痛苦)
@@ -51,6 +51,7 @@
     - [What I Regret to Buy. Are You?](#what-i-regret-to-buy-are-you)
     - [你应该着重关注报错的具体信息, 而不是浮于表面的说它报错了](#你应该着重关注报错的具体信息-而不是浮于表面的说它报错了)
     - [毫无意义的动作 actions 不要追求一次做完](#毫无意义的动作-actions-不要追求一次做完)
+    - [不记得内容但是很开心的梦](#不记得内容但是很开心的梦)
 - [make(mark) Updated at 2022-05-26](#makemark-updated-at-20220526)
     - [比快排更高效的排序](#比快排更高效的排序)
     - [Five timeless lessons](#five-timeless-lessons)
@@ -180,7 +181,7 @@
     - [圆桌04：谈谈恋爱.](#圆桌04谈谈恋爱)
 
 
-# thought(message) Updated at 2022-05-27
+# thought(message) Updated at 2022-05-29
 ## GFW, 审查和其他
 
 一如 [2021](github.com/bgzocg/2021), GFW 连带 审查的问题仍旧层出不穷
@@ -631,6 +632,9 @@ Almost everybody in this era like to recommand sth to you such as, "this is awso
 ## 毫无意义的动作 actions 不要追求一次做完
 
 我认为需要为自己必须要一次性做完，做到底的事情拉一个清单，反而对那些不那么重要，没有必要今天做完的琐碎事情做出警示，因为那些琐碎的事情会随着时间变化而变化，到时候琐碎的事情就会变得更多，如果总是放任自己在那些鸡毛蒜皮的小事上，虽然我们说一花一世界，小小的世界蕴含大道理，但是这样却一点都不值得浪费你宝贵的时间
+## 不记得内容但是很开心的梦
+
+像是在异世界我有个幼驯染，长大了却比我高了，我们在城镇里奔跑，拉着手，和小时候一样，我不记得这个梦的上下文了，但是我知道我很喜欢她，这个梦很开心
 
 
 # make(mark) Updated at 2022-05-26
