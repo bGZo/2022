@@ -240,6 +240,8 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 - [ ] 当一个机关公关的方式就是堵住所有人的嘴(控评)的时候, 怎么办?
 - [ ] 信任才是最贵的 怎么相信别人 怎么被别人相信
 
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1)
+
 ## 痛苦及无聊
 
 > 生命是一团欲望，欲望不能满足便痛苦，满足便无聊，人生就在痛苦和无聊之间摇摆
@@ -247,25 +249,49 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 我在买了显示器之后才发现没有什么当下立刻提升生产力的感觉, 只是有那么一刻, 我停下来, 不知道自己要做什么, 我盯着屏幕中间小小的窗口, 发现我可能又冲动消费了...
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003408927)
+
 ## 我知道我已经再也回不去那个单纯的自己了
 
 所有想得一切都是不公, 荒谬和其他, 我不知道怎么再度回去那个什么都不知道的年纪, 长大太痛苦了, 考虑的事情太多了, 拘束太多了.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003553463)
+
 ## 哲学是理解更多的想法，而不是生活的流水线
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003597296)
+
 ## Productivity Pron
 
 今晚花了两个小时，仍未找到那条让我醍醐的原推文，我那做事的习惯 -- “**Productivity Porn*”(*生产力色情*)。意思是 花很多时间在如何提高他们的生产力上，而不是他们的工作进展上, 最后在 Deadline 前陷入无尽的焦虑, 并倍感沮丧. 它是如何工作的呢? 让我们来一起看看.
 
 在中国软件市场，最著名的专注于生产力的公司是[SSPai](https://sspai.com/)、[Coolapk](https://coolapk.com/)、[Dedao](https://www.igetget.com). 他们总是兜售像 *最强大脑选手: 建立你的第二大脑* 这样的知识焦虑，充斥着许多毫无意义的重组名词。其他则分布在最常见的网站如 [知乎](https://zhihu.com/), [简书](https://jianshu.com/) 和 [哔哩哔哩](https://bilibili.com/)。但随着资本市场的出现，文章质量越来越水，更像是胡说八道，在吹嘘 “为了恰饭，需要生存” 的同时, 也毁了他们的读者。有时候搜索引擎则是更好的选择，如使用`site:(url) + search context`更有效。甚至将转变的想法，从 *他们有什么新特性* 转变为 *他们有什么他妈的毫无意义的傻逼行为*。
  
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1004795420)
+
 ## 什么时候你开始觉得历史记录不甚重要
 
 为了检索自己曾访问的某个网站, 需要留存自己长时间的历史记录, 当然这种边缘数据非常脆弱, 但是蔓延的信息量巨大, 软件 崩过/重装 过几次信息就都消失了, 非常操蛋,
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1004841460)
+
 ## hhhhh, Ubuntu 和 乌托邦总是搞混欸
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1006576283)
+
 ## Everything Is Speech
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1006580328)
+
 ## 记一次春梦
 
 只记得自己怀中搂着一个穿红色浴袍的女人, 我被突然的拥促倒在地上, 然后就倒下了... 只记得当时不止生理上有反应, 也是一种心动的状态.
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1012266447)
 
 ## 尝试给予自己积极的心理暗示
 
@@ -286,6 +312,9 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
   - 不要妄想傻逼会变好, 有的傻逼是一辈子, 远离才可.
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1017660326)
+
 ## 🚫 无法用户数据全部导出的产品
 
 换言之, 连数据权都不属于自己的服务不值得浪费时间.
@@ -296,9 +325,15 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 - 腾讯 QQ/Wechat Web
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1019776160)
+
 ## 一场疫情真的变了好多
 
 人们趋于稳定, 我关注的 One 作家 苏更生 也好久没有更新了, 最近更了篇年终总结, 可以看得出她的倦怠. 面对这样的世界, 无奈的果然不止少数...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1019777183)
+
 ## 荒诞停留在你所爱之人时, 事情一点也不有趣
 
 当你发现无法消解, 也无法回击这生活中操蛋的荒诞, 像等待外面的客人进门把家翻得一团乱麻的时候, 反而要欲奉还迎, 可悲到想和这个世界同归于尽.
@@ -317,9 +352,15 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 > "爸, 你为啥要开灯睡呀"
 > 
 > "... 好看, 袭人..."
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1021863522)
+
 ## 最高级的游戏是政治
 
 连之前专注帮助大众扶墙(更新 Google Host)的 [老D](https://laod.cn) 到最后都备了案, 我可以认为真人大概已经被杀死了吧... 理想主义注定活不在这片土壤, 因为善良的人只会被当傻子和畜生被对待. 所以每当我遇到那些从心底里相信别人的人, 如此真诚的人, 我是多么震撼, 这片水泥地, 还有点点烛光立于之中...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1022114308)
+
 ## 时间真的随着长大在缩水
 
 以前记得帮父母照看下店里的生意极不愿意，现在抱着平板，电脑开了远程，键鼠搭配一梭子坐在椅子上就是一天，丝毫没有以前的恐惧还是其他，多的只是写在这里的时光匆匆的抱怨罢了
@@ -346,6 +387,9 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 我选择下次最晚回家, 不为别的, 我想逃离, 逃离未来, 这个未来行为高度不确定的父亲简直让我感觉是个定时炸弹,  你很少能从他身上感到欣慰, 多的是数不清的失望和愤怒...
 
 过去一个月我努力在做一件事情, 就是忽略那些不美好, 但是显然还是理想主义那一套, 我去他妈的, 都欺负到家了, 不服就干呗,
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1024881436)
+
 ## 昼短苦夜长，何不秉烛游
 
 匆匆 2022 已经过去 8%了，离开学只剩下十几天的时间了，自己琢磨下其实没有什么时间了，这个假期过得很正常，早早睡觉，早早起床，虽然确实帮忙照看家里花费了比较多的时间，分散了比较多的精力，但也确实没有办法。有时只能默默接受，年后尽量和老姐沟通让给我多一些时间。
@@ -360,6 +404,9 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 
 有时会有一种感觉, 这个家会把能干活的, 会干活的, 干到死, 而那些不会干活, 不愿意干活的, 会躺平到死...
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1025205823)
+
 ## 时光匆匆, 心态不易
 
 我一直渴望自己成为什么样的人, 一种可以同时承受不同生活, 游刃有余于不同身份的冲击的人, 但我可能忽略了一点, 有的事物间注定此消彼长, 不可根除.
@@ -373,11 +420,17 @@ How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤
 最魔幻的是, 我在叛逆期深受其影响, 也曾用这把不足为道的尺子中伤过父母, 属实惭愧.
 
 另一方面说, 一个如此需要我的家, 照看店铺需要我, 家务卫生需要我, 照顾猫咪需要我, 买东西预防欺诈需要我, 东西找不到也需要我, 我有时真的对此等生活的琐碎感到无力, 我也许需要适度发泄一下为妙. 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1027685551)
+
 ## 傻逼产品 
 
 ### 百度网盘
 
 属实被恶心到了, 只有正式版有链接订阅, 渠道版/PC端/网页版 都不给你上, 一个网盘连会员都要一起喂广告, 可不可以问问企业良心是什么? 在哪里? 你们把用户当成了什么???
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1030123434)
+
 ## 焦虑, 而后惶惶不可终日
 
 今天为了考研/工作的事情焦虑, 为了自己瞎花钱, 冲动消费而焦虑, 为自己没有好好比对商品而焦虑 为开学而焦虑, 为不远的看家而焦虑, 为持续付出而无回报的家庭劳动而焦虑, 为父母身体式微而焦虑......
@@ -412,6 +465,9 @@ Then, try following filed to research:
 ### Links
 
 - https://www.v2ex.com/t/805311#;
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1030185930)
+
 ## 2月来的头脑风暴
 
 ### 希望, 绝望, 宗教, 救赎
@@ -482,6 +538,9 @@ _Everything is fucked_
 新的我蜷缩角落, 第一次觉得女性外嫁的疏离感
 
 说实话, 我最近才发现, 很羡慕别人家的父亲, 也许如此, 我会变得能突出几字来, 而不是保持沉默
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1033799383)
+
 ## 斟酌自己唯几的业余爱好
 
 via: https://letters.acacess.com/daily-productive-sharing-381/
@@ -510,6 +569,9 @@ via: https://letters.acacess.com/daily-productive-sharing-381/
 __连爱好都要考虑变现的我, 自己都觉得可悲.__
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1041886845)
+
 ## 一个自卑的民族有他妈的大问题
 
 在中国, 什么小问题都会放大数倍不止, 为什么? 人口基数啊!
@@ -532,6 +594,9 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
 
 我们不能因为海水很大就淡化自己的垃圾行为, 因为如果每一个人都这样想, 那这就是个粪坑, 最后任由谁舀上来的, 都是一坨屎.
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1086781735)
+
 ## 我讨厌体制, 我不念书了
 
 其实一大部分原因是我融入不了那个如香饽饽的体制, 你可以发现一切私企所提供的待遇都不如一个好体制的基本盘, 加上私企变本加厉的996, 985, 实在是用命换钱, 好一个钱命紧相连....
@@ -540,6 +605,9 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
 
 几年前想通过考研换所城市，但看这今年的形势真的是稍微挂得上名的都逼近400，我要躲在这穷乡僻壤到什么时候，还是出来工作吧，没差
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1086783057)
+
 ## 说唱述说着这个世界的复杂
 
 很惊艳是 19 年的歌, 无法改变, 一起摆烂
@@ -547,9 +615,15 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
 ![image](https://user-images.githubusercontent.com/57313137/161755571-750e8d20-8ed6-4ddf-acaa-3ab6351c774f.png)
 
 从最开始的纯乐, 到后来的爵士, 民谣, 说唱, 都在述说着这个世界的颠簸和复杂 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1088655346)
+
 ## 我们永远无法弥补现在, 所以尽兴
 
 过去的悲哀就真的成了过去的悲哀，未来你想补都补不回来，没有那个环境，心境，再多的也只是悲哀，我替我的童年感到悲哀，虽说不上悲惨，但距离我想的人生 还是要差一大截
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089019348)
+
  ## 陈词滥调之百度
 
 常年使用百度的后果就是闻到什么干货的味道就疯狂往收藏夹里塞，之后这辈子也不再看一眼
@@ -560,6 +634,9 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
 
 
 ![image](https://user-images.githubusercontent.com/57313137/161804965-92778974-3ab6-49b3-a508-554cf587b657.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089023504)
 
 ## 我想被爱, 我好痛苦
 
@@ -578,14 +655,26 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
  不如就此放过自己，相见不如怀念，那段囚笼里阳光灿烂的日子也就只能这样了，童年玩伴也只能到这了。
 
 完
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089033284)
+
 ## 养猫和养人一样
 
 如果没能做好百分百的容纳准备, 如果没能好好的照顾好养育之物的情绪等因素, 不如不养, 父亲的很多事情我不想插足, 因为我没有那么多时间, 那样很累, 也不讨好, 但是父亲显然已经不具备养猫的能力了, 或者说大部分情况下都不具备, 和他生活在一起你不知道什么时候会出糗尴尬, 这是这么多年始终没有改变的.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1091137388)
+
 ## 演好自己的角色好难
 
 不敢换 iphone, 舍不得, 但是又也别馋 IOS.
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094091735)
+
 我能感觉到我对父亲抱有极大的偏见，因为同一件事情如果父亲做的我会拿放大镜🔎去找茬去抨击他，反而是我自己根本没有那种本领却要求他人拥有，我真是个傻逼
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094547269)
+
 
 当我发现流传到网络上的天空高度相似的时候
 我意识到这是一个无聊到何种地步的世界
@@ -595,11 +684,17 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
 一种声音
 一个标准
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094583695)
+
 ## 离心难归位
 
 四月来一直过得太安逸了，目标太大落脚太小目标达不到，很挫败了可以说，还有多到数不清的todo list，让人松不了气。
 
 但是就算这样，才要加把劲吧，不能把专注力丢了啊，不能成为一个只会看短视频，嫌麻烦，放弃思考的废物啊
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1101182362)
+
 ## 自我 AV 模板
 
 
@@ -615,12 +710,21 @@ __连爱好都要考虑变现的我, 自己都觉得可悲.__
 
  
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1114111316)
+
 ## 如果我未曾把你生下来, 我想你会感谢我
 
 我时常想象我有这样一个孩子, 尽管我只是才二十几岁, 我想象着我的孩子他理解我
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1124417703)
+
 ## What I Regret to Buy. Are You?
 
 Almost everybody in this era like to recommand sth to you such as, "this is awsome!", "fatanstaic"
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1124417759)
+
 ## 你应该着重关注报错的具体信息, 而不是浮于表面的说它报错了
 
 比如: 报的具体错误类型, 排查日志的 Log 文件, 而不是单方面的说它出错了, 因为错误并非函数关系, 是满射类型, 我们有时就无法得到正确信息.
@@ -629,12 +733,21 @@ Almost everybody in this era like to recommand sth to you such as, "this is awso
 
 - wrong: [ode用女神异闻录5汉化补丁方法 - PS4/PS3软硬技术区 - A9VG电玩部落论坛 - Powered by Discuz!](https://bbs.a9vg.com/thread-5367079-1-1.html )
 - right: [Problems with Persona 5 (NPEB02436) 01.00 : rpcs3](https://www.reddit.com/r/rpcs3/comments/h0wpop/problems_with_persona_5_npeb02436_0100/ )
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1130200096)
+
 ## 毫无意义的动作 actions 不要追求一次做完
 
 我认为需要为自己必须要一次性做完，做到底的事情拉一个清单，反而对那些不那么重要，没有必要今天做完的琐碎事情做出警示，因为那些琐碎的事情会随着时间变化而变化，到时候琐碎的事情就会变得更多，如果总是放任自己在那些鸡毛蒜皮的小事上，虽然我们说一花一世界，小小的世界蕴含大道理，但是这样却一点都不值得浪费你宝贵的时间
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1139821961)
+
 ## 不记得内容但是很开心的梦
 
 像是在异世界我有个幼驯染，长大了却比我高了，我们在城镇里奔跑，拉着手，和小时候一样，我不记得这个梦的上下文了，但是我知道我很喜欢她，这个梦很开心
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1140355650)
+
 
 
 # make(mark) Updated at 2022-05-26
@@ -705,6 +818,9 @@ https://github.com/scandum/quadsort
        }
     }
 ```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1003934807)
+
 ## Five timeless lessons
 
 https://www.productlessons.xyz//article/timeless-lessons-amazon-unbound-book
@@ -717,6 +833,9 @@ https://www.productlessons.xyz//article/timeless-lessons-amazon-unbound-book
 - 只有在不便的情况下坚持下去，价值观才是价值观
 - 像对待银行一样对待客户信任——投入多于投入
 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1013805631)
 
 ## Git Messages
 
@@ -732,11 +851,17 @@ perf: 增加代码进行性能测试
 test: 增加测试用例
 chore: 改变构建流程、或者增加依赖库、工具等
 ``` 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1016759576)
+
 ## Tutorials
 
 | Name | Urls | Mark | 
 | ---- | ---- | ---- |
 | Requests | https://docs.python-requests.org/zh_CN/latest/user/quickstart.html | 至少有一点代码片段可以参考, 官方有点多...|
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1016761620)
+
 ## 内容消费, 拿捏事实和观点, 转变为目的导向
 
 via: https://github.com/bluebird2046/iPad-Pro-Productivity/blob/master/02%20%E5%86%85%E5%AE%B9%E6%B6%88%E8%B4%B9/05.md
@@ -771,6 +896,9 @@ via: https://github.com/bluebird2046/iPad-Pro-Productivity/blob/master/02%20%E5%
 
 对于不满足上述要求的内容，一定要大胆、果断地删掉或关闭网页，你必须相信，**互联网是一个巨大的内容仓库，当你有明确的需求，从而知道需要什么内容时，你一定会找得到，而在需求明确之前，不要收藏**。
  
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1017598943)
+
  ## 为什么不选择一些对新手更加友好的入门方式呢?
 
 via https://www.v2ex.com/t/829253
@@ -783,11 +911,17 @@ via https://www.v2ex.com/t/829253
 
 ![Untitled-1](https://user-images.githubusercontent.com/57313137/150507011-8fc0ebde-bf3f-45d5-8a29-16377be45e8a.png)
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1018349525)
+
 ## Lang Mark
 
 | Content | Meaning | 
 | ---- | ----| 
 | 译巴仙 | percent, 在广州话中可以夹带英语, 一齐来讲的. 百份之五就读：五个 percen | 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1018455297)
+
 ## 奶水的牌子
 
 via: http://dostoe.blogspot.com/2017/08/blog-post.html?m=1
@@ -795,12 +929,18 @@ via: http://dostoe.blogspot.com/2017/08/blog-post.html?m=1
 > 過去、現在、未來在時間上是一線，但兩點決定一線，所以調整「過去」就能和「現代」連成指向不一樣的「未來」。或者「過去」和「未來」連成一線，而把「現在」抛出線外而滅之。
 > 
 > 未來的落點在何方，隨時在微調。
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1024842741)
+
 ## 一种对自由的定义
 
 要不要打击，包含轮子之类的邪教或是什么. via:
 
 1. https://github.com/privacy-protection-tools/anti-AD
 2. https://github.com/Mosney/anti-anti-AD
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1024867901)
+
 ## 笔记本小抄
 
 via: https://chnhi.github.io/lxzdy/
@@ -817,6 +957,9 @@ via: https://chnhi.github.io/lxzdy/
   - Zen3（5000系）游戏性能出现严重倒退，台式机开启FMAX，定频定压，调整EDC电流至300~400A以上可以解决问题，笔记本还要等厂商更新BIOS。
   - 尽量买带mux显卡切换独显直出的机型。
 - 黑名单：华硕笔记本官方售后公然使用消费者返修笔记本进行挖矿，https://www.bilibili.com/video/av803092636
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1024932991)
+
 ## 404 
 
 - 年轻人不能躺平的相关问题, via: https://www.v2ex.com/t/798772
@@ -866,6 +1009,9 @@ via: https://chnhi.github.io/lxzdy/
 > 要向上看，向远看，不要看这些躺平的蝼蚁，他们不及你们的十万百万分之一。
 >
 > 加油吧，资本人。
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1024948263)
+
 ## 我们倒闭了
 
 via:  [wxUrl](https://mp.weixin.qq.com/s?__biz=Mzg5ODcxMjU5Nw==&mid=2247483667&idx=1&sn=f129ea290af7be4bbd34d9b16b9e0e5f&chksm=c05f1469f7289d7fee9c009ad07aa850e70123f43befcd5e76f2ddc51f0950903815c17c6308&scene=21#wechat_redirect)
@@ -873,6 +1019,9 @@ via:  [wxUrl](https://mp.weixin.qq.com/s?__biz=Mzg5ODcxMjU5Nw==&mid=2247483667&i
 > 为什么要阅读？一个人为何要阅读？
 > 
 > 我们为此讨论了很久。我们有不同的看法，但最后我们发现，这个问题的答案并不重要，至少对动手做事情来说。因为我们并不需要、或者并不可能去说服一个不想阅读的人「你应该阅读」。我们要做的，是当一个人产生阅读的想法时，恰好出现在他的面
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1025058102)
+
 ## 2047 Links
 
 via: https://2047.one/links
@@ -1189,12 +1338,21 @@ via: https://2047.one/links
 - Matrix https://matrix.org/ 分布式通信协议
 - PeerTube https://joinpeertube.org/ 分布式视频平台
 - 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1026636237)
+
 ## Proz, 一个翻译论坛
 
 via: https://www.proz.com/forum/chinese-34.html
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1027729330)
+
 ## 英文杂志 关于中国
 
 via: https://magazinelib.com/category/china/ & https://www.v2ex.com/t/828383
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1027769167)
+
 ## 关于内卷
 
 via: https://www.youtube.com/watch?v=9kaTRKWpuvQ
@@ -1205,9 +1363,15 @@ via: https://www.youtube.com/watch?v=9kaTRKWpuvQ
 2. 大公司撑腰
 3. 足够活跃的社区
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1048736214)
+
 ~~Moved [logseq](https://github.com/logseq/logseq).~~
 
 ~~Mainly with the help of telegram bot through chrome [extension](https://github.com/phguo/Send-to-Telegram-Chrome-extension) and Telegram saved messages. Thx!~~
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1067714742)
+
 ## Productivity Pron
 
 - [workspacer/workspacer: a tiling window manager for Windows](https://github.com/workspacer/workspacer)
@@ -1223,6 +1387,9 @@ via: https://www.youtube.com/watch?v=9kaTRKWpuvQ
   - 找到个挺有意思的 pron 网站😂 [Porn Dude](https://theporndude.com/zh )
 - [ ] [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other](https://kdeconnect.kde.org/ ): 跨平台互联工具, 体验确实一流, 但是会和代理软件 cfw 打架, 暂时不知道要怎么修复.
   - 在手机没有设置存储路径的时候会有无法发送的 Bug, 但是体验绝对好过手机厂商的优化.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1133934278)
+
 ## [Live chat 在线聊天服务](https://www.v2ex.com/t/542687#;) #tools
 
 - Re:amaze https://www.reamaze.com/products/chat
@@ -1262,6 +1429,9 @@ via: https://www.youtube.com/watch?v=9kaTRKWpuvQ
 - KARAKURI https://karakuri.ai/ - 来自日本的服务
 - Ada Support https://www.ada.support/
 - Channel.io http://channel.io/
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1133934289)
+
 ## [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/ )
 
 > “Programs must be written for people to read and only incidentally for machines to execute.” -- MIT professor Hal Abelson
@@ -1352,6 +1522,9 @@ Once I wrote my blog to comments (knowledge, archive progress and feeling). That
   - `TODO`: No problem, but additional code needs to be written, usually when you are skipping something.
 
 (Correct time: 210831)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1137696759)
+
 ## 书签
 via: [Links](https://duchengqian.com/pages/links.html )
 ### 个人收藏
@@ -1530,6 +1703,9 @@ via: [Links](https://duchengqian.com/pages/links.html )
 - [notion style avatar generator - build and customize illustrations](http://cvbox.org/)
 
 
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1138411700)
+
+
 
 # log(bug) Updated at 2022-05-25
 ## 摇摆不定的互联网
@@ -1542,20 +1718,34 @@ via: [Links](https://duchengqian.com/pages/links.html )
 
 - [ ] https://github.com/trojan-gfw
 
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7)
+
 ## 整理房间
 
 - 绕线: 正一圈, 反一圈. via: https://www.bilibili.com/video/BV11s411f7Aj
 - 电工接线: https://www.bilibili.com/video/BV1nA411L7yf
 - 捯饬: 维生素E => 祛痘
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1003732232)
+
 ## 英文自查
 
 - 图画: Paint / `win+r` -> `mspaint`
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1003931645)
+
 ## 传播已出版书籍内容的视频算侵权吗? 多少算?
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1006577715)
+
 ## 吃人条款
 
 - Tencent WeChat 
 - Netease Music
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1006578506)
+
 ## Windows
 
 - 看不懂的迷幻操作
@@ -1588,6 +1778,9 @@ via: [Links](https://duchengqian.com/pages/links.html )
 - [ ] 怎么 安装 gem??
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1007953305)
+
 ## RSS
 
 - [ ] 找不到订阅 https://github.com/LCTT/TranslateProject/blob/master/published 的方法...
@@ -1604,6 +1797,9 @@ via: [Links](https://duchengqian.com/pages/links.html )
 
 - 专业知识储量
 - 组员放话, 但不干活
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1017789376)
 
 ## 电脑 
 
@@ -1634,6 +1830,9 @@ via: [Links](https://duchengqian.com/pages/links.html )
 - [芯片飞线] 难度拉满, 从引脚飞线出来一个按键(EC芯片). via: https://www.zhihu.com/question/53771647/answer/1566583028<img src="https://user-images.githubusercontent.com/57313137/150995669-47176831-a300-4355-a9f9-f63ae4de0c7c.png" height="240px" />
 
 - [ ] 所以暂时无解...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1019233686)
+
 ## 取消所有 star => unstar all repo
 
 也不是小气, 只是发现自己的 star 已经失去控制了, 太广泛了, 有的可能已经不再需要了, 但是再筛自己需要的又太多太难了, 简直是大海捞针, 索性全取消从头来过. 专注自己真正用到的几个仓库才是王道, 把精力放在刀刃上...
@@ -1650,6 +1849,9 @@ via:
 1. https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars
 2. https://stackoverflow.com/questions/50183402/github-api-how-to-get-list-of-users-who-have-starred-a-repo-and-cloned-it
 3. https://stackoverflow.com/questions/42503179/how-to-remove-github-repository-stars-older-than-two-years
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021217971)
+
 ## scoop 拉不到最新的版本
 
 安装哈希校验失败, 但是搜 issue 发现版本已经落后作者更新的 `json` 了,  执行安装该版本发现还是可以安装的...
@@ -1677,6 +1879,9 @@ git pull
 scoop config proxy 127.0.0.1:7890
 scoop config aria2-enabled false
 ```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021809568)
+
 ## [PP] 远程控制 
 
 一度认为 `TeamViewer` 是最优解, 但是今天发现国区也需要[绑定](https://community.teamviewer.com/English/discussion/92643/cant-validate-my-account-cant-recieve-sms) `+86` 的手机号... 之后发现手机号绑到另一个号上了, 得嘞, 上另外一个号, excuse me??? [You have no switches left???](https://community.teamviewer.com/English/discussion/110182/how-can-i-remove-devices-in-free-account) 合着我这辈子就只能在这个账户下用两台设备是吗??? 官方也没个回复, 嫖不到服务, delete account, 走了...
@@ -1712,6 +1917,9 @@ BQ24G-PDXE4-KKKRS-WBHZE-F5RCA
 via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.com/t/746154
 
 注意不要用 UDP 代替 TCP, 连接有时会断得很离谱. via: https://www.v2ex.com/t/507173 & https://www.nextofwindows.com/troubleshoot-and-improve-rdp-connections-with-udp
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021832774)
 
 ## 链路改装，刷固件
 
@@ -1808,11 +2016,17 @@ via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.c
 - [ ] 右键管理
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1023411363)
+
 ## Git 
 
 - submodule
   - `git submodule add https://github.com/yyy/xxx.git`
   - see https://knightyun.github.io/2021/03/21/git-submodule
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1037068425)
+
 ## Jekyll 整修记
 
 ### 可能会用到的 CSS 代码
@@ -1888,6 +2102,9 @@ tr:nth-child(n):hover td {
 }
 ```
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1041897827)
+
 ## Samsung 
 
 ### Galaxy App Booster
@@ -1895,6 +2112,9 @@ tr:nth-child(n):hover td {
 via: https://www.youtube.com/watch?v=riWyEKS4d-M
 
 using android feature via https://android-developers.googleblog.com/2019/04/improving-app-performance-with-art.html
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1046239653)
+
 ## Virtualbox
 
 腾讯会议 在 win7虚拟机 下绘制图形失败, 必须重启电脑
@@ -1929,6 +2149,9 @@ using android feature via https://android-developers.googleblog.com/2019/04/impr
 4. https://www.v2ex.com/t/805490
 5. https://www.v2ex.com/t/623493
 6. https://www.v2ex.com/t/284666
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1047750363)
+
 ## TTRSS Shortcuts | ttrss 快捷键
 
 I'm sorry that I couldn't found any related from offical [wiki](https://tt-rss.org/wiki.php) and other site. The only I found helpful site is unavailable now(via https://www.isitdownrightnow.com/ttrss.info.html).
@@ -1941,6 +2164,9 @@ And I found some shortcuts by myself except arrow keys and `j`/`k`/`n`(j = previ
 | `o` | Open Origin Url in new tab|
 | `space` | Scroll |
 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1065823971)
 
 ## Get Windows WLAN IP
 
@@ -2027,10 +2253,16 @@ The following sub-contexts are available:
 To view help for a command, type the command, followed by a space, and then
  type ?.
 ```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1083107220)
+
 ## 手机📱
 
 - 耳机连接声音有点大 情景模式
 - 几点之后设置静音🔇晚上通知容易吵着别人
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1091517326)
+
 ## 为什么对她这么不好
 
 她有没有曾为我做些什么 为什么总是要我去做她做不来的事情 自己去做不就好了 不要什么事情都找我 很烦
@@ -2044,6 +2276,9 @@ To view help for a command, type the command, followed by a space, and then
 果然应该为明天做更加具体的计划吗
 
 当然计划应该有剩余 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1091525603)
+
 ## Wget Here
 
 via: https://www.youtube.com/watch?v=Oe40pxcjPpM
@@ -2051,6 +2286,9 @@ via: https://www.youtube.com/watch?v=Oe40pxcjPpM
 ```shell
 wget --mirror --page-requisites --convert-link --no-clobber --no-parent --domains (root-domain) (url you want)
 ``` 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1110488840)
 
 ## Python 
 
@@ -2074,6 +2312,9 @@ python -m site
 ```shell
 pip install -r requirements.txt -t .
 ```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1114265643)
+
 ## Java 
 
 ### JDBC & Mysql
@@ -2175,6 +2416,9 @@ USE database_name;
 - [mysql - ERROR 1698 (28000): Access denied for user 'root'@'localhost' - Stack Overflow](https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost )
 - [JDBC快速入门教程 - JDBC教程™](https://www.yiibai.com/jdbc/jdbc_quick_guide.html )
 - [java - installing tomcat 9 on WSL - Stack Overflow](https://stackoverflow.com/questions/63312469/installing-tomcat-9-on-wsl )
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1120449446)
+
 ## WSL 
 
 - [ ] **resolv.conf** and **real IPv4** is different
@@ -2301,13 +2545,22 @@ USE database_name;
       //via: https://github.com/tjko/jpegoptim/issues/14
       ```
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1124025397)
+
 ## android browser download file cannot open(cannot find
 
 ![20220523_013824.png](https://user-images.githubusercontent.com/57313137/169709645-c3e6f95e-7aba-4fde-9357-2859b44198da.png)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1133946995)
+
 ## Privacy
 
 - 一键关闭所有传感器 via: [一键关闭所有传感器](https://www.bilibili.com/read/cv7551428 ) 
   - `Developer Options\Quick settings developer tiles\Sensors off`
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1136851336)
+
 
 
 # bought(sth) Updated at 2022-05-01
@@ -2321,13 +2574,21 @@ USE database_name;
 | | Kiwee 三明治双肩包| ￥499 | 找找替代把... 书包和挎包结合真的很吸引人|
 | 外设 | Logitech K400 Plus | ￥159 | 带触控板的键盘 |
 
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/6)
+
 ## 外设
 
 - 集线器, 供电和屏蔽
   -  https://v2ex.com/t/706037
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/6#issuecomment-1003940028)
+
 ## 各路吐槽
 
 - 什么时候春节都能正常发货，就一个挺小挺重要的东西就是都不发货。我从25号就开始被人浪的拍下不及时发货，过两天跟我说不发了？？两次了，真他🐴牛逼，前头说法，过两天又说不发了，特别喜欢浪费别人时间是吧
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/6#issuecomment-1023997439)
+
 ## 跨境消费
 
 ### Steam
@@ -2350,11 +2611,17 @@ USE database_name;
 - [说说我买国行 Switch 的唯一遗憾](https://v2ex.com/t/688481), 买游戏机
 - [Steam商店转区方案（2020年8月）](https://zhuanlan.zhihu.com/p/173719305)
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/6#issuecomment-1026493608)
+
 ## 家用监控
 
 昨晚一天都在 PDD 上买监控, 横向对比的都很少, 一开始听从网上大多数人的意见, 买了 小米云台2K, 其分辨率1296P显然不够2k, 也就是个 1080+, 垃圾宣传; 今天想了想以前的购机体验, 联想到是否支持电脑操作, 毕竟手机实时观看有点耗手机, 果不其然不支持, 艸, 傻逼小米, 电子产品都不能碰.
 
 最后在 萤石 (EZVIZ) C6CN 和 普联 (TP Link) IPC 44AN(W) 中在京东上 ￥179 买了后者, 感觉还算是一场理性的消费吧. AN & AW 的主要区别还是夜视方面, 前者无彩, 后者全彩. 44 和 43 代表几代 (像素大小). 详细看商家的纵向对比, 如淘宝...
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/6#issuecomment-1027545120)
 
 ## Stroage 
 
@@ -2394,6 +2661,9 @@ Reboot Disk and Replug it.
 - [求救计算机不显示移动硬盘，磁盘管理里面找不到。但是电脑上以显示设备接入该怎么办？ - 知乎](https://www.zhihu.com/question/31043908 )
 - [新买的移动硬盘该格式化为 NTFS 还是 exFAT？ - 知乎](https://www.zhihu.com/question/20448164 )
 
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/6#issuecomment-1112970493)
+
+
 
 # swipe(bangumi) Updated at 2022-04-26
 ## 虫师
@@ -2427,6 +2697,9 @@ Reboot Disk and Replug it.
 ![Screenshot_20220202-141845_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491964-352ab991-8d6f-40bb-a959-811e0d331fbb.png)
 ![Screenshot_20220206-003556_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491969-c3f127b2-97ae-456e-863d-202bfd94ad0d.png)
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019748522)
+
 ## 猜火车 Trainspotting
 
 - [57:20/1:33:50] 痛过之后, 战斗的序幕其实才拉开, 消沉, 厌世, 情绪低落, 不想做人
@@ -2439,12 +2712,21 @@ Reboot Disk and Replug it.
 - [1:00:00] 选择手提包; 选择高跟鞋, 羊绒跟丝绒让你自己感到快乐; 选择一部由一个跳出窗外的女人在中国生产的苹果手机 把手机放在刚从南亚服装血汗工厂生产出来的夹克口袋里面; 选择Facebook Twitter snapchat instargram; 还有一千种跟素不相识的人发泄愤怒的方法; 选择更新你的主页; 跟全世界公告你早饭吃了什么 然后希望在哪里会有什么人在乎; 选择找到旧爱; 拼命相信你看上去没他们那么糟; 选择博客直播, 从你第一次手淫到最后一口气; 人际交往减少到只剩数据; 选择十件你从不知道的 关于做过手术的名人的事; 选择攻击堕胎; 选择黄色笑话、荡妇羞辱、报复色情片以及让人压抑的无尽的厌女症; 选择911事件从未发生 若发生了，就是犹太人做的; 选择无约束力合约，通勤两小时去工作; 选择相同的给你孩子，只有更糟; 也许告诉你自己他们没出生会更好; 然后坐回去体会窒息的痛苦; 吸食着在某人厨房制作的 剂量不明确的不明毒品; 选择没有兑现的承诺，希望你可以选择不同的事; 选择永远不从你自己的错误中吸取教训; 选择看到历史重演; 选择逐渐认命 而不是你一直渴望的东西; 满足并认可贫穷; 选择失望; 选择失去你爱的人们; 随着他们的消失，你的一部分也会跟他们一同死去; 直到你看到未来某一天; 你就不会再谈论自己的生死了; 选择你的未来，维罗尼卡; 选择人生; 
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019893232)
+
 ![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093096970)
 
 ![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
 
 ![sScreenshot_20220409-011507_Gallery.png](https://user-images.githubusercontent.com/57313137/162490402-7f74ca30-480c-4b42-a9c6-bcc6ba88bfbf.png)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093104206)
+
 ![Screenshot_20220320-132429_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491488-f7a65456-b02f-4491-bf29-7188d78a6d14.png)
 ![Screenshot_20220331-010747_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491506-0ce12dcc-8ddc-49b1-900c-216aabc2014a.png)
 ![Screenshot_20220331-011406_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491511-01fdc4d3-3f78-458b-94d2-4c9ecaaf149c.png)
@@ -2453,19 +2735,37 @@ Reboot Disk and Replug it.
 ![Screenshot_20220331-013612_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491536-25fdabb1-b9ae-4abe-b790-0004002ec3f5.png)
 ![Screenshot_20220331-1055567666_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491541-1ed2a011-92ac-4359-b3f2-ebf08adf5778.png)
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093112004)
+
 ![Screenshot_20220215-022846_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491717-1fafb4bf-f62a-4e75-8515-edd680d364f1.png)
 ![Screenshot_20220215-022912_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491764-592d3d8a-f503-490e-85ab-0019600eb3b8.png)
 ![Screenshot_20220308-000635_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491777-9eaa081a-a56d-4a69-b67e-d8b85ebe38b4.png)
 ![Screenshot_20220308-001225_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491778-069d4b3d-085c-4a3a-b6d5-018f111a9a8d.png)
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113361)
+
 ![Screenshot_20220219-030003_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491819-4893ee9e-9481-4e08-9549-aba2005d98f2.png)
 ![Screenshot_20220219-042810_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491823-0d1c2515-fb5b-402d-a6b4-d5d33345d823.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113665)
 
 ## 乙女游戏世界对路人角色很不友好
 
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235601)
+
 ## 朋友游戏
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235722)
+
 ## 魔法师黎明期
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101236253)
+
 ## 间谍过家家
 
 我们说人的下半生从有了孩子开始，也许正是孩子的天真，纯粹，才能启发治愈着我们减少过度的社会化。第一集看到这个可爱的孩子真的是好单纯，好想哭😭
@@ -2473,6 +2773,9 @@ Reboot Disk and Replug it.
 ### 什么鬼吐槽
 
 ![20220426_230104.jpg](https://user-images.githubusercontent.com/57313137/165331608-158374a6-10b1-4bb9-b9fe-932625d8b596.jpg)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1109470565)
+
 
 
 # play(game) Updated at 2022-04-20
@@ -2485,6 +2788,9 @@ Reboot Disk and Replug it.
 因为女主也拿着锤子, 让我想起了小时候玩的一款手机单机游戏--<<小红帽穿越大冒险>>, 当时等级卡关, 还用十六进制修改器作弊来. 有那么一瞬间非常的怀念, 甚至认为是一家出的
 
 <img src="https://user-images.githubusercontent.com/57313137/151915581-81889ab3-8bb0-4943-96e6-827b9c05f344.png" width="50%">
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/5#issuecomment-1026484108)
 
 > Warning:
 >     1. 本文有不可避免的大量[b]剧透[/b], 剧情吐槽, 还没有玩的朋友请赶紧关掉 (bgm09)
@@ -2629,9 +2935,15 @@ Reboot Disk and Replug it.
   「在即将告别人世的时候，人们最害怕的，就是自己还有未了的遗憾」
 - 和艾莉斯曾经对我抱持的感觉一样，我也一直都在心底的某处，对她怀有一丝依恋。
 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/5#issuecomment-1098732752)
+
 ## 死馆
 
 重口是挺重口的, 大部分跳过了, 打发上厕所的时间😅
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/5#issuecomment-1098822812)
+
 
 
 # read(book) Updated at 2022-02-01
@@ -2648,12 +2960,33 @@ Reboot Disk and Replug it.
 > ——蔡智恒《夜玫瑰》
 
 突然很想读一下他的书, 先 Mark 下.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1008560846)
+
 ## 工作, 消费主义和新穷人
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777770)
+
 ## 沉默的大多数
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777951)
+
 ## 伤逝
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778133)
+
 ## 新的一天
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778245)
+
 ## 孩子们的诗
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778527)
+
 ## 如果没有今天. 明天会不会有昨天
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778806)
+
 ## 你当像鸟飞向你的山
 
 我一直以为是本小说，读到最后的致谢才发现其实是本回忆录，确是又惊又喜。
@@ -2665,6 +2998,9 @@ Reboot Disk and Replug it.
 结尾收束那部分总感觉和《蛤蟆先生去看心理医生》有些许共通之处，暂时就留给下次阅读吧。
 
 
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1026485210)
+
+
 
 # listen(podcast) Updated at 2022-01-02
 ## 圆桌04：谈谈恋爱. 
@@ -2673,6 +3009,9 @@ Reboot Disk and Replug it.
 - 如果连表白都需要鼓起勇气, 走三步退两步, 我觉得这个表白还是不要做了, 因为就算成功, 那未来的日子到底还需要多少个这样的瞬间? 这样太累了.
 - 如果你也害怕, 我也不愿意迈出第一步, 那么放心, 这段关系是永远都没有办法开始的, 总要有人先主动, 承担所有责任
 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/2#issuecomment-1003641879)
 
 
 
