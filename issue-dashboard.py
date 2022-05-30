@@ -10,16 +10,18 @@ def write_issue_to_file(issues, file):
                     issue.updated_at.strftime("%Y-%m-%d") + '\n')
             if issue.body is not None:
                 f.write (issue.body + '\n')
+                f.write ('[⚓ Anchor of above parts](' + issue.html_url + ')\n\n')
             comments=issue.get_comments()
             for comment in comments:
-                f.write(comment.body + '\n')
+                f.write(comment.body + '\n\n')
+                f.write('[⚓ Anchor of above parts](' + comment.html_url + ')\n\n')
             f.write ('\n\n')
             print('Finished with ' + issue.title)
     f.close()
 
 if __name__ == '__main__':
     file = 'readme.md'
-    repoUrl = 'bgzocg/2022'
+    repoUrl = 'bgzo/2022'
 
     token = sys.argv[1]
     g = Github(token)
