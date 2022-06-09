@@ -1,4 +1,14 @@
-- [log(bug) Updated at 2022-06-08](#logbug-updated-at-20220608)
+- [read(book) Updated at 2022-06-09](#readbook-updated-at-20220609)
+    - [蔡智恒](#蔡智恒)
+    - [工作, 消费主义和新穷人](#工作-消费主义和新穷人)
+    - [沉默的大多数](#沉默的大多数)
+    - [伤逝](#伤逝)
+    - [新的一天](#新的一天)
+    - [孩子们的诗](#孩子们的诗)
+    - [如果没有今天. 明天会不会有昨天](#如果没有今天-明天会不会有昨天)
+    - [你当像鸟飞向你的山](#你当像鸟飞向你的山)
+    - [凡人修仙传](#凡人修仙传)
+- [log(bug) Updated at 2022-06-09](#logbug-updated-at-20220609)
     - [整理房间](#整理房间)
     - [英文自查](#英文自查)
     - [传播已出版书籍内容的视频算侵权吗? 多少算?](#传播已出版书籍内容的视频算侵权吗-多少算)
@@ -60,6 +70,7 @@
     - [RainDrop cannot select by mouse, Raindrop 无法选中](#raindrop-cannot-select-by-mouse-raindrop-无法选中)
         - [✔ Bookmarklet Replace Tag CSS](#-bookmarklet-replace-tag-css)
         - [❌ Script](#-script)
+    - [抓包](#抓包)
 - [thought(message) Updated at 2022-06-06](#thoughtmessage-updated-at-20220606)
     - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
         - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
@@ -196,20 +207,75 @@
     - [~~友好~~ 的吐槽](#友好-的吐槽)
     - [一点点对话](#一点点对话)
     - [死馆](#死馆)
-- [read(book) Updated at 2022-02-01](#readbook-updated-at-20220201)
-    - [蔡智恒](#蔡智恒)
-    - [工作, 消费主义和新穷人](#工作-消费主义和新穷人)
-    - [沉默的大多数](#沉默的大多数)
-    - [伤逝](#伤逝)
-    - [新的一天](#新的一天)
-    - [孩子们的诗](#孩子们的诗)
-    - [如果没有今天. 明天会不会有昨天](#如果没有今天-明天会不会有昨天)
-    - [你当像鸟飞向你的山](#你当像鸟飞向你的山)
 - [listen(podcast) Updated at 2022-01-02](#listenpodcast-updated-at-20220102)
     - [圆桌04：谈谈恋爱.](#圆桌04谈谈恋爱)
 
 
-# log(bug) Updated at 2022-06-08
+# read(book) Updated at 2022-06-09
+## 蔡智恒
+
+在 [Demon](http://demon.tw/about) 的博客里看到这样一句话:
+
+> 寂寞确实跟孤单不一样，孤单只表示身边没有别人。
+> 
+> 但寂寞是一种，你无法将感觉跟别人沟通或分享的心理状态。
+> 
+> 而真正的寂寞应该是，连自己都忘了，喜欢一个人的感觉。
+> 
+> ——蔡智恒《夜玫瑰》
+
+突然很想读一下他的书, 先 Mark 下.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1008560846)
+
+## 工作, 消费主义和新穷人
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777770)
+
+## 沉默的大多数
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777951)
+
+## 伤逝
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778133)
+
+## 新的一天
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778245)
+
+## 孩子们的诗
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778527)
+
+## 如果没有今天. 明天会不会有昨天
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778806)
+
+## 你当像鸟飞向你的山
+
+我一直以为是本小说，读到最后的致谢才发现其实是本回忆录，确是又惊又喜。
+故事主要冲突依旧体现在原生家庭，暴力和宗教方面，引述书中的陈述，大致就是
+
+> 我意识到除了理查德和泰勒，我所有的兄弟姐妹都在经济上依赖着我父母。我的家人从中间一分两半——三个离开了大山，四个留了下来。三个获得博士学位，四个没有高中文凭。裂痕已经出现，而且越来越深
+
+生活的多元也让自己多少能中同理一二。个人最喜欢的部分是主人公到杨百翰中求学的心理冲突，因为和个人的部分经历重叠，有比较多的共鸣。
+结尾收束那部分总感觉和《蛤蟆先生去看心理医生》有些许共通之处，暂时就留给下次阅读吧。
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1026485210)
+
+## 凡人修仙传
+
+修仙小说用词就这么夸张吗?  看着就像是个本子
+
+玉腕, 展颜, 艳容 ...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1150583570)
+
+
+
+# log(bug) Updated at 2022-06-09
 ## 整理房间
 
 - 绕线: 正一圈, 反一圈. via: https://www.bilibili.com/video/BV11s411f7Aj
@@ -1429,6 +1495,17 @@ for(var i=0;i<mark[i].length;i++){
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1149723834)
+
+## 抓包
+
+- [ ] 极客时间超链接跳转
+    - 猜测是把跳转网址记录到缓存里面 (请求回来的数据里有 `<a>` 标签, 但是 HTML 文档里面没有出现).
+![image](https://user-images.githubusercontent.com/57313137/172740797-db518878-99b0-4fd2-a654-75f5e5ba3c18.png)
+![image](https://user-images.githubusercontent.com/57313137/172740804-318c4fcd-b222-47eb-a046-caba632c2320.png)
+![image](https://user-images.githubusercontent.com/57313137/172742199-090f1b46-fe16-4978-8f3b-eae0b934b1d5.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1150561836)
 
 
 
@@ -3472,62 +3549,6 @@ Reboot Disk and Replug it.
 重口是挺重口的, 大部分跳过了, 打发上厕所的时间😅
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/5#issuecomment-1098822812)
-
-
-
-# read(book) Updated at 2022-02-01
-## 蔡智恒
-
-在 [Demon](http://demon.tw/about) 的博客里看到这样一句话:
-
-> 寂寞确实跟孤单不一样，孤单只表示身边没有别人。
-> 
-> 但寂寞是一种，你无法将感觉跟别人沟通或分享的心理状态。
-> 
-> 而真正的寂寞应该是，连自己都忘了，喜欢一个人的感觉。
-> 
-> ——蔡智恒《夜玫瑰》
-
-突然很想读一下他的书, 先 Mark 下.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1008560846)
-
-## 工作, 消费主义和新穷人
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777770)
-
-## 沉默的大多数
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777951)
-
-## 伤逝
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778133)
-
-## 新的一天
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778245)
-
-## 孩子们的诗
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778527)
-
-## 如果没有今天. 明天会不会有昨天
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778806)
-
-## 你当像鸟飞向你的山
-
-我一直以为是本小说，读到最后的致谢才发现其实是本回忆录，确是又惊又喜。
-故事主要冲突依旧体现在原生家庭，暴力和宗教方面，引述书中的陈述，大致就是
-
-> 我意识到除了理查德和泰勒，我所有的兄弟姐妹都在经济上依赖着我父母。我的家人从中间一分两半——三个离开了大山，四个留了下来。三个获得博士学位，四个没有高中文凭。裂痕已经出现，而且越来越深
-
-生活的多元也让自己多少能中同理一二。个人最喜欢的部分是主人公到杨百翰中求学的心理冲突，因为和个人的部分经历重叠，有比较多的共鸣。
-结尾收束那部分总感觉和《蛤蟆先生去看心理医生》有些许共通之处，暂时就留给下次阅读吧。
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1026485210)
 
 
 
