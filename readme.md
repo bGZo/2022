@@ -1414,7 +1414,10 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
     check_hostname requires server_hostname
     ```
     - [x] Alternative: [anki-dict-helper](https://github.com/ninja33/anki-dict-helper), ODH's father.
-  - [ ] Ubuntu still existed proxy?
+    - [ ] Ubuntu still existed proxy?
+    - [Dict2Anki（有道,欧陆词典单词本同步工具） - AnkiWeb](https://ankiweb.net/shared/info/1284759083 )
+    - [(9.15)GoldenDict & 欧路 取词完美版(AHK) - GoldenDict - 掌上百科 - PDAWIKI - Powered by Discuz!](https://www.pdawiki.com/forum/thread-23696-1-1.html?x=304213 )
+    - [Import from Excel with html formatting (bold text when present) and return lines when present within the cells? : Anki](https://www.reddit.com/r/Anki/comments/3wbrun/import_from_excel_with_html_formatting_bold_text/ )
 - [WebCull - Ad-Free and Privacy-Focused Bookmark Manager](https://webcull.com/ )
   - inspired by [yodhcn的收藏夹 - WebCull](https://app.webcull.com/w/yodhcn), 小众放弃😂
   - 找到个挺有意思的 pron 网站😂 [Porn Dude](https://theporndude.com/zh )
