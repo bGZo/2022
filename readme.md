@@ -1,4 +1,4 @@
-- [thought(message) Updated at 2022-06-13](#thoughtmessage-updated-at-20220613)
+- [thought(message) Updated at 2022-06-14](#thoughtmessage-updated-at-20220614)
     - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
         - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
         - [边缘人群注定痛苦](#边缘人群注定痛苦)
@@ -67,6 +67,7 @@
     - [失落的宠儿](#失落的宠儿)
     - [相见不如怀念](#相见不如怀念)
     - [寻觅内心的声音](#寻觅内心的声音)
+    - [Day Trivia](#day-trivia)
 - [log(bug) Updated at 2022-06-11](#logbug-updated-at-20220611)
     - [整理房间](#整理房间)
     - [英文自查](#英文自查)
@@ -213,7 +214,7 @@
     - [圆桌04：谈谈恋爱.](#圆桌04谈谈恋爱)
 
 
-# thought(message) Updated at 2022-06-13
+# thought(message) Updated at 2022-06-14
 ## 一个新兴的行业 -- 内容审查
 
 我不明白叫嚣着推进全球化, 为何却还要移除掉跨国公司的经营许可, 可能两者不是一件事情, 但还是要用人家开源的技术去开发自己的轮子, 忽视他人的许可证, 魔改代码, 套个皮, 加层接口, 做商业化. 拒不认账, 拒不开源.
@@ -907,6 +908,14 @@ Almost everybody in this era like to recommand sth to you such as, "this is awso
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1152896181)
+
+## Day Trivia
+
+你知道吗? 
+
+你要感到庆幸, 在猫打翻水杯的时候, 父亲就在旁边, 恰巧有他可以帮你你收拾残局, 要不然你损失的就不是 3 个键帽支持和 1 个键帽了. 这次事件过后我为我的水杯盖上了盖子, 在离开书桌前确认收拾好自己的桌面, **确保不给猫猫留什么马脚**, 好让这只猫钻了空子. 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1155301482)
 
 
 
