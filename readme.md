@@ -1,4 +1,4 @@
-- [thought(message) Updated at 2022-06-14](#thoughtmessage-updated-at-20220614)
+- [thought(message) Updated at 2022-06-16](#thoughtmessage-updated-at-20220616)
     - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
         - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
         - [边缘人群注定痛苦](#边缘人群注定痛苦)
@@ -68,7 +68,9 @@
     - [相见不如怀念](#相见不如怀念)
     - [寻觅内心的声音](#寻觅内心的声音)
     - [Day Trivia](#day-trivia)
-- [log(bug) Updated at 2022-06-11](#logbug-updated-at-20220611)
+    - [权力一旦让渡 就再也收不回来了](#权力一旦让渡-就再也收不回来了)
+    - [我能完整吗？就算我知道并不可能](#我能完整吗就算我知道并不可能)
+- [log(bug) Updated at 2022-06-16](#logbug-updated-at-20220616)
     - [整理房间](#整理房间)
     - [英文自查](#英文自查)
     - [传播已出版书籍内容的视频算侵权吗? 多少算?](#传播已出版书籍内容的视频算侵权吗-多少算)
@@ -129,7 +131,7 @@
     - [人体工程学, 表面解决腰酸背痛问题](#人体工程学-表面解决腰酸背痛问题)
     - [Productivity Pron](#productivity-pron)
     - [抓包](#抓包)
-- [make(mark) Updated at 2022-06-11](#makemark-updated-at-20220611)
+- [make(mark) Updated at 2022-06-16](#makemark-updated-at-20220616)
     - [Code Review Mark](#code-review-mark)
         - [Telegram API](#telegram-api)
         - [Web Latex Supported](#web-latex-supported)
@@ -171,6 +173,7 @@
         - [个人收藏](#个人收藏)
         - [书签菜单](#书签菜单)
         - [阅读列表](#阅读列表)
+    - [iPhone](#iphone)
 - [read(book) Updated at 2022-06-09](#readbook-updated-at-20220609)
     - [蔡智恒](#蔡智恒)
     - [工作, 消费主义和新穷人](#工作-消费主义和新穷人)
@@ -214,7 +217,7 @@
     - [圆桌04：谈谈恋爱.](#圆桌04谈谈恋爱)
 
 
-# thought(message) Updated at 2022-06-14
+# thought(message) Updated at 2022-06-16
 ## 一个新兴的行业 -- 内容审查
 
 我不明白叫嚣着推进全球化, 为何却还要移除掉跨国公司的经营许可, 可能两者不是一件事情, 但还是要用人家开源的技术去开发自己的轮子, 忽视他人的许可证, 魔改代码, 套个皮, 加层接口, 做商业化. 拒不认账, 拒不开源.
@@ -917,9 +920,33 @@ Almost everybody in this era like to recommand sth to you such as, "this is awso
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1155301482)
 
+## 权力一旦让渡 就再也收不回来了
 
 
-# log(bug) Updated at 2022-06-11
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1157535398)
+
+## 我能完整吗？就算我知道并不可能
+
+我渴望爱，渴望得到那诱人的另一半，我渴望填补我内心的空虚，我想这条我想走的路就是交媾，我希望能用那片刻的欢愉堵住生活中的这黑洞。
+
+但是我知道其实其实没有人能够完整，在这个世界上，在我还没怎么活明白的时候人生就这样坦坦荡荡地在我面前铺开，没有太多的波澜，甚至连一点点期待都没有，我所浸泡着的，这几十年来给我营造的幻觉就是一种无法原谅的幻灭，我多么希望能早点看透这操蛋的生活，但是我不能，那些被灌输的想法连我自己都没有办法觉察，等回过头来就是这种连求死都做不到的懦弱的人了。
+
+天啊，粗略极端了一下，可能这辈子都娶不到wjr了，我要怎么办。日日活在幻想这她的未来吗？
+
+我该如何面对我的真心，面对这个巨大惯性的社会，她是个好女孩，理应获得最美好的人，我多么希望我就是，但我不是，我就是那种大赤贫阶级，生活在一丝丝中产的幻觉中，如果一日发生意外，我将知道这是下一层幻灭。这个社会让我病不起，生不起，买不起，信不起，唯独人人都要和你说一遍，不许死。
+
+简直是何不食肉糜，简直是屁股决定脑袋，简直是跪久了就站不起来的那批人。我知道我要糊口，我就必须要为我热爱的互联网上糊 shit，也许我唯一能做的就是慢慢梳理我的逻辑，让我今后的人生和工作不要那么多 error。减少糊 shit，从今天开始。
+
+
+草，怎么又励志了
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1157554112)
+
+
+
+# log(bug) Updated at 2022-06-16
 ## 整理房间
 
 - 绕线: 正一圈, 反一圈. via: https://www.bilibili.com/video/BV11s411f7Aj
@@ -2150,6 +2177,27 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
       ```
       全部都无效, 然后又尝试了 `parentNode.removeChild` 也还是不行, Chrome Extension 又会再次把 CSS 注入进来.
       也尝试用 Stylish, 但是应该是 css 加载顺序的问题, 总是不生效...
+- Add a Back2Top Button
+    - Due to CSP, some userscript wasn't allowed injected into pages, so them will not work, even can't repair without paied...
+    - ```javascript
+      //... also with tampermonkey beta
+      (function() {
+          'use strict';
+          var newHTML=document.createElement ('div');
+          newHTML.innerHTML='<style>#kotori{position:fixed;bottom:-10px;left:-10px;height:70px;width:70px;cursor:pointer;transition:.2s all;display:block;z-index:100}#kotori:hover{transform:translate(10px,-10px)}</style><img id="kotori" src="https://s1.ax1x.com/2022/05/11/OUqj3D.png" onclick="smoothscroll()">';
+          document.body.appendChild (newHTML);
+      
+          var scriptElem = document.createElement('script');
+          scriptElem.innerHTML = 'window.addEventListener("scroll",handleScroll);function handleScroll(){var scollTop=document.documentElement.scrollTop||document.body.scrollTop;var clientHeight=document.documentElement.clientHeight;if(scollTop>=clientHeight){document.querySelector("#kotori").style.display="block"}else{document.querySelector("#kotori").style.display="none"}}function smoothscroll(){var currentScrollTop=document.documentElement.scrollTop||document.body.scrollTop;if(currentScrollTop>0){window.requestAnimationFrame(smoothscroll);window.scrollTo(0,currentScrollTop-currentScrollTop/10)}};';
+          document.body.appendChild(scriptElem);
+      
+          var code = 'window.addEventListener("scroll",handleScroll);function handleScroll(){var scollTop=document.documentElement.scrollTop||document.body.scrollTop;var clientHeight=document.documentElement.clientHeight;if(scollTop>=clientHeight){document.querySelector("#kotori").style.display="block"}else{document.querySelector("#kotori").style.display="none"}}function smoothscroll(){var currentScrollTop=document.documentElement.scrollTop||document.body.scrollTop;if(currentScrollTop>0){window.requestAnimationFrame(smoothscroll);window.scrollTo(0,currentScrollTop-currentScrollTop/10)}};';
+          eval(code);
+      
+          let script_tag = GM_addScript('alert("works!");');
+      })();
+      // more details via: https://github.com/Tampermonkey/tampermonkey/issues/296
+    - 
 - ...
 
 
@@ -2168,7 +2216,7 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
 
 
 
-# make(mark) Updated at 2022-06-11
+# make(mark) Updated at 2022-06-16
 ## Code Review Mark
 
 ### Telegram API
@@ -3138,6 +3186,54 @@ via: [Links](https://duchengqian.com/pages/links.html )
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1138411700)
+
+## iPhone 
+
+via: https://blog.csdn.net/xiaohui_brook/article/details/109581453
+
+| 型号              | 年份    | 处理器    | 运存   | 容量↑         | 屏幕          | 电池               | 摄像头              | 特性                |
+| ----------------- | ------- | --------- | ------ | ------------- | ------------- | ------------------ | ------------------- | ------------------- |
+| iPhone 初代       | 2007.06 | ARM11     | 0.128G | 4G            | 3.5 寸 163PPI | 1400mAh            | 无前摄 后 200W      | 无实体键盘 超前设计 |
+| iPhone 3G         | 2008.06 | ARM11     | 0.128G | 8G            | 3.5 寸 163PPI | 1150mAh            | 无前摄 后 200W      | app store 3G 网络   |
+| iPhone 3Gs        | 2009.06 | S5PC100   | 0.256G | 8G            | 3.5 寸 163PPI | 1280mAh            | 无前摄 后 300W      | 视频拍摄            |
+| iPhone 4          | 2010.06 | A4        | 0.5G   | 8G            | 3.5 寸 326PPI | 1420mAh            | 前 30W 后 500W      | 视网膜屏            |
+| iPhone 4s         | 2011.10 | A5        | 0.5G   | 8G            | 3.5 寸 326PPI | 1430mAh            | 前 30W 后 800W      | 双核 CPU            |
+| iPhone 5          | 2012.09 | A6        | 1G     | 16G           | 4 寸 326PPI   | 1440mAh            | 前 120W 后 800W     | 屏幕变大 厚度变薄   |
+| iPhone 5c         | 2013.09 | A6        | 1G     | 16G           | 4 寸 326PPI   | 1510mAh            | 前 120W 后 800W     | 多彩机身            |
+| iPhone 5s         | |A7      | 1G        | 16G    | 4 寸 326PPI   | 1560mAh       | 前 120W 后 800W    | 指纹解锁 64 位 CPU  |                     |
+|                   |         | **64 位** |        |               |               |                    |                     | 指纹识别            |
+| iPhone 6          | 2014.09 | A8        | 1G     | 16G           | 4.7 寸 326PPI | 1810mAh            | 前 120W 后 800W     | 圆润机身            |
+| iPhone 6 Plus     | |A8      | 1G        | 16G    | 5.5 寸 326PPI | 2915mAh       | 前 120W 后 800W    | 大屏 光学防抖       |                     |
+| iPhone 6s         | 2015.09 | A9        | 2G     | 16G           | 4.7 寸 326PPI | 1715mAh            | 前 500W 后 1200W    | 3D Touch 二代指纹   |
+| iPhone 6s Plus    | |A9      | 2G        | 16G    | 5.5 寸 326PPI | 2750mAh       | 前 500W 后 1200W   | 3D Touch 二代指纹   |                     |
+| iPhone se 1 代    | 2016.03 | A9        | 2G     | 16G           | 4 寸 326PPI   | 1642mAh            | 前 120W 后 1200W    | 小屏旗舰            |
+| iPhone 7          | 2016.09 | A10       | 2G     | 32G           | 4.7 寸 326PPI | 1960mAh            | 前 700W 后 1200W    | IP67 防水 压感 Home |
+| iPhone 7 Plus     | |A10     | 3G        | 32G    | 5.5 寸 326PPI | 2900mAh       | 前 700W 后 1200W*2 | 长焦双摄            |                     |
+| iPhone 8          | 2017.09 | A11       | 2G     | 32G           | 4.7 寸 326PPI | 1821mAh 12W        | 前 700W 后 1200W    | 无线充电            |
+| iPhone 8 Plus     | |A11     | 3G        | 32G    | 5.5 寸 326PPI | 2691mAh 18W   | 前 700W 后 1200W*2 | 无线充电 游戏手机   |                     |
+| iPhone X          | |A11     | 3G        | 32G    | 5.5 寸 326PPI | 2716mAh 18W   | 前 700W 后 1200W*2 | Face ID 全面屏设计  |                     |
+|                   |         |           |        | OLED          |               | 18W PD             | 人脸识别            |                     |
+| iPhone XR         | 2018.09 | A12       | 3G     | 64G           | 6.1 寸 326PPI | 2946mAh 18W        | 前 700W 后 1200W    | 双卡 无 3D Touch    |
+| iPhone Xs         | |A12     | 4G        | 64G    | 5.8 寸 458PPI | 2658mAh 18W   | 前 700W 后 1200W*2 | OLED 屏幕 IP68 防水 |                     |
+| iPhone Xs Max     | |A12     | 4G        | 64G    | 6.5 寸 458PPI | 3174mAh 18W   | 前 700W 后 1200W*2 | OLED 屏幕           |                     |
+| iPhone 11         | 2019.09 | A13       | 4G     | 64G           | 6.1 寸 326PPI | 3110mAh 18W        | 前 1200W 后 1200W   | WiFi 6 广角双摄     |
+| iPhone 11 Pro     | |A13     | 4G        | 64G    | 5.8 寸 458PPI | 3046mAh 18W   | 前 1200W 后 1200W  | 三摄系统            |                     |
+| iPhone 11 Pro Max | |A13     | 4G        | 64G    | 6.5 寸 458PPI | 3969mAh 22W   | 前 1200W 后 1200W  | 三摄系统            |                     |
+| iPhone se 2 代    | 2020.04 | A13       | 3G     | 64G           | 4.7 寸 326PPI | 1821mAh 12W        | 前 700W 后 1200W    | A13 和老大同芯      |
+| iPhone 12 mini    | 2020.10 | A14       | 4G     | 64G           | 5.4 寸 476PPI | 2227mAh 20W        | 前 1200W 后 1200W   | 5G 广角双摄         |
+| iPhone 12         | 		|A14     | 4G        | 64G    | 6.1 寸 460PPI | 2815mAh 20W   | 前 1200W 后 1200W  | 5G 广角双摄         |                     |
+| iPhone 12 Pro     | 		|A14     | 6G        | 128G   | 6.1 寸 460PPI | 2815mAh 20W   | 前 1200W 后 1200W  | 5G 三摄 不锈钢边框  |                     |
+| iPhone 12 Pro Max | 	| A14     | 6G        | 128G   | 6.7 寸 460PPI | 3687mAh 20W   | 前 1200W 后 1200W  | 5G 三摄 不锈钢边框  |                     |
+|                   |         |           |        |               |               |                    |                     | 5G                  |
+| iPhone 13 mini    | 2021.09 | A15       | 4G     | 128G          | 5.4 寸 476PPI | 2406mAh 20W        | 前 1200W 后 1200W   | 小刘海 升级双摄     |
+| iPhone 13         | 	|	A15     | 4G        | 128G   | 6.1 寸 460PPI | 3095mAh 20W   | 前 1200W 后 1200W  | 小刘海 升级双摄     |                     |
+| iPhone 13 Pro     | 	|A15     | 6G        | 128G   | 6.1 寸 460PPI | 3095mAh 20W   | 前 1200W 后 1200W  | 三摄 120Hz 刷新     |                     |
+| iPhone 13 Pro Max | 	|A15     | 6G        | 128G   | 6.7 寸 458PPI | 4352mAh 20W   | 前 1200W 后 1200W  | 三摄 120Hz 刷新     |                     |
+| iPhone se 3 代    | 2022.03 | A15       | 4G     | 64G           | 4.7 寸 326PPI | 1800mAh 20W        | 前 700W 后 1200W    | A15 5G              |
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1157113580)
 
 
 
