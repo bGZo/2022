@@ -1,4 +1,4 @@
-- [read(book) Updated at 2022-06-22](#readbook-updated-at-20220622)
+- [read(book) Updated at 2022-06-23](#readbook-updated-at-20220623)
     - [蔡智恒](#蔡智恒)
     - [工作, 消费主义和新穷人](#工作-消费主义和新穷人)
     - [沉默的大多数](#沉默的大多数)
@@ -9,8 +9,89 @@
     - [你当像鸟飞向你的山](#你当像鸟飞向你的山)
     - [凡人修仙传](#凡人修仙传)
     - [The little Prince](#the-little-prince)
-    - [Ch01](#ch01)
-    - [Ch02](#ch02)
+        - [ch01](#ch01)
+        - [ch02](#ch02)
+        - [ch03](#ch03)
+        - [ch04](#ch04)
+        - [ch05](#ch05)
+    - [秒懂设计模式](#秒懂设计模式)
+        - [创建](#创建)
+        - [结构](#结构)
+- [thought(message) Updated at 2022-06-23](#thoughtmessage-updated-at-20220623)
+    - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
+        - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
+        - [边缘人群注定痛苦](#边缘人群注定痛苦)
+        - [一座 14 亿人的孤岛](#一座-14-亿人的孤岛)
+        - [[肖生克的救赎](https://movie.douban.com/subject/1292052/)为什么伟大](#肖生克的救赎httpsmoviedoubancomsubject1292052为什么伟大)
+        - [个人为什么这样讨厌审查](#个人为什么这样讨厌审查)
+        - [无处不存在的墙](#无处不存在的墙)
+        - [喜欢却不能大声说出来](#喜欢却不能大声说出来)
+        - [Ask Board](#ask-board)
+    - [痛苦及无聊](#痛苦及无聊)
+    - [我知道我已经再也回不去那个单纯的自己了](#我知道我已经再也回不去那个单纯的自己了)
+    - [哲学是理解更多的想法，而不是生活的流水线](#哲学是理解更多的想法而不是生活的流水线)
+    - [Productivity Pron](#productivity-pron)
+    - [什么时候你开始觉得历史记录不甚重要](#什么时候你开始觉得历史记录不甚重要)
+    - [hhhhh, Ubuntu 和 乌托邦总是搞混欸](#hhhhh-ubuntu-和-乌托邦总是搞混欸)
+    - [Everything Is Speech](#everything-is-speech)
+    - [梦呓](#梦呓)
+        - [记一次春梦](#记一次春梦)
+        - [不记得内容但是很开心的梦](#不记得内容但是很开心的梦)
+        - [我想被爱, 我好痛苦](#我想被爱-我好痛苦)
+        - [被孤立, 被无视](#被孤立-被无视)
+    - [尝试给予自己积极的心理暗示](#尝试给予自己积极的心理暗示)
+    - [🚫 无法用户数据全部导出的产品](#-无法用户数据全部导出的产品)
+    - [一场疫情真的变了好多](#一场疫情真的变了好多)
+    - [荒诞停留在你所爱之人时, 事情一点也不有趣](#荒诞停留在你所爱之人时-事情一点也不有趣)
+        - [记一次和老爸的对话](#记一次和老爸的对话)
+    - [最高级的游戏是政治](#最高级的游戏是政治)
+    - [时间真的随着长大在缩水](#时间真的随着长大在缩水)
+    - [无人愿意去做的公共的事](#无人愿意去做的公共的事)
+    - [昼短苦夜长，何不秉烛游](#昼短苦夜长何不秉烛游)
+        - [杀时间工具](#杀时间工具)
+    - [时光匆匆, 心态不易](#时光匆匆-心态不易)
+    - [傻逼产品](#傻逼产品)
+        - [百度网盘](#百度网盘)
+    - [焦虑, 而后惶惶不可终日](#焦虑-而后惶惶不可终日)
+        - [find the thing loved and to do that](#find-the-thing-loved-and-to-do-that)
+        - [look the other side](#look-the-other-side)
+        - [Links](#links)
+    - [2月来的头脑风暴](#2月来的头脑风暴)
+        - [希望, 绝望, 宗教, 救赎](#希望-绝望-宗教-救赎)
+        - [原则](#原则)
+        - [习得性无助](#习得性无助)
+        - [上瘾](#上瘾)
+        - [焦虑](#焦虑)
+        - [回老家](#回老家)
+    - [斟酌自己唯几的业余爱好](#斟酌自己唯几的业余爱好)
+    - [一个自卑的民族有他妈的大问题](#一个自卑的民族有他妈的大问题)
+    - [我讨厌体制, 我不念书了](#我讨厌体制-我不念书了)
+    - [说唱述说着这个世界的复杂](#说唱述说着这个世界的复杂)
+    - [我们永远无法弥补现在, 所以尽兴](#我们永远无法弥补现在-所以尽兴)
+    - [养猫和养人一样](#养猫和养人一样)
+    - [演好自己的角色好难](#演好自己的角色好难)
+    - [离心难归位](#离心难归位)
+    - [自我 AV 模板](#自我-av-模板)
+    - [如果我未曾把你生下来, 我想你会感谢我](#如果我未曾把你生下来-我想你会感谢我)
+    - [What I Regret to Buy. Are You?](#what-i-regret-to-buy-are-you)
+    - [你应该着重关注报错的具体信息, 而不是浮于表面的说它报错了](#你应该着重关注报错的具体信息-而不是浮于表面的说它报错了)
+    - [毫无意义的动作 actions 不要追求一次做完](#毫无意义的动作-actions-不要追求一次做完)
+    - [必须每天计划好明天要做什么](#必须每天计划好明天要做什么)
+    - [中国人很聪明但是没有逻辑](#中国人很聪明但是没有逻辑)
+    - [Don't stop your hobby](#dont-stop-your-hobby)
+    - [真正痛苦的人是发不出悲鸣的](#真正痛苦的人是发不出悲鸣的)
+    - [混沌中的微光](#混沌中的微光)
+    - [色情 一定是 低俗 吗](#色情-一定是-低俗-吗)
+    - [每当自己被消费欲望淹没的时候，总是用这样的心态安慰自己](#每当自己被消费欲望淹没的时候总是用这样的心态安慰自己)
+    - [失落的宠儿](#失落的宠儿)
+    - [相见不如怀念](#相见不如怀念)
+    - [寻觅内心的声音](#寻觅内心的声音)
+    - [Day Trivia](#day-trivia)
+    - [权力一旦让渡 就再也收不回来了](#权力一旦让渡-就再也收不回来了)
+    - [我能完整吗？就算我知道并不可能](#我能完整吗就算我知道并不可能)
+    - [不要把心放在任何无交集的人身上](#不要把心放在任何无交集的人身上)
+    - [我想我不会在 Steam 上玩游戏了](#我想我不会在-steam-上玩游戏了)
+    - [倘若有一天, 连一壶热水都懒得做, 连揭开手边的咖啡盖都觉得吃劲的话, 怎么办?](#倘若有一天-连一壶热水都懒得做-连揭开手边的咖啡盖都觉得吃劲的话-怎么办)
 - [log(bug) Updated at 2022-06-22](#logbug-updated-at-20220622)
     - [Stage](#stage)
     - [整理房间](#整理房间)
@@ -133,79 +214,6 @@
 - [listen(podcast) Updated at 2022-06-21](#listenpodcast-updated-at-20220621)
     - [圆桌04：谈谈恋爱.](#圆桌04谈谈恋爱)
     - [[40:00] "老人有一天也会死光的, 到时候世界就是我们的了"](#4000-老人有一天也会死光的-到时候世界就是我们的了)
-- [thought(message) Updated at 2022-06-20](#thoughtmessage-updated-at-20220620)
-    - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
-        - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
-        - [边缘人群注定痛苦](#边缘人群注定痛苦)
-        - [一座 14 亿人的孤岛](#一座-14-亿人的孤岛)
-        - [[肖生克的救赎](https://movie.douban.com/subject/1292052/)为什么伟大](#肖生克的救赎httpsmoviedoubancomsubject1292052为什么伟大)
-        - [个人为什么这样讨厌审查](#个人为什么这样讨厌审查)
-        - [无处不存在的墙](#无处不存在的墙)
-        - [喜欢却不能大声说出来](#喜欢却不能大声说出来)
-        - [Ask Board](#ask-board)
-    - [痛苦及无聊](#痛苦及无聊)
-    - [我知道我已经再也回不去那个单纯的自己了](#我知道我已经再也回不去那个单纯的自己了)
-    - [哲学是理解更多的想法，而不是生活的流水线](#哲学是理解更多的想法而不是生活的流水线)
-    - [Productivity Pron](#productivity-pron)
-    - [什么时候你开始觉得历史记录不甚重要](#什么时候你开始觉得历史记录不甚重要)
-    - [hhhhh, Ubuntu 和 乌托邦总是搞混欸](#hhhhh-ubuntu-和-乌托邦总是搞混欸)
-    - [Everything Is Speech](#everything-is-speech)
-    - [梦呓](#梦呓)
-        - [记一次春梦](#记一次春梦)
-        - [不记得内容但是很开心的梦](#不记得内容但是很开心的梦)
-        - [我想被爱, 我好痛苦](#我想被爱-我好痛苦)
-        - [被孤立, 被无视](#被孤立-被无视)
-    - [尝试给予自己积极的心理暗示](#尝试给予自己积极的心理暗示)
-    - [🚫 无法用户数据全部导出的产品](#-无法用户数据全部导出的产品)
-    - [一场疫情真的变了好多](#一场疫情真的变了好多)
-    - [荒诞停留在你所爱之人时, 事情一点也不有趣](#荒诞停留在你所爱之人时-事情一点也不有趣)
-        - [记一次和老爸的对话](#记一次和老爸的对话)
-    - [最高级的游戏是政治](#最高级的游戏是政治)
-    - [时间真的随着长大在缩水](#时间真的随着长大在缩水)
-    - [无人愿意去做的公共的事](#无人愿意去做的公共的事)
-    - [昼短苦夜长，何不秉烛游](#昼短苦夜长何不秉烛游)
-        - [杀时间工具](#杀时间工具)
-    - [时光匆匆, 心态不易](#时光匆匆-心态不易)
-    - [傻逼产品](#傻逼产品)
-        - [百度网盘](#百度网盘)
-    - [焦虑, 而后惶惶不可终日](#焦虑-而后惶惶不可终日)
-        - [find the thing loved and to do that](#find-the-thing-loved-and-to-do-that)
-        - [look the other side](#look-the-other-side)
-        - [Links](#links)
-    - [2月来的头脑风暴](#2月来的头脑风暴)
-        - [希望, 绝望, 宗教, 救赎](#希望-绝望-宗教-救赎)
-        - [原则](#原则)
-        - [习得性无助](#习得性无助)
-        - [上瘾](#上瘾)
-        - [焦虑](#焦虑)
-        - [回老家](#回老家)
-    - [斟酌自己唯几的业余爱好](#斟酌自己唯几的业余爱好)
-    - [一个自卑的民族有他妈的大问题](#一个自卑的民族有他妈的大问题)
-    - [我讨厌体制, 我不念书了](#我讨厌体制-我不念书了)
-    - [说唱述说着这个世界的复杂](#说唱述说着这个世界的复杂)
-    - [我们永远无法弥补现在, 所以尽兴](#我们永远无法弥补现在-所以尽兴)
-    - [养猫和养人一样](#养猫和养人一样)
-    - [演好自己的角色好难](#演好自己的角色好难)
-    - [离心难归位](#离心难归位)
-    - [自我 AV 模板](#自我-av-模板)
-    - [如果我未曾把你生下来, 我想你会感谢我](#如果我未曾把你生下来-我想你会感谢我)
-    - [What I Regret to Buy. Are You?](#what-i-regret-to-buy-are-you)
-    - [你应该着重关注报错的具体信息, 而不是浮于表面的说它报错了](#你应该着重关注报错的具体信息-而不是浮于表面的说它报错了)
-    - [毫无意义的动作 actions 不要追求一次做完](#毫无意义的动作-actions-不要追求一次做完)
-    - [必须每天计划好明天要做什么](#必须每天计划好明天要做什么)
-    - [中国人很聪明但是没有逻辑](#中国人很聪明但是没有逻辑)
-    - [Don't stop your hobby](#dont-stop-your-hobby)
-    - [真正痛苦的人是发不出悲鸣的](#真正痛苦的人是发不出悲鸣的)
-    - [混沌中的微光](#混沌中的微光)
-    - [色情 一定是 低俗 吗](#色情-一定是-低俗-吗)
-    - [每当自己被消费欲望淹没的时候，总是用这样的心态安慰自己](#每当自己被消费欲望淹没的时候总是用这样的心态安慰自己)
-    - [失落的宠儿](#失落的宠儿)
-    - [相见不如怀念](#相见不如怀念)
-    - [寻觅内心的声音](#寻觅内心的声音)
-    - [Day Trivia](#day-trivia)
-    - [权力一旦让渡 就再也收不回来了](#权力一旦让渡-就再也收不回来了)
-    - [我能完整吗？就算我知道并不可能](#我能完整吗就算我知道并不可能)
-    - [不要把心放在任何无交集的人身上](#不要把心放在任何无交集的人身上)
 - [bought(sth) Updated at 2022-05-01](#boughtsth-updated-at-20220501)
     - [外设](#外设)
     - [各路吐槽](#各路吐槽)
@@ -225,7 +233,7 @@
     - [死馆](#死馆)
 
 
-# read(book) Updated at 2022-06-22
+# read(book) Updated at 2022-06-23
 ## 蔡智恒
 
 在 [Demon](http://demon.tw/about) 的博客里看到这样一句话:
@@ -289,9 +297,10 @@
 
 ## The little Prince
 
-- read online: [BV1QB4y1c78v](https://www.bilibili.com/video/BV1QB4y1c78v)
+- weread book online: [book-zh-weread](https://weread.qq.com/web/bookDetail/62a32bd0726a673262afe98); [book-en-weread](https://weread.qq.com/web/bookDetail/cf132190715aaeaacf12d9b)
+- video read online: [BV1QB4y1c78v](https://www.bilibili.com/video/BV1QB4y1c78v)
 
-## Ch01
+### ch01
 
 - Once when I was six years old I saw a **magnificent** picture in a book, called True Stories from Nature, about the **primeval** forest. It was a picture of a **boa constrictor** in the act of swallowing an animal.
   我六岁那年，在一本描写原始森林的名叫《真实的故事》的书上，看见过一幅精彩的插图，画的是一条蟒蛇在吞吃一头猛兽
@@ -320,7 +329,7 @@
 - And the grown-up would be greatly pleased to have met such a **sensible** man.
   于是大人觉得很高兴，认识了这么个通情达理的人
 
-## Ch02
+### ch02
 
 - So I **lived my life alone**, without anyone that I could really talk to, until I had an accident with my plane in the Desert of Sahara, six years ago. 
   我孤独地生活着，没有一个真正谈得来的人，直到六年前，有一次飞机出了故障，降落在撒哈拉大沙漠
@@ -365,8 +374,918 @@
 - He **bent** his head over the drawing.
   他低下头去看那幅画
 
+### ch03 
+
+- It was from words **dropped by chance that**, little by little, everything was **revealed** to me.
+  我是从他偶尔漏出来的那些话里，一点一点知道这一切的
+- And the little prince broke into a lovely **peal** of laughter, which **irritated** me very much. 
+  小王子发出一阵清脆的笑声，这下可把我惹恼了。
+- I like my misfortunes to be taken seriously.
+  我不喜欢别人拿我的不幸逗趣儿
+- At that moment I caught a **gleam** of light in the **impenetrable** mystery of his presence; and I demanded, **abruptly**,
+  我脑子里闪过一个念头，他的降临之谜好像有了线索，我突如其来地发问
+- He **tossed** his head gently, without taking his eyes from my plane. 
+  他看着我的飞机，轻轻地点了点头
+- And he sank into a **reverie**, which lasted a long time. 
+  说着，他出神地遐想了很久
+- Then, taking my sheep out of his pocket, he buried himself in the **contemplation** of his treasure.
+  而后，从袋里拿出我画的绵羊，全神贯注地凝望着这宝贝。
+- After a **reflective** silence he answered:
+  若有所思地沉默了一会儿，然后开口对我说：
+- And if you are **good** I will give you a **string**, too, so that you can tie him during the day, and a **post** to tie him to.
+  要是你乖，我还会给你一根绳子，白天可以把它拴住。木桩也有
+- What a **queer** idea!
+  真是怪念头
+- Then the little prince said, **earnestly**
+  小王子一本正经地说
+- And, with perhaps **a hint of** sadness, he added,
+  他又说了一句，语气中仿佛有点儿忧郁
+
+### ch04
+
+- this was that the planet the little prince came from was **scarcely** any larger than a house!
+  他居住的星球比一座房子大不了多少！
+- On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great **demonstration**. 
+  当时，他在一次国际天文学大会上作了长篇论证
+- Fortunately, however, for the reputation of Asteroid B612, a Turkish **dictator** made a law that his subjects, under pain of death, should change to European **costume**.
+  有一个土耳其独裁者下令，全国百姓都要穿欧洲的服装，违令者处死，这一下 B612 号小行星的名声总算保全了
+- So in 1920 the astronomer gave his **demonstration** all over again, dressed with impressive style and elegance.
+  那个天文学家在1920年重新作报告，穿着一套非常体面的西装
+- If I have told you these details about the **asteroid**, and made a note of its number for you, it is on account of the grown-ups and their ways. 
+  我之所以要跟你们一五一十地介绍B 612号小行星，还把它的编号也讲得明明白白，完全是为了大人
+- If you were to say to the grown-ups, “I saw a beautiful house made of **rosy brick**, with **geraniums** in the windows and **doves** on the roof,” they would not be able to get any idea of that house at all. 
+  你要是对大人说：“我看见一幢漂亮的房子，红砖墙，窗前种着天竺葵，屋顶上停着鸽子……”他们想象不出这幢房子是怎样的。
+- Then they would **exclaim**, “Oh, what a pretty house that is!”
+  他们马上会大声嚷嚷：“多漂亮的房子！”
+- They would **shrug** their shoulders, and treat you like a child.
+  他们会耸耸肩膀，只当你还是个孩子！
+- then they would be convinced, and leave you in peace from their questions.
+  他们就会深信不疑，不再问这问那地烦你了
+- They are like that. One must not hold it against them. 
+  他们就是这样。不必怪他们
+- Children should always show great **forbearance** toward grown-up people.
+  孩子应该对大人多多原谅才是。
+- But **certainly**, for us who understand life, **figures are a matter of indifference**.
+  不过，当然，我们懂得生活，我们才不把数字放在眼里呢
+- For I do not want anyone to read my book carelessly, I have suffered too much **grief** in s**etting down** these memories. 
+  我不想人家轻率地来读我这本书。我讲述这段往事时，心情是很难过的
+> To forget a friend is sad. Not everyone has had a friend. And if I forget him, I may become like the grown-ups who are no longer interested in anything but figures...
+> 忘记朋友是件令人伤心的事情。并不是人人都有过一个朋友的。再说，我早晚也会变得像那些只关心数字的大人一样的。
+- I shall certainly try to make my **portraits** as true to life as possible.
+  当然，我一定要尽力把它们画得像一些
+- One drawing goes along all right, and another has no **resemblance** to its subject.
+  有时这一张还行，那一张就不大像了。
+- So I **fumble** along as best I can, now good, now bad, and I hope generally fair to **middling**.
+  我只好信手拿起色笔这儿试一下，那儿试一下。
+- In certain more important details I shall make mistakes, also. 
+  到头来，有些最要紧的细部，说不定都弄错了。
+- But that is something that will not be my fault. 
+  不过这一切，大家都得原谅我才是
+> My friend never explained anything to me. He thought, perhaps, that I was like himself.
+> 我的朋友从来不跟我解释什么。他大概以为我是跟他一样的
+- I **have had** to grow old.
+  我一定是老了
+
+### ch05
+
+- As each day passed I would learn, in our talk, something about the little prince’s planet, his **departure** from it, his journey. 
+  每天我都会知道一些情况，或者是关于他的星球，或者是关于他怎么离开那儿、怎么来到这儿
+- The information would come very slowly, as **it might chance to fall from his thoughts**.
+  这些情况，都是一点一点，碰巧知道的
+- It was in this way that I heard, on the third day, about the **catastrophe** of the baobabs.
+  比如说，在第三天，我知道了猴面包树的悲剧。
+- This time, once more, I had the sheep to thank for it. 
+  这一回，起因又是那只绵羊
+- For the little prince asked me abruptly—as if **seized** by a **grave** doubt—“It is true, isn’t it, that sheep eat little **bushes**?”
+  因为小王子突然向我发问，好像忧心忡忡似的: “绵羊当真吃灌木吗？”
+- “Then it follows that they also eat baobabs?”
+  “这么说，它们也吃猴面包树喽？”
+- I pointed out to the little prince that baobabs were not little bushes, but, on the contrary, trees as big as castles; and that even if he took a whole **herd** of elephants away with him, the herd would not eat up one single baobab.
+  我告诉小王子，猴面包树不是灌木，而是像教堂那么高的大树，他就是领一群大象来，也吃不完一棵猴面包树呢
+- “We would have to **put them one on top of the other**,” he said.
+  “那得让它们叠罗汉了……”
+- as if he were speaking of something that was self-evident. 
+  就像这是件不言而喻的事情
+- Indeed, as I learned, there were on the planet where the little prince lived—as on all planets—good plants and bad plants.
+  原来，在小王子的星球上，就像在别的星球上一样，有好的植物，也有不好的植物
+- **In consequence**, there were good seeds from good plants, and bad seeds from bad plants. 
+  结果呢，好植物有好种子，坏植物有坏种子
+- But seeds are invisible. They sleep deep in the heart of the earth’s darkness, until someone among them is **seized** with the desire to awaken. 
+  它们悄悄地睡在地底下，直到有一天，其中有一颗忽然想起要醒了
+- Then this little seed will stretch itself and begin—**timidly** at first—to push a charming little **sprig** **inoffensively** **upward** **toward** the sun.
+  于是它舒展身子，最先羞答答地朝太阳伸出一枝天真可爱的嫩苗
+- If it is only a **sprout** of **radish** or the **sprig** of a **rosebush**, one would let it grow wherever it might wish. 
+  假如那是萝卜或玫瑰的幼苗，可以让它爱怎么长就怎么长。
+- But when it is a bad plant, one must destroy it as soon as possible, **the very first instant that one recognizes it**.
+  不过，假如那是一株不好的植物，一认出就得拔掉它
+- The soil of that planet was **infested** with them.
+  星球的土壤里有好多猴面包树种子
+- It is a question of **discipline**
+  这就得有个严格的约束了
+- It is very **tedious** work,” the little prince added, “but very easy.
+  这个工作很单调，但并不难
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1162920203)
+
+## 秒懂设计模式
+
+### 创建
+
+- 单例 
+  ![image](https://user-images.githubusercontent.com/57313137/175233696-f5ac6fd0-d63e-4946-901e-b696e81bb004.png)
+- 原型
+  ![image](https://user-images.githubusercontent.com/57313137/175233789-633f8fb7-a890-4d70-a03c-200857b3d91e.png)
+- 工厂
+  ![image](https://user-images.githubusercontent.com/57313137/175233865-5cf5e367-e980-4528-9b81-582f2196849a.png)
+- 抽象工厂
+  ![image](https://user-images.githubusercontent.com/57313137/175233928-d2df1cf6-28f9-42d0-bf35-df28b4d9ade9.png)
+- 建造者
+  ![image](https://user-images.githubusercontent.com/57313137/175233997-ee7c1f58-b2a5-48ab-8ec2-baf36f384ca2.png)
+
+
+### 结构
+
+- 门面
+  ![image](https://user-images.githubusercontent.com/57313137/175234891-a4ad58d9-320f-4c0e-82c6-8a62dec228f9.png)
+- 组合
+  ![image](https://user-images.githubusercontent.com/57313137/175235009-9f97295b-ae3d-408b-8f93-768f8d639af4.png)
+- 装饰器
+  ![image](https://user-images.githubusercontent.com/57313137/175235131-1af28001-1de6-4aed-98f5-0cea18ca9303.png)
+- 适配器
+  - 对象适配器
+    ![image](https://user-images.githubusercontent.com/57313137/175235443-a2ff43e6-dfb1-4aec-bdac-beab83aac388.png)
+  - 类适配器
+    ![image](https://user-images.githubusercontent.com/57313137/175235551-6418cf72-a9f3-41b0-a6c3-1bd73bb926d6.png)
+- 享元
+  ![image](https://user-images.githubusercontent.com/57313137/175245048-9bc50001-9269-49e0-a071-eb0b9ef9f3c3.png)
+- 代理
+  ![image](https://user-images.githubusercontent.com/57313137/175245345-4883b433-5303-438a-a5bd-4bef124b420d.png)
+- 桥接
+  ![image](https://user-images.githubusercontent.com/57313137/175248031-19a8ae46-acef-4403-bc1a-1f2f2fcbb3d2.png)
+  
+ 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1164020813)
+
+
+
+# thought(message) Updated at 2022-06-23
+## 一个新兴的行业 -- 内容审查
+
+我不明白叫嚣着推进全球化, 为何却还要移除掉跨国公司的经营许可, 可能两者不是一件事情, 但还是要用人家开源的技术去开发自己的轮子, 忽视他人的许可证, 魔改代码, 套个皮, 加层接口, 做商业化. 拒不认账, 拒不开源.
+
+像 [查克·诺里斯对共产主义](https://movie.douban.com/subject/22497885) 里面配音演员那样, 这个地方对引进的内容进行剪辑, 拼凑, 添油加醋, 至于干扰剧情, 传达的主旨什么的, 统统不在乎, 后代将看不到原版视频, 看到的永远都是老大哥让你看到的, 最后你只会说这样一句:
+
+"我爱你, 老大哥"
+
+### 阴阳怪气 / 魔幻主义
+
+我万万不得想到国人的造词方式总是集中于此方面, 官方对某些问题避之不及, 下令封杀, 上有政策, 下有对策 , 网友就纷纷造出另几句黑话来疯狂输出, 尽力干扰.
+
+这趟水注定无法清澈, 在官方威逼下, 各个平台的畸形应对只会让生活在这里的我们更加扭曲, 因为我们不能说骂人什么出格的话, 背后就有机器人正则审查, 我们能做的就是复述别人所做的事, 然而有时上面都觉得下面魔怔, 充满阴阳怪气, 请问这锅谁背?
+
+我们无法表达我们所想, 还要再怨我们努力表达自我的模样, 请问上头你是在圈养畜生吗? 并且, 这种创作正以混淆正常生活和正常表达来席卷更多的人.
+
+<img src="https://user-images.githubusercontent.com/57313137/151414833-4dce8b57-6481-4cd7-8ed9-d2028ae41b4b.png" width="50%">
+
+此举必将愈演愈烈, 我们与外界的距离也将越拉越大, 我们做的不是互联互通, 我们做的是逆全球化行为, 不要抱怨百姓不作为, 方向是上层敲定的, 我相信他们知道自己此举意味着什么, 借助着互联网, 愚民将变得越来越危险, 我无法想象两个完全不能互相理解的国家会发生什么. 希望不要变成这样🙏.
+
+### 边缘人群注定痛苦
+
+这个主旋律被无限放大, 行业打击日益明确的时间段内, 所见基本尽是些无常的服务, 不断的 404, 不断的炸链, 不断的迁移, 学习, 再度等待下次的迁移, 这个过程是痛苦的, 随着这些年国情变化, 趋势可是愈演愈烈, 面对从前喜欢的资源, 还是多少割舍, 也就回头将他丢在风里了, 这个硬盘囤积达人的时代, 未来我也会考虑购入几个T的硬盘, 去存放那些微不足道的, 却频繁需要的东西. 
+
+### 一座 14 亿人的孤岛
+
+就算是若干年后墙打开了, 早就被合理化和抹除化了的墙是拆不掉的, 有些人就这么认为了, 而且自视甚高: 
+
+" 就是这样. 很合理! 就算有也巨他妈的合理!" 
+
+甚至对比看下当年的知乎 [「封锁 Google 第一案」的开庭审理？ - 知乎](https://www.zhihu.com/question/25150310 )和如今舆论导向.
+
+> 原告：网络不能访问！
+> 审判长：被告，确定不能访问吗？
+> 被告：是不能访问。 
+> 审判长：为什么？
+> 被告：我不知道能不能说...我回去问一下...我们非正式说一下，我家用的是电信的，也上不了...在场所有人都非正式的笑了。
+> 书记员记录：网络上不了和联通无关。
+
+你再看看如今的合理化了的言论, 简直魔幻, 你难以置信这十年间到底发生了什么.
+
+### [肖生克的救赎](https://movie.douban.com/subject/1292052/)为什么伟大
+
+1. 你会离不开那堵墙, 你甚至会合理化他的存在, 当你无论如何都改变不了它的时候
+    <img src="https://user-images.githubusercontent.com/57313137/161755988-f50013e4-73e4-4d47-a689-a1b3b05acf0d.png" width="50%">
+2. 如果你也听说过 PTSD, 在你离开那堵墙之后很长时间, 你是不知道要去做什么的, 就像剧中的 艾利斯 一样, 最后体制化到没有墙而自杀的程度, 直到有 安迪 这个象征自由的存在一样, 才可能在他的带领下重新获得自由
+
+自由是多么可贵, 你失去的可能是生命, 但你得到的, 却是最重要的自由啊.
+
+### 个人为什么这样讨厌审查
+
+因为这是一个不确定的, 不成文的, 能被高度解读, 肆意扩大波及范围的语言游戏, 你根本无法定义什么样的作品不合适局势, 就好像你可以给在座的每个人都扣上 "寻衅滋事" 这顶帽子一样, 这完全是一种文字游戏, 而且很多东西你用语言根本无法描述, 描述不出来, 就是这样, 定义都是不准确的.
+
+而且被封杀这种行为就是极度内敛, 神秘的, 直到某个时间点官方根本不承认墙的存在, 墙是什么, 不要胡说, 你打不开完全是你的原因, 跟我没关系, ELEPHANT 就在那个屋子里, 你说不得, 不能说, 不敢说, Meaningless.
+
+所以你删也不说一声, 一夜之间你说变就变, 多少因为作品本身产生的无数有意义的讨论全都化作乌有.
+
+How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤, 为什么会这样?(South Park 中 Cartman 为例)
+
+<img src="https://user-images.githubusercontent.com/57313137/161768927-184ff82e-5145-43c8-8f03-41bf16974b8e.png" width="50%">
+
+总之就是没有任何讨论的余地. 去你妈的
+
+### 无处不存在的墙
+
+在 V2EX 这个相对宽松的网站, 依旧是存在墙的, 排除被站长直接移除的帖子之外, 还有一个 Pointless 节点, 里面的帖子对注册未满 1000 天的人员一律重定向到首页. via: [t/215136#reply64](https://v2ex.com/t/215136#reply64)
+
+测试标准: 点开这个帖子看是否能看: [t/759060](https://www.v2ex.com/t/759060) vs 镜像站原帖 [t/759060](https://www.bv2ex.com/t/759060)
+
+### 喜欢却不能大声说出来
+
+我有得抑郁症的自觉，所以我每天都会把心里话尽量吐露出来，但是你也知道有很多很多东西在这个大环境里不能碰，但是在危险发生前你碰了你就再也回不去了，你怀念那段时光，你怀念过去那自由的空气，你想念那种可以吐露心声的日子。
+
+但是，现在，你得藏着尾巴过日子，你需要每天都自我审查，自我阉割，你不知道是否会有哪一种神秘的力量把你从世界抽离，从此如蒸发般地消失在这片土地上。
+
+我一直很羡慕那些拥有资格，能够去对外大声喊出我喜欢这部作品的人，我羡慕他们喊出来的那片空气，我羡慕他们脱口而出的勇气，我羡慕他们能对那些愤世嫉俗的内容破口大骂，我羡慕他们可以节省开支来支持自己喜欢的创作内容，我羡慕他们，永远。
+
+越过长城，看到的更加宽广的世界，才知十几年接受的教育就是坨华丽的 Shit，当但真正想要成为他们的梦想幻灭的时候，我才真正看清，自己是多么的微不足道，我们之间的距离并没有被网络拉近，我只是远远的注视，红着眼，必要时可能还会交些门票，我如狼似渴，却永远到不了的彼岸。
+
+如果生活真的赋予过我希望，也许当我注意到一场又一场的空头支票，这希望就开始幻灭了。
+
+那些被封禁掉的文化，永远是这一代人心头的一道疤，这方面的讨论汇总起来哪个不比上面人大提出来的更真实，更有说服力，更民主。
+
+被隐藏的条目，就算没有删除，传达不到最需要他们的人手中，将毫无意义，就是这样，**简中就这样被强奸了**。
+
+### Ask Board
+
+- [ ] 当一个机关公关的方式就是堵住所有人的嘴(控评)的时候, 怎么办?
+- [ ] 信任才是最贵的 怎么相信别人 怎么被别人相信
+- [ ] https://github.com/trojan-gfw
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1)
+
+## 痛苦及无聊
+
+> 生命是一团欲望，欲望不能满足便痛苦，满足便无聊，人生就在痛苦和无聊之间摇摆
+
+我在买了显示器之后才发现没有什么当下立刻提升生产力的感觉, 只是有那么一刻, 我停下来, 不知道自己要做什么, 我盯着屏幕中间小小的窗口, 发现我可能又冲动消费了...
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003408927)
+
+## 我知道我已经再也回不去那个单纯的自己了
+
+所有想得一切都是不公, 荒谬和其他, 我不知道怎么再度回去那个什么都不知道的年纪, 长大太痛苦了, 考虑的事情太多了, 拘束太多了.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003553463)
+
+## 哲学是理解更多的想法，而不是生活的流水线
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003597296)
+
+## Productivity Pron
+
+今晚花了两个小时，仍未找到那条让我醍醐的原推文，我那做事的习惯 -- “**Productivity Porn*”(*生产力色情*)。意思是 花很多时间在如何提高他们的生产力上，而不是他们的工作进展上, 最后在 Deadline 前陷入无尽的焦虑, 并倍感沮丧. 它是如何工作的呢? 让我们来一起看看.
+
+在中国软件市场，最著名的专注于生产力的公司是[SSPai](https://sspai.com/)、[Coolapk](https://coolapk.com/)、[Dedao](https://www.igetget.com). 他们总是兜售像 *最强大脑选手: 建立你的第二大脑* 这样的知识焦虑，充斥着许多毫无意义的重组名词。其他则分布在最常见的网站如 [知乎](https://zhihu.com/), [简书](https://jianshu.com/) 和 [哔哩哔哩](https://bilibili.com/)。但随着资本市场的出现，文章质量越来越水，更像是胡说八道，在吹嘘 “为了恰饭，需要生存” 的同时, 也毁了他们的读者。有时候搜索引擎则是更好的选择，如使用`site:(url) + search context`更有效。甚至将转变的想法，从 *他们有什么新特性* 转变为 *他们有什么他妈的毫无意义的傻逼行为*。
+ 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1004795420)
+
+## 什么时候你开始觉得历史记录不甚重要
+
+为了检索自己曾访问的某个网站, 需要留存自己长时间的历史记录, 当然这种边缘数据非常脆弱, 但是蔓延的信息量巨大, 软件 崩过/重装 过几次信息就都消失了, 非常操蛋,
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1004841460)
+
+## hhhhh, Ubuntu 和 乌托邦总是搞混欸
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1006576283)
+
+## Everything Is Speech
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1006580328)
+
+## 梦呓
+
+### 记一次春梦
+
+只记得自己怀中搂着一个穿红色浴袍的女人, 我被突然的拥促倒在地上, 然后就倒下了... 只记得当时不止生理上有反应, 也是一种心动的状态.
+
+### 不记得内容但是很开心的梦
+
+像是在异世界我有个幼驯染，长大了却比我高了，我们在城镇里奔跑，拉着手，和小时候一样，我不记得这个梦的上下文了，但是我知道我很喜欢她，这个梦很开心
+
+### 我想被爱, 我好痛苦
+
+过惯了贫贱日子，我更不愿看另一半跟我这般过，我怀疑一切所谓决心。
+
+毕竟大家都是二极管，终日陈词滥调，也不是什么社会契约，说说也就图一乐。
+
+我现在的目标就只是养好父母的老，没了。
+
+梦到以前一起玩的伙伴，他们没有长辈嘴里轻飘飘说出来的 “只是童年玩伴” 那般轻松，我很想他们
+
+但是已经好久没联系基本已经断了来往，不知道都过得怎样却也不敢开口，想想过去梦幻的日子真的是犹如大梦初醒一般
+ 
+ 但是后来想想,就算见面了寒暄一番又能怎么样，往后的日子也可能再也见不到了，也只能增加一次告别的次数罢了
+ 
+ 不如就此放过自己，相见不如怀念，那段囚笼里阳光灿烂的日子也就只能这样了，童年玩伴也只能到这了。
+
+完
+
+### 被孤立, 被无视
+
+梦里那些老同学拉我进去文具店, 我偶尔会和不熟络的同学搭一两句话, 但是, 当我转身出门, 夜晚的昏黄的路灯下, 没有一个人为我驻足, 我孤零零地走向回家的路, 半路又折返回我初恋的家的方向, 路上我遇到了我的舍友, 我打了打招呼, 然后继续走着, 心里也好受一点了, 因为我并不知道初恋的现况, 我甚至无法完成构想, 这段场景就好一段落了.
+
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1012266447)
+
+## 尝试给予自己积极的心理暗示
+
+- 开发
+  - 不要用别人造好的轮子掩盖自己的业务懒惰
+- 心态
+  - 我的现状是目前我能做到最好的.
+  - 把握每个未来向你求救的信号.
+  - 警惕他人灌输给你的任何观点, 不要成为别人思想的马路.
+    - 观念都是被塑造的，舆论的本质就是"引导"，在统一口径的环境里，慢慢习以为常而不自知一种想法。
+  - 离开他们后, 他们会成为比我来前更好的人.
+  - 没有时间犹豫, 不断向前. 能更快地超越时光.
+  - 谁说借力不是努力. 跪舔不是努力.
+  - 不要妄想消费可以塑造一个什么样的人.
+  - 想消费的时候就去投国债. 有多少投多少.
+  - 标题党一律拉黑
+  - 当恶俗开始影响你的生活的时候, 远离一段时间, 你把恶俗当真了.
+  - 不要妄想傻逼会变好, 有的傻逼是一辈子, 远离才可.
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1017660326)
+
+## 🚫 无法用户数据全部导出的产品
+
+换言之, 连数据权都不属于自己的服务不值得浪费时间.
+
+甚至就算有人主动去做这件事, 公司服务还是会尽力将入口封死.
+
+- 豆瓣 API
+- 腾讯 QQ/Wechat Web
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1019776160)
+
+## 一场疫情真的变了好多
+
+人们趋于稳定, 我关注的 One 作家 苏更生 也好久没有更新了, 最近更了篇年终总结, 可以看得出她的倦怠. 面对这样的世界, 无奈的果然不止少数...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1019777183)
+
+## 荒诞停留在你所爱之人时, 事情一点也不有趣
+
+当你发现无法消解, 也无法回击这生活中操蛋的荒诞, 像等待外面的客人进门把家翻得一团乱麻的时候, 反而要欲奉还迎, 可悲到想和这个世界同归于尽.
+
+<img src="https://user-images.githubusercontent.com/57313137/151106507-bb2628d0-dd1e-4de5-b94c-10c84fcaafc3.jpg" width="50%">
+
+> 午饭过5分, "xxx, 快来吃饭吧, 今天的饭特别容易凉掉"
+> 
+> "老板, 来一点xxx"
+> 
+> "得嘞", 半个小时才回来...
+
+
+### 记一次和老爸的对话
+
+> "爸, 你为啥要开灯睡呀"
+> 
+> "... 好看, 袭人..."
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1021863522)
+
+## 最高级的游戏是政治
+
+连之前专注帮助大众扶墙(更新 Google Host)的 [老D](https://laod.cn) 到最后都备了案, 我可以认为真人大概已经被杀死了吧... 理想主义注定活不在这片土壤, 因为善良的人只会被当傻子和畜生被对待. 所以每当我遇到那些从心底里相信别人的人, 如此真诚的人, 我是多么震撼, 这片水泥地, 还有点点烛光立于之中...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1022114308)
+
+## 时间真的随着长大在缩水
+
+以前记得帮父母照看下店里的生意极不愿意，现在抱着平板，电脑开了远程，键鼠搭配一梭子坐在椅子上就是一天，丝毫没有以前的恐惧还是其他，多的只是写在这里的时光匆匆的抱怨罢了
+
+
+## 无人愿意去做的公共的事
+
+像是我今天前偷偷写的那样
+
+> 如果某天挑水的小和尚无了，老和尚会被渴死吗？
+> 
+> 今天我特别地懒了一下子，心想过几个小时打水可能会方便很多，但是...
+> 
+> 我们缺少一种什么
+> 
+> 我们总是让能干活的往死里干，自己尽量不参合很多东西下意识地托给父母或者其他人去做
+> 
+> 我觉得我需要沟通，我觉得我写不太下去了
+
+---
+
+今天摆烂了, 去你妈的.
+
+我选择下次最晚回家, 不为别的, 我想逃离, 逃离未来, 这个未来行为高度不确定的父亲简直让我感觉是个定时炸弹,  你很少能从他身上感到欣慰, 多的是数不清的失望和愤怒...
+
+过去一个月我努力在做一件事情, 就是忽略那些不美好, 但是显然还是理想主义那一套, 我去他妈的, 都欺负到家了, 不服就干呗,
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1024881436)
+
+## 昼短苦夜长，何不秉烛游
+
+匆匆 2022 已经过去 8%了，离开学只剩下十几天的时间了，自己琢磨下其实没有什么时间了，这个假期过得很正常，早早睡觉，早早起床，虽然确实帮忙照看家里花费了比较多的时间，分散了比较多的精力，但也确实没有办法。有时只能默默接受，年后尽量和老姐沟通让给我多一些时间。
+
+### 杀时间工具
+
+- 王者荣耀，因为和亲戚什么话都说不上来，也就是上号来一把的这种程度了。
+- 🐱，前半个月纠结🐱的去留问题，再到猫的起居，习惯等问题。
+- 有些无节制的发泄，尽量做到定期而不无意识。
+
+---
+
+有时会有一种感觉, 这个家会把能干活的, 会干活的, 干到死, 而那些不会干活, 不愿意干活的, 会躺平到死...
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1025205823)
+
+## 时光匆匆, 心态不易
+
+我一直渴望自己成为什么样的人, 一种可以同时承受不同生活, 游刃有余于不同身份的冲击的人, 但我可能忽略了一点, 有的事物间注定此消彼长, 不可根除.
+
+消费为王的时代, 为新生小孩营造一个无忧无虑的童年, 一个在有限区间可以无限试错的圈子, 一个心态是多么的不容易, 有些河流你不可能同时踏入两次, 也许你经历了什么, 你对他的感情不再那样纯粹, 
+
+当我体会到父母经历的是什么生活, 什么处境时, 我发现用 "岁月静好" 的借口已经压不下这所谓的 "愧死机构", 我显然无法承受这二人生命之重, 多年教育的惭愧心作祟, 再度绑架自己, 强迫自己陷入此等无限轮回之中, 尽头只剩虚无.
+
+也许我这十几年来从互联网和父母那里学会的最有用的东西, 就是当一个合格的消费者, 尽我所有的努力把钱落在刀刃之上, 好让日后的自己拍案叫绝, "这钱, 花得值, 漂亮!"
+
+最魔幻的是, 我在叛逆期深受其影响, 也曾用这把不足为道的尺子中伤过父母, 属实惭愧.
+
+另一方面说, 一个如此需要我的家, 照看店铺需要我, 家务卫生需要我, 照顾猫咪需要我, 买东西预防欺诈需要我, 东西找不到也需要我, 我有时真的对此等生活的琐碎感到无力, 我也许需要适度发泄一下为妙. 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1027685551)
+
+## 傻逼产品 
+
+### 百度网盘
+
+属实被恶心到了, 只有正式版有链接订阅, 渠道版/PC端/网页版 都不给你上, 一个网盘连会员都要一起喂广告, 可不可以问问企业良心是什么? 在哪里? 你们把用户当成了什么???
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1030123434)
+
+## 焦虑, 而后惶惶不可终日
+
+今天为了考研/工作的事情焦虑, 为了自己瞎花钱, 冲动消费而焦虑, 为自己没有好好比对商品而焦虑 为开学而焦虑, 为不远的看家而焦虑, 为持续付出而无回报的家庭劳动而焦虑, 为父母身体式微而焦虑......
+
+负能量是一种毒药, 是啊, 好好一个人, 怎么就变成这样了呢? 看了很多别人的回答, 多多少少都有一点启发, 但我觉得都不够, 都没有到点上, 我希望这次存档起来, 留给下次的自己
+
+一个归因错误, 人总要把失败的原因归类于某些不完美的条件上, 为什么非要等待所有条件都完美才能成事呢?
+
+### find the thing loved and to do that
+
+### look the other side 
+
+Remember that your thoughts can only be given the importance and meaning that you assign to them. via: https://www.quora.com/Why-does-anxiety-make-me-hyper-focused-on-such-minor-body-sensations-and-how-can-I-stop-this
+
+> 如果我们有目标和梦想, 并且我们尽最大的努力, 或者我们爱一些人, 不希望伤害到他们或失去他们, 当这些出现问题的时候我们理应感到痛苦, 问题的关键不是生而无悔, 而是不要因为后悔而厌恶自己.
+> 
+> 我们需要学会去爱我们制造出的, 不完美, 有缺陷的东西. 并原谅自己导致了这样的结果, 遗憾并不是要提醒我们所做的糟糕行为, 而是提醒我们可以做到更好. via https://www.youtube.com/watch?v=ka8L1YMR88U
+
+也可以理解为其他的什么: via: https://www.healthline.com/health/how-anxiety-can-make-you-more-powerful#4.-Anxiety-is-a-powerful-motivator-for-me
+
+- a protective mechanism
+- balance work and life
+- see that what I feel is also excitement
+- a powerful motivator
+
+Then, try following filed to research:
+
+- [ ] how to cope with intrusive thoughts.
+- [ ] Anxiety: Causes, treatments and when to get help?
+- [ ] The amygdala and it’s role in anxiety.
+
+### Links
+
+- https://www.v2ex.com/t/805311#;
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1030185930)
+
+## 2月来的头脑风暴
+
+### 希望, 绝望, 宗教, 救赎
+
+_Everything is fucked_
+
+- 希望(hopeful), 带来希望的关键词有3:
+  - 控制感
+    - 控制感形同虚设, 骑手是种幻觉
+  - 价值
+    - 依靠经验或者想象, 调整自己的价值观
+    - 人生路上不断打标, 不断设置护栏, 坠下是无底深渊
+  - 社群/团体
+    - 信仰
+    - 关注着
+    - 仪式
+    - 替罪羊 => 投射的敌人
+    - 盈利
+    - 精神/意志/人际
+
+- **绝望(hopeless)**(反义词)
+  - 思想, 感觉不一致
+- 不要和感觉做对抗
+  - 注重感受, 让感受呼吸
+
+- [ ] 外国人很习惯总结傻瓜式的公式, 让人们套
+
+### 原则
+
+- 需吹顺畅
+- 五步走
+  - 目标
+  - 关键阻碍
+  - 找根源
+  - 方案
+  - 践行
+- 必须开放,
+- 做一个向上的塑造者
+  - 理想家 + 务实思考家 + 坚毅者
+- 思考-原则-算法-决策
+
+### 习得性无助
+
+- 编程很难
+- 我老了, 不行了
+- 编程太难了
+- 我tm的不适合这些往往出现在一些用模板投机取巧的是可能
+
+### 上瘾
+
+两边的结论都可以证伪, 关键在于对他们的定义是什么? 什么让你痛苦? 什么让你觉得自己上了瘾?
+
+建立正向爽感, 重新上瘾, 然后寻找团体依托
+
+- [ ] 享受上瘾的过程中，存在自由意志吗？
+
+
+### 焦虑 
+
+工作!!! 
+
+进大厂!!!
+
+### 回老家
+
+一种从未有过的成家欲望燃起, 每次寂寞的时候总是这样, 旧的我复活.
+
+新的我蜷缩角落, 第一次觉得女性外嫁的疏离感
+
+说实话, 我最近才发现, 很羡慕别人家的父亲, 也许如此, 我会变得能突出几字来, 而不是保持沉默
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1033799383)
+
+## 斟酌自己唯几的业余爱好
+
+via: https://letters.acacess.com/daily-productive-sharing-381/
+
+最近沉迷在王者荣耀无法自拔, 尤其喜欢 __克隆__ 和 __梦境大乱斗__, 前者极其考虑队友配合, 后者7分钟就能爽一把, **So Fast**.
+
+不出所料很多黄金时间就被这无穷的游戏打发了, 并且, 我时常感到游戏机制对个人玩家的压制, 嘲笑和无常. 这让人倍感失控, 胜似loser. 仔细列出了几个兴趣爱好, 供自己好好分析一番.
+
+- [ ] 运动, 跑步 | 🥱
+- [ ] 打扮, 捯饬 | ⏲ + 🥱 + 💴
+- [ ] 书籍 (哲学 + 人文 + 社科) | ⏲
+- [ ] 画画 ( Pixel + Illustration ) | 👨‍💻
+- [ ] 语言爱好者 ( 英语 + 日语 ) | ⏲
+- [ ] 上网冲浪, 碎片资源爱好者 ( Rss + Podcast+ 刷推 ~~+ 色图 + 资源~~) | ⏲ + 🥱
+- [ ] 动漫文化 (动漫 + 漫画 + 插画 + 美剧 + 电影 ) | 💻 + 💴
+- [ ] 冲咖啡 (黑 + 奶 + 糖) | 💴 + 🧡
+- [ ] 音乐 (后摇 + 流行 + 轻音 + ASMR) | 😢 + ⏲
+- [x] 3C 小烧员 (耳机 + 电脑 + 手机 + 平板 + 外设) | 💴
+- [x] 练字, 书法, 笔杆文具爱好者 | 💻
+- [x] 拍照 ( 限手机 ) | 💻
+- [x] 游戏 ( 剧情 / 最简单模式 + Galgame + 爱手柄 + 向往主机 ~~+ 王者荣耀~~ ) | 📚 + 💴 + ⏲ + 🥱
+- [ ] ~~手艺活 | ⏲ + 🥱~~
+
+所以我消灭了一点现阶段的爱好. 尽力做到平衡自己的 balance between work & life.
+
+__连爱好都要考虑变现的我, 自己都觉得可悲.__
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1041886845)
+
+## 一个自卑的民族有他妈的大问题
+
+在中国, 什么小问题都会放大数倍不止, 为什么? 人口基数啊!
+
+所以什么小问题都不能轻易忽视, 就像去年 **LGBT** 被遭屏蔽, 就算 1% 的人口占比, 14亿人口算下来也是 1400 万人口, 这也不是个小数量了, 自卑就更不能同理了. 
+
+为什么自卑?
+
+原生家庭, 攀比, 低自尊, 不自信等等原因不胜枚举, 他们大多就是外界给予你的评价, 他对你来说是权威的, 成年前的老师, 父母, 长辈.
+
+如果我们的教育模式能够少一点侮辱个体自尊的行为, 这样对我们的影响是不是能够减轻一点? 我深刻的记得我初中数学班主任在私下里是个很好的人, 但是, 我现在梦到他, 我梦中的地位永远是那个被老师抓出来众目睽睽之下羞辱的那个人.
+
+**如果你有上进心, 还有点小自卑, 不幸的是你还混的不行, 你不嫉妒别人, 谁嫉妒?** 我们说嫉妒往往会造成一个人人格的扭曲
+
+"他为什么那么有钱? 一定是非法勾当拿开的, 为什么那个女的穿着品如的衣服, 那什么事没少干吧". 
+
+我们彻彻底底活在了与他人相比的世界, 而不是我们个体内心的平静和独立的价值. 这就是最大的问题, 我们见不得人好, 我们漠视他人的苦难, 我们乐于当吃瓜群众, 我们事不关己高高挂起, 我们不懂己所不欲勿施于人, 我们也变得气量很小, 容不得和自己不一样的声音, 我们举报, 我们支持封杀, 最后, 都成了我们自阉的后果.
+
+这是我们的时代, 我们是什么样子, 我们的世界就是什么样子, 这个民族再这样漠视人的内心就真的没救了, 你根本没有办法相信别人, 因为有人拿你的信任当愚蠢, 最恐怖的是, 他们津津乐道地不断传承这种扭曲的价值观.
+
+我们不能因为海水很大就淡化自己的垃圾行为, 因为如果每一个人都这样想, 那这就是个粪坑, 最后任由谁舀上来的, 都是一坨屎.
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1086781735)
+
+## 我讨厌体制, 我不念书了
+
+其实一大部分原因是我融入不了那个如香饽饽的体制, 你可以发现一切私企所提供的待遇都不如一个好体制的基本盘, 加上私企变本加厉的996, 985, 实在是用命换钱, 好一个钱命紧相连....
+
+我对身边的人声称不愿再读书，看不进去书，不考研了出来卷。倒也不是真的读不下去，只是学校里的那些老练的老师，几十年生是把好的都讲得味同嚼蜡，直生生叫人劝退。
+
+几年前想通过考研换所城市，但看这今年的形势真的是稍微挂得上名的都逼近400，我要躲在这穷乡僻壤到什么时候，还是出来工作吧，没差
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1086783057)
+
+## 说唱述说着这个世界的复杂
+
+很惊艳是 19 年的歌, 无法改变, 一起摆烂
+
+![image](https://user-images.githubusercontent.com/57313137/161755571-750e8d20-8ed6-4ddf-acaa-3ab6351c774f.png)
+
+从最开始的纯乐, 到后来的爵士, 民谣, 说唱, 都在述说着这个世界的颠簸和复杂 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1088655346)
+
+## 我们永远无法弥补现在, 所以尽兴
+
+过去的悲哀就真的成了过去的悲哀，未来你想补都补不回来，没有那个环境，心境，再多的也只是悲哀，我替我的童年感到悲哀，虽说不上悲惨，但距离我想的人生 还是要差一大截
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089019348)
+
+ ## 陈词滥调之百度
+
+常年使用百度的后果就是闻到什么干货的味道就疯狂往收藏夹里塞，之后这辈子也不再看一眼
+
+但你不知道的是，你缺的从来不是别人嘴里的干货
+
+你缺的 是只是一个搜索引擎和一份官方文档
+
+
+![image](https://user-images.githubusercontent.com/57313137/161804965-92778974-3ab6-49b3-a508-554cf587b657.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089023504)
+
+## 养猫和养人一样
+
+如果没能做好百分百的容纳准备, 如果没能好好的照顾好养育之物的情绪等因素, 不如不养, 父亲的很多事情我不想插足, 因为我没有那么多时间, 那样很累, 也不讨好, 但是父亲显然已经不具备养猫的能力了, 或者说大部分情况下都不具备, 和他生活在一起你不知道什么时候会出糗尴尬, 这是这么多年始终没有改变的.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1091137388)
+
+## 演好自己的角色好难
+
+不敢换 iphone, 舍不得, 但是又也别馋 IOS.
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094091735)
+
+我能感觉到我对父亲抱有极大的偏见，因为同一件事情如果父亲做的我会拿放大镜🔎去找茬去抨击他，反而是我自己根本没有那种本领却要求他人拥有，我真是个傻逼
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094547269)
+
+
+当我发现流传到网络上的天空高度相似的时候
+我意识到这是一个无聊到何种地步的世界
+
+世界只有一片天空
+一种意识形态
+一种声音
+一个标准
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094583695)
+
+## 离心难归位
+
+四月来一直过得太安逸了，目标太大落脚太小目标达不到，很挫败了可以说，还有多到数不清的todo list，让人松不了气。
+
+但是就算这样，才要加把劲吧，不能把专注力丢了啊，不能成为一个只会看短视频，嫌麻烦，放弃思考的废物啊
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1101182362)
+
+## 自我 AV 模板
+
+
+> 我这样做的原因是(xxx优点xxx);
+>
+> 这样做的代价仅仅是(xxx缺点xxx);
+>
+> 而我也只需要(xxx取舍xxx)这样做罢了;
+>
+> 又不是不(xxx能用xxx)
+
+非常疑惑的是, 当我把我冲动但克制住的东西用陈述句梳理一遍的时候, 我冷静下来了.
+
+ 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1114111316)
+
+## 如果我未曾把你生下来, 我想你会感谢我
+
+我时常想象我有这样一个孩子, 尽管我只是才二十几岁, 我想象着我的孩子他理解我
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1124417703)
+
+## What I Regret to Buy. Are You?
+
+Almost everybody in this era like to recommand sth to you such as, "this is awsome!", "fatanstaic"
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1124417759)
+
+## 你应该着重关注报错的具体信息, 而不是浮于表面的说它报错了
+
+比如: 报的具体错误类型, 排查日志的 Log 文件, 而不是单方面的说它出错了, 因为错误并非函数关系, 是满射类型, 我们有时就无法得到正确信息.
+
+今日跑 https://github.com/RPCS3/rpcs3 报错日志 `{PPU[0x1000000] Thread (main_thread) [0x0056ef1c]} VM: Access violation reading location 0xf5f5b004 (unmapped memory)` 定位发现是 Mod 的问题. 这问题才得到解决...
+
+- wrong: [ode用女神异闻录5汉化补丁方法 - PS4/PS3软硬技术区 - A9VG电玩部落论坛 - Powered by Discuz!](https://bbs.a9vg.com/thread-5367079-1-1.html )
+- right: [Problems with Persona 5 (NPEB02436) 01.00 : rpcs3](https://www.reddit.com/r/rpcs3/comments/h0wpop/problems_with_persona_5_npeb02436_0100/ )
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1130200096)
+
+## 毫无意义的动作 actions 不要追求一次做完
+
+我认为需要为自己必须要一次性做完，做到底的事情拉一个清单，反而对那些不那么重要，没有必要今天做完的琐碎事情做出警示，因为那些琐碎的事情会随着时间变化而变化，到时候琐碎的事情就会变得更多，如果总是放任自己在那些鸡毛蒜皮的小事上，虽然我们说一花一世界，小小的世界蕴含大道理，但是这样却一点都不值得浪费你宝贵的时间
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1139821961)
+
+## 必须每天计划好明天要做什么
+
+要不然每天醒来都到处逛逛, 无所事事, 每天的黄金时间都会被蹉跎掉.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1143780271)
+
+## 中国人很聪明但是没有逻辑
+
+如果让你解一道抽象的数学题, 花不了多长时间大概就可以解开, 但是如果让你判断决策一件事情就会异常艰难.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1143781524)
+
+## Don't stop your hobby
+
+这段时间为了赶时间，放下了一切杀时间的爱好，动漫因为追原作导致基本没的看，漫画也不太想看了，间谍过家家不喜欢恋爱剧情，游戏Steam天天搞事心烦的很，再者也没有多余的钱拿来再买游戏，读书又有太多专业的书卡在那里不想读，感觉真的有点绝望了，南方公园很好看但是越来越多现实元素让我感觉如果不去了解就太浪费了，画画又太费时间不知道要怎么做，好像买东西(iPhone)来打发时间，但是发现没有钱，艹，喜欢的人也不知道怎么样了，不敢鼓起勇气去问一问
+
+说起来我的爱好可能也仅限于此了，过去这些年在繁重学业下养成的零星爱好不值一提，或者是我平时需要慰藉的时候反而太多，这些东西已经枯竭到不能让我再消费的程度，剩下的就是无聊的自慰时间，但是这种运动的频率在无意识中渐渐加速，已经快要到控制不住的境地了，我已经不太想靠这个了
+
+不要停止寻找你的爱好，赶快去挖掘你的爱好，就算买不起游戏也无所谓，又不是买不起硬盘，就算动漫没得看还有数不完的原作等你追，就算放弃也无所谓，不要停止挖掘你的爱好 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1145402756)
+
+## 真正痛苦的人是发不出悲鸣的
+
+我不知道为什么自己如此喜欢掏空自己去迎合他人，有时也会非常责怪那些活得非常自私的人，说实话，像我这种人，时间就不像是自己的，我做什么事情都要看别人的眼光照顾别人的感受，我在漫长的时间里选择入睡，我不知道尽头是什么，只是放任这段令人不适的时间陷入无意识的混沌。
+
+老师今天又在群里发布贫困补助声明，我不知道自己是否真的应该去申请，但是要说起来其实大家疫情期间都不好受，都过得不怎么样，这钱与其让人去申请，还不如真的平分下去。
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1145548941)
+
+## 混沌中的微光
+
+微光微得让人错悟, 不亮不灭的希望躁动, 在这无尽的混沌之中, 唯一与我同行得就是我自己, 我自娱自乐地捱, 渴望一日可以脱离这层笼罩我多年得绝望和阴影, 尽管常常被打得爬不起来, 尽管总是沉睡再混沌之中失控. 但其实身体潜意识里还是会让我苏醒, Something have to do... Maybe... 
+
+最近在控制自己多巴胺的水平, 好让自己可以减轻自己沉重的身体负担, 伴随着咖啡的戒断反应, 到最后真成了嗜睡, 表面上睡了很久, 但其实和工作一样, 基本没有什么有效的睡眠, 其实是杀时间的睡眠. I have to control,
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1146722974)
+
+## 色情 一定是 低俗 吗
+
+- [Is it abnormal if I find sex disgusting? I am 15. - Quora](https://www.quora.com/Is-it-abnormal-if-I-find-sex-disgusting-I-am-15 )
+    - I do too. I think it is abnormal if you DON’T find sex disgusting. Body parts, fluids, etc. EWWWW! People poop and pee and fart with their butts so idk why would anyone even like butts or dicks or vaginas! They smell so bad.
+    - It is perfectly normal. You are actually lucky to be this way.
+    - Sex is gross from one perspective. Two humans with really gross intestines inside and bodily fluids getting it together.
+    - I actually wish I was like you. I’m trying to lower my libido so that I won’t feel the need to sometimes look at any other woman apart from my girlfriend.
+
+- [I think sex is absolutely disgusting, am I odd? - Quora](https://www.quora.com/I-think-sex-is-absolutely-disgusting-am-I-odd )
+
+    - Not at all. I think it’s severely overrated, gross, and not important. I don’t understand why everyone is obsessed with it when I can make a list 20 miles long of things I’d rather be doing.
+    - No, I don’t think you’re odd. I find sex disgusting as well. I’ve never enjoyed it and I have zero interest in ever having it again. It repulses me. I think this is part of why I don’t want to date - all guys have ever wanted from me is sex. And it’s disgusting.
+    - No i find sex disgusting to i can assure you i am a straight girl but sex itself isn't what grosses me out it's the idea of a boys penis in my vagina that's what's so gross just the look of genitals gross me out and repulse me i want to be in a romantic relationship with a man but i don't want sex I'm not lesbian because i feel equally disguated by vaginas and hate the idea of being with a woman so I'm just gonna go with asexual
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1146754157)
+
+## 每当自己被消费欲望淹没的时候，总是用这样的心态安慰自己
+
+1. 未来会有更好的
+2. 捡便宜是捡不完的, 更便宜是有更多人为等不可知因素在其中的, 你在捡便宜的过程中就会和人产生比较, 往往别人捡到便宜比你自己丢了钱还难受, 但其实当时的你是没有选择的, 所以这个过程你注定会痛苦
+3. 如果你还在犹豫一件东西要不要买，那你一定不要买, 没有强大驱动力购买的商品最后也留不住
+4. 电子商品做好牺牲掉一半价值转出二手的准备
+5. 你有足够的选择权, 主要钱还在你手上, 未来大方向市场注定广阔, 虽然中国这个社会不太现实, 但是真的希望自己可以对未来抱有期待
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1146780424)
+
+## 失落的宠儿
+
+从今往后会有成千上万个这样的瞬间似曾相识，没人关心你这件事会成为你往后生活的主流，你不知道的是，这鄙夷而无法融入的当下，是你这辈子的高峰，当泡沫破碎，往后都是急转直下。
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1151947162)
+
+## 相见不如怀念 
+
+臆想 和 现实打得不可开交, 看到也只能视若无睹, 过去时光里八个美好的存在再也没有了, 悲伤此刻也不知道去哪了, 内心只是非常的平静, 虽然又短暂地进入了那段各系的那个角色, 但我意识到就此打断就是最好的结局, 她对我的感觉不可能会有任何新的东西存在, 我也一样, 如果幻想可以好过一点, 我愿意创造整个宇宙. 不见世人.
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1152804915)
+
+## 寻觅内心的声音
+
+其实这声音消失了有一段时间了, 在某个时间点的开始, 消费, 性, 生产力, 或是其他的什么, 占据了每天的大全部精力, 日日思索着想要什么, 沦为不断被别人种草的存在, 其实现在也是这样, 但是不一样的东西可能再度游荡在脑海中, 这是一个自高中间断出现开始, 到宽松大学的完全消失, 现在又再度恢复的一种声音.
+
+这是一种关于如何在脑海中构建出结构缜密, 碰触边界的声音 -- 理性. 显然当我享受当下生活的时候, 我是不具备理性的, 我只是沉溺于混沌之中, 那是最舒服的地方, 我从那里来, 也终将回归到哪里去. 在人类绞尽脑汁想出的评价体系中得到一个评价, 然后慢慢地如受锤的牛一样, 归故里.
+
+> 那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1152896181)
+
+## Day Trivia
+
+你知道吗? 
+
+你要感到庆幸, 在猫打翻水杯的时候, 父亲就在旁边, 恰巧有他可以帮你你收拾残局, 要不然你损失的就不是 3 个键帽支持和 1 个键帽了. 这次事件过后我为我的水杯盖上了盖子, 在离开书桌前确认收拾好自己的桌面, **确保不给猫猫留什么马脚**, 好让这只猫钻了空子. 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1155301482)
+
+## 权力一旦让渡 就再也收不回来了
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1157535398)
+
+## 我能完整吗？就算我知道并不可能
+
+我渴望爱，渴望得到那诱人的另一半，我渴望填补我内心的空虚，我想这条我想走的路就是交媾，我希望能用那片刻的欢愉堵住生活中的这黑洞。
+
+但是我知道其实其实没有人能够完整，在这个世界上，在我还没怎么活明白的时候人生就这样坦坦荡荡地在我面前铺开，没有太多的波澜，甚至连一点点期待都没有，我所浸泡着的，这几十年来给我营造的幻觉就是一种无法原谅的幻灭，我多么希望能早点看透这操蛋的生活，但是我不能，那些被灌输的想法连我自己都没有办法觉察，等回过头来就是这种连求死都做不到的懦弱的人了。
+
+天啊，粗略极端了一下，可能这辈子都娶不到wjr了，我要怎么办。日日活在幻想这她的未来吗？
+
+我该如何面对我的真心，面对这个巨大惯性的社会，她是个好女孩，理应获得最美好的人，我多么希望我就是，但我不是，我就是那种大赤贫阶级，生活在一丝丝中产的幻觉中，如果一日发生意外，我将知道这是下一层幻灭。这个社会让我病不起，生不起，买不起，信不起，唯独人人都要和你说一遍，不许死。
+
+简直是何不食肉糜，简直是屁股决定脑袋，简直是跪久了就站不起来的那批人。我知道我要糊口，我就必须要为我热爱的互联网上糊 shit，也许我唯一能做的就是慢慢梳理我的逻辑，让我今后的人生和工作不要那么多 error。减少糊 shit，从今天开始。
+
+
+草，怎么又励志了
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1157554112)
+
+## 不要把心放在任何无交集的人身上
+
+就算他再合你的胃口，再夺你的眼球，也不要把这个人拔高到什么高度，更不能让这个人得到能审判你的价值的地步，那样对你自己太残酷了吧，别人总是能审视自己的价值，自己在自己眼里却一文不值1
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1160961410)
+
+## 我想我不会在 Steam 上玩游戏了
+
+首先, **分区定价**, 我很难去佐证这项服务的合理性, 但我感性上接收不了, 我无法相信一个区域价格能从国区的 300+ 直接跌倒低价区的 30+, 10 倍的价格差直接让我用脚投票, 这一点都不好玩. 这些年来 Steam China 直接出来取代国区简直是魔幻, 如果未来中国市场很难做下去, 入不敷出的话, Steam 会不会退出中国市场就难说了, 所以我不想再花钱去托淘宝客服帮我改到印度, 阿塞拜疆, 俄罗斯, 土耳其, 阿根廷, 因为我觉得那是智商税, 即使我没有当地的付款方式帮我挑区, 我选择自我了断. 在我违反个体使用条款拿到这份游戏的时候, 这在另一个层面上本质还是盗版游戏, 什么都没有变, 你贡献的只是账户当地的销售额, 中国区的话, 全套 (Game + Full DLC) 大多在 ￥500 内可以解决, 其实如果真的热爱这个游戏的话, 一点都不贵.
+
+其次, **条款收紧**, 我很难想象过去十年直接可以用美区充值卡倒国区余额, 空手套 $\frac{1}{3}$ 的钱, 虽然在我知道后不久还没来得及尝试就被锁区了. 那个时候区域可以乱跳, 只要不碰黑卡这条死线, 是不会管理的. 但是这之后就都变了.
+
+然后, **DRM/DRM-FREE**, 在了解了波兰蠢驴的 GOG 平台的运作方式后, 我非常欣赏他们相信用户的自信, 愿意把 DRM 出让给用户, **这意味着我下一次开启的时候不会伴随平台的启动. 这意义重大, 因为如果每一次启动都会伴随着漫长的等待时间, 这段时间内玩游戏的欲望会快速下降**, 如果此前有 IDE 在后台占用内存的话, 体验就更加糟糕了.
+
+最后, **改名政策**, 因为使用习惯原因, 当初在注册 Steam ID 直接使用了自己的手机号, 当然可以修改显示 ID, 但是这个手机号是我计划报废的一个, 这代表着若干年后我还是需要记忆一串历史悠久, 但是毫无意义的字符序列, 这简直匪夷所思, 操蛋的是, 没有办法更改, 我只能放弃这个账号和其中的内容.
+
+如果还对 Steam 有什么期待的话, 那就是对跨区交易的进一步 IP 限制, 就像是 Play 打击充值卡一样, 如果被拉黑名单, 基本就是一棒打死, 坐实了. 在我看来, 这无不可能, 只要有更恶行的盗刷黑卡行为, 是迟早的事.
+
+我怎么也没有想到, **3DM 仍然是我最后的归宿. 硬盘存储游戏和导存档才是这几十年颠扑不破的真理**. 对于现在的我来说, 买游戏? 我只关心一件事, 开发者收到钱了吗?
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1163906701)
+
+## 倘若有一天, 连一壶热水都懒得做, 连揭开手边的咖啡盖都觉得吃劲的话, 怎么办?
+
+我有咖啡上瘾的毛病, 如果不能在清晨, 正午, 傍晚来上一杯咖啡, 这一天我都会觉得虚度, 我觉得这是我安然度过一年所必须使用的量, 也不只是从什么时候惯的了这坏毛病.
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1163913742)
 
 
 
@@ -2816,741 +3735,6 @@ Seem like turn to private video in Youtube... via: [STAGE TUBE: Learn Chinese wi
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/2#issuecomment-1161229866)
-
-
-
-# thought(message) Updated at 2022-06-20
-## 一个新兴的行业 -- 内容审查
-
-我不明白叫嚣着推进全球化, 为何却还要移除掉跨国公司的经营许可, 可能两者不是一件事情, 但还是要用人家开源的技术去开发自己的轮子, 忽视他人的许可证, 魔改代码, 套个皮, 加层接口, 做商业化. 拒不认账, 拒不开源.
-
-像 [查克·诺里斯对共产主义](https://movie.douban.com/subject/22497885) 里面配音演员那样, 这个地方对引进的内容进行剪辑, 拼凑, 添油加醋, 至于干扰剧情, 传达的主旨什么的, 统统不在乎, 后代将看不到原版视频, 看到的永远都是老大哥让你看到的, 最后你只会说这样一句:
-
-"我爱你, 老大哥"
-
-### 阴阳怪气 / 魔幻主义
-
-我万万不得想到国人的造词方式总是集中于此方面, 官方对某些问题避之不及, 下令封杀, 上有政策, 下有对策 , 网友就纷纷造出另几句黑话来疯狂输出, 尽力干扰.
-
-这趟水注定无法清澈, 在官方威逼下, 各个平台的畸形应对只会让生活在这里的我们更加扭曲, 因为我们不能说骂人什么出格的话, 背后就有机器人正则审查, 我们能做的就是复述别人所做的事, 然而有时上面都觉得下面魔怔, 充满阴阳怪气, 请问这锅谁背?
-
-我们无法表达我们所想, 还要再怨我们努力表达自我的模样, 请问上头你是在圈养畜生吗? 并且, 这种创作正以混淆正常生活和正常表达来席卷更多的人.
-
-<img src="https://user-images.githubusercontent.com/57313137/151414833-4dce8b57-6481-4cd7-8ed9-d2028ae41b4b.png" width="50%">
-
-此举必将愈演愈烈, 我们与外界的距离也将越拉越大, 我们做的不是互联互通, 我们做的是逆全球化行为, 不要抱怨百姓不作为, 方向是上层敲定的, 我相信他们知道自己此举意味着什么, 借助着互联网, 愚民将变得越来越危险, 我无法想象两个完全不能互相理解的国家会发生什么. 希望不要变成这样🙏.
-
-### 边缘人群注定痛苦
-
-这个主旋律被无限放大, 行业打击日益明确的时间段内, 所见基本尽是些无常的服务, 不断的 404, 不断的炸链, 不断的迁移, 学习, 再度等待下次的迁移, 这个过程是痛苦的, 随着这些年国情变化, 趋势可是愈演愈烈, 面对从前喜欢的资源, 还是多少割舍, 也就回头将他丢在风里了, 这个硬盘囤积达人的时代, 未来我也会考虑购入几个T的硬盘, 去存放那些微不足道的, 却频繁需要的东西. 
-
-### 一座 14 亿人的孤岛
-
-就算是若干年后墙打开了, 早就被合理化和抹除化了的墙是拆不掉的, 有些人就这么认为了, 而且自视甚高: 
-
-" 就是这样. 很合理! 就算有也巨他妈的合理!" 
-
-甚至对比看下当年的知乎 [「封锁 Google 第一案」的开庭审理？ - 知乎](https://www.zhihu.com/question/25150310 )和如今舆论导向.
-
-> 原告：网络不能访问！
-> 审判长：被告，确定不能访问吗？
-> 被告：是不能访问。 
-> 审判长：为什么？
-> 被告：我不知道能不能说...我回去问一下...我们非正式说一下，我家用的是电信的，也上不了...在场所有人都非正式的笑了。
-> 书记员记录：网络上不了和联通无关。
-
-你再看看如今的合理化了的言论, 简直魔幻, 你难以置信这十年间到底发生了什么.
-
-### [肖生克的救赎](https://movie.douban.com/subject/1292052/)为什么伟大
-
-1. 你会离不开那堵墙, 你甚至会合理化他的存在, 当你无论如何都改变不了它的时候
-    <img src="https://user-images.githubusercontent.com/57313137/161755988-f50013e4-73e4-4d47-a689-a1b3b05acf0d.png" width="50%">
-2. 如果你也听说过 PTSD, 在你离开那堵墙之后很长时间, 你是不知道要去做什么的, 就像剧中的 艾利斯 一样, 最后体制化到没有墙而自杀的程度, 直到有 安迪 这个象征自由的存在一样, 才可能在他的带领下重新获得自由
-
-自由是多么可贵, 你失去的可能是生命, 但你得到的, 却是最重要的自由啊.
-
-### 个人为什么这样讨厌审查
-
-因为这是一个不确定的, 不成文的, 能被高度解读, 肆意扩大波及范围的语言游戏, 你根本无法定义什么样的作品不合适局势, 就好像你可以给在座的每个人都扣上 "寻衅滋事" 这顶帽子一样, 这完全是一种文字游戏, 而且很多东西你用语言根本无法描述, 描述不出来, 就是这样, 定义都是不准确的.
-
-而且被封杀这种行为就是极度内敛, 神秘的, 直到某个时间点官方根本不承认墙的存在, 墙是什么, 不要胡说, 你打不开完全是你的原因, 跟我没关系, ELEPHANT 就在那个屋子里, 你说不得, 不能说, 不敢说, Meaningless.
-
-所以你删也不说一声, 一夜之间你说变就变, 多少因为作品本身产生的无数有意义的讨论全都化作乌有.
-
-How Dare You? 每次我看着删了一半没删干净的文章我总是很悲伤, 为什么会这样?(South Park 中 Cartman 为例)
-
-<img src="https://user-images.githubusercontent.com/57313137/161768927-184ff82e-5145-43c8-8f03-41bf16974b8e.png" width="50%">
-
-总之就是没有任何讨论的余地. 去你妈的
-
-### 无处不存在的墙
-
-在 V2EX 这个相对宽松的网站, 依旧是存在墙的, 排除被站长直接移除的帖子之外, 还有一个 Pointless 节点, 里面的帖子对注册未满 1000 天的人员一律重定向到首页. via: [t/215136#reply64](https://v2ex.com/t/215136#reply64)
-
-测试标准: 点开这个帖子看是否能看: [t/759060](https://www.v2ex.com/t/759060) vs 镜像站原帖 [t/759060](https://www.bv2ex.com/t/759060)
-
-### 喜欢却不能大声说出来
-
-我有得抑郁症的自觉，所以我每天都会把心里话尽量吐露出来，但是你也知道有很多很多东西在这个大环境里不能碰，但是在危险发生前你碰了你就再也回不去了，你怀念那段时光，你怀念过去那自由的空气，你想念那种可以吐露心声的日子。
-
-但是，现在，你得藏着尾巴过日子，你需要每天都自我审查，自我阉割，你不知道是否会有哪一种神秘的力量把你从世界抽离，从此如蒸发般地消失在这片土地上。
-
-我一直很羡慕那些拥有资格，能够去对外大声喊出我喜欢这部作品的人，我羡慕他们喊出来的那片空气，我羡慕他们脱口而出的勇气，我羡慕他们能对那些愤世嫉俗的内容破口大骂，我羡慕他们可以节省开支来支持自己喜欢的创作内容，我羡慕他们，永远。
-
-越过长城，看到的更加宽广的世界，才知十几年接受的教育就是坨华丽的 Shit，当但真正想要成为他们的梦想幻灭的时候，我才真正看清，自己是多么的微不足道，我们之间的距离并没有被网络拉近，我只是远远的注视，红着眼，必要时可能还会交些门票，我如狼似渴，却永远到不了的彼岸。
-
-如果生活真的赋予过我希望，也许当我注意到一场又一场的空头支票，这希望就开始幻灭了。
-
-那些被封禁掉的文化，永远是这一代人心头的一道疤，这方面的讨论汇总起来哪个不比上面人大提出来的更真实，更有说服力，更民主。
-
-被隐藏的条目，就算没有删除，传达不到最需要他们的人手中，将毫无意义，就是这样，**简中就这样被强奸了**。
-
-### Ask Board
-
-- [ ] 当一个机关公关的方式就是堵住所有人的嘴(控评)的时候, 怎么办?
-- [ ] 信任才是最贵的 怎么相信别人 怎么被别人相信
-- [ ] https://github.com/trojan-gfw
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1)
-
-## 痛苦及无聊
-
-> 生命是一团欲望，欲望不能满足便痛苦，满足便无聊，人生就在痛苦和无聊之间摇摆
-
-我在买了显示器之后才发现没有什么当下立刻提升生产力的感觉, 只是有那么一刻, 我停下来, 不知道自己要做什么, 我盯着屏幕中间小小的窗口, 发现我可能又冲动消费了...
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003408927)
-
-## 我知道我已经再也回不去那个单纯的自己了
-
-所有想得一切都是不公, 荒谬和其他, 我不知道怎么再度回去那个什么都不知道的年纪, 长大太痛苦了, 考虑的事情太多了, 拘束太多了.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003553463)
-
-## 哲学是理解更多的想法，而不是生活的流水线
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1003597296)
-
-## Productivity Pron
-
-今晚花了两个小时，仍未找到那条让我醍醐的原推文，我那做事的习惯 -- “**Productivity Porn*”(*生产力色情*)。意思是 花很多时间在如何提高他们的生产力上，而不是他们的工作进展上, 最后在 Deadline 前陷入无尽的焦虑, 并倍感沮丧. 它是如何工作的呢? 让我们来一起看看.
-
-在中国软件市场，最著名的专注于生产力的公司是[SSPai](https://sspai.com/)、[Coolapk](https://coolapk.com/)、[Dedao](https://www.igetget.com). 他们总是兜售像 *最强大脑选手: 建立你的第二大脑* 这样的知识焦虑，充斥着许多毫无意义的重组名词。其他则分布在最常见的网站如 [知乎](https://zhihu.com/), [简书](https://jianshu.com/) 和 [哔哩哔哩](https://bilibili.com/)。但随着资本市场的出现，文章质量越来越水，更像是胡说八道，在吹嘘 “为了恰饭，需要生存” 的同时, 也毁了他们的读者。有时候搜索引擎则是更好的选择，如使用`site:(url) + search context`更有效。甚至将转变的想法，从 *他们有什么新特性* 转变为 *他们有什么他妈的毫无意义的傻逼行为*。
- 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1004795420)
-
-## 什么时候你开始觉得历史记录不甚重要
-
-为了检索自己曾访问的某个网站, 需要留存自己长时间的历史记录, 当然这种边缘数据非常脆弱, 但是蔓延的信息量巨大, 软件 崩过/重装 过几次信息就都消失了, 非常操蛋,
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1004841460)
-
-## hhhhh, Ubuntu 和 乌托邦总是搞混欸
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1006576283)
-
-## Everything Is Speech
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1006580328)
-
-## 梦呓
-
-### 记一次春梦
-
-只记得自己怀中搂着一个穿红色浴袍的女人, 我被突然的拥促倒在地上, 然后就倒下了... 只记得当时不止生理上有反应, 也是一种心动的状态.
-
-### 不记得内容但是很开心的梦
-
-像是在异世界我有个幼驯染，长大了却比我高了，我们在城镇里奔跑，拉着手，和小时候一样，我不记得这个梦的上下文了，但是我知道我很喜欢她，这个梦很开心
-
-### 我想被爱, 我好痛苦
-
-过惯了贫贱日子，我更不愿看另一半跟我这般过，我怀疑一切所谓决心。
-
-毕竟大家都是二极管，终日陈词滥调，也不是什么社会契约，说说也就图一乐。
-
-我现在的目标就只是养好父母的老，没了。
-
-梦到以前一起玩的伙伴，他们没有长辈嘴里轻飘飘说出来的 “只是童年玩伴” 那般轻松，我很想他们
-
-但是已经好久没联系基本已经断了来往，不知道都过得怎样却也不敢开口，想想过去梦幻的日子真的是犹如大梦初醒一般
- 
- 但是后来想想,就算见面了寒暄一番又能怎么样，往后的日子也可能再也见不到了，也只能增加一次告别的次数罢了
- 
- 不如就此放过自己，相见不如怀念，那段囚笼里阳光灿烂的日子也就只能这样了，童年玩伴也只能到这了。
-
-完
-
-### 被孤立, 被无视
-
-梦里那些老同学拉我进去文具店, 我偶尔会和不熟络的同学搭一两句话, 但是, 当我转身出门, 夜晚的昏黄的路灯下, 没有一个人为我驻足, 我孤零零地走向回家的路, 半路又折返回我初恋的家的方向, 路上我遇到了我的舍友, 我打了打招呼, 然后继续走着, 心里也好受一点了, 因为我并不知道初恋的现况, 我甚至无法完成构想, 这段场景就好一段落了.
-
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1012266447)
-
-## 尝试给予自己积极的心理暗示
-
-- 开发
-  - 不要用别人造好的轮子掩盖自己的业务懒惰
-- 心态
-  - 我的现状是目前我能做到最好的.
-  - 把握每个未来向你求救的信号.
-  - 警惕他人灌输给你的任何观点, 不要成为别人思想的马路.
-    - 观念都是被塑造的，舆论的本质就是"引导"，在统一口径的环境里，慢慢习以为常而不自知一种想法。
-  - 离开他们后, 他们会成为比我来前更好的人.
-  - 没有时间犹豫, 不断向前. 能更快地超越时光.
-  - 谁说借力不是努力. 跪舔不是努力.
-  - 不要妄想消费可以塑造一个什么样的人.
-  - 想消费的时候就去投国债. 有多少投多少.
-  - 标题党一律拉黑
-  - 当恶俗开始影响你的生活的时候, 远离一段时间, 你把恶俗当真了.
-  - 不要妄想傻逼会变好, 有的傻逼是一辈子, 远离才可.
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1017660326)
-
-## 🚫 无法用户数据全部导出的产品
-
-换言之, 连数据权都不属于自己的服务不值得浪费时间.
-
-甚至就算有人主动去做这件事, 公司服务还是会尽力将入口封死.
-
-- 豆瓣 API
-- 腾讯 QQ/Wechat Web
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1019776160)
-
-## 一场疫情真的变了好多
-
-人们趋于稳定, 我关注的 One 作家 苏更生 也好久没有更新了, 最近更了篇年终总结, 可以看得出她的倦怠. 面对这样的世界, 无奈的果然不止少数...
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1019777183)
-
-## 荒诞停留在你所爱之人时, 事情一点也不有趣
-
-当你发现无法消解, 也无法回击这生活中操蛋的荒诞, 像等待外面的客人进门把家翻得一团乱麻的时候, 反而要欲奉还迎, 可悲到想和这个世界同归于尽.
-
-<img src="https://user-images.githubusercontent.com/57313137/151106507-bb2628d0-dd1e-4de5-b94c-10c84fcaafc3.jpg" width="50%">
-
-> 午饭过5分, "xxx, 快来吃饭吧, 今天的饭特别容易凉掉"
-> 
-> "老板, 来一点xxx"
-> 
-> "得嘞", 半个小时才回来...
-
-
-### 记一次和老爸的对话
-
-> "爸, 你为啥要开灯睡呀"
-> 
-> "... 好看, 袭人..."
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1021863522)
-
-## 最高级的游戏是政治
-
-连之前专注帮助大众扶墙(更新 Google Host)的 [老D](https://laod.cn) 到最后都备了案, 我可以认为真人大概已经被杀死了吧... 理想主义注定活不在这片土壤, 因为善良的人只会被当傻子和畜生被对待. 所以每当我遇到那些从心底里相信别人的人, 如此真诚的人, 我是多么震撼, 这片水泥地, 还有点点烛光立于之中...
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1022114308)
-
-## 时间真的随着长大在缩水
-
-以前记得帮父母照看下店里的生意极不愿意，现在抱着平板，电脑开了远程，键鼠搭配一梭子坐在椅子上就是一天，丝毫没有以前的恐惧还是其他，多的只是写在这里的时光匆匆的抱怨罢了
-
-
-## 无人愿意去做的公共的事
-
-像是我今天前偷偷写的那样
-
-> 如果某天挑水的小和尚无了，老和尚会被渴死吗？
-> 
-> 今天我特别地懒了一下子，心想过几个小时打水可能会方便很多，但是...
-> 
-> 我们缺少一种什么
-> 
-> 我们总是让能干活的往死里干，自己尽量不参合很多东西下意识地托给父母或者其他人去做
-> 
-> 我觉得我需要沟通，我觉得我写不太下去了
-
----
-
-今天摆烂了, 去你妈的.
-
-我选择下次最晚回家, 不为别的, 我想逃离, 逃离未来, 这个未来行为高度不确定的父亲简直让我感觉是个定时炸弹,  你很少能从他身上感到欣慰, 多的是数不清的失望和愤怒...
-
-过去一个月我努力在做一件事情, 就是忽略那些不美好, 但是显然还是理想主义那一套, 我去他妈的, 都欺负到家了, 不服就干呗,
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1024881436)
-
-## 昼短苦夜长，何不秉烛游
-
-匆匆 2022 已经过去 8%了，离开学只剩下十几天的时间了，自己琢磨下其实没有什么时间了，这个假期过得很正常，早早睡觉，早早起床，虽然确实帮忙照看家里花费了比较多的时间，分散了比较多的精力，但也确实没有办法。有时只能默默接受，年后尽量和老姐沟通让给我多一些时间。
-
-### 杀时间工具
-
-- 王者荣耀，因为和亲戚什么话都说不上来，也就是上号来一把的这种程度了。
-- 🐱，前半个月纠结🐱的去留问题，再到猫的起居，习惯等问题。
-- 有些无节制的发泄，尽量做到定期而不无意识。
-
----
-
-有时会有一种感觉, 这个家会把能干活的, 会干活的, 干到死, 而那些不会干活, 不愿意干活的, 会躺平到死...
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1025205823)
-
-## 时光匆匆, 心态不易
-
-我一直渴望自己成为什么样的人, 一种可以同时承受不同生活, 游刃有余于不同身份的冲击的人, 但我可能忽略了一点, 有的事物间注定此消彼长, 不可根除.
-
-消费为王的时代, 为新生小孩营造一个无忧无虑的童年, 一个在有限区间可以无限试错的圈子, 一个心态是多么的不容易, 有些河流你不可能同时踏入两次, 也许你经历了什么, 你对他的感情不再那样纯粹, 
-
-当我体会到父母经历的是什么生活, 什么处境时, 我发现用 "岁月静好" 的借口已经压不下这所谓的 "愧死机构", 我显然无法承受这二人生命之重, 多年教育的惭愧心作祟, 再度绑架自己, 强迫自己陷入此等无限轮回之中, 尽头只剩虚无.
-
-也许我这十几年来从互联网和父母那里学会的最有用的东西, 就是当一个合格的消费者, 尽我所有的努力把钱落在刀刃之上, 好让日后的自己拍案叫绝, "这钱, 花得值, 漂亮!"
-
-最魔幻的是, 我在叛逆期深受其影响, 也曾用这把不足为道的尺子中伤过父母, 属实惭愧.
-
-另一方面说, 一个如此需要我的家, 照看店铺需要我, 家务卫生需要我, 照顾猫咪需要我, 买东西预防欺诈需要我, 东西找不到也需要我, 我有时真的对此等生活的琐碎感到无力, 我也许需要适度发泄一下为妙. 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1027685551)
-
-## 傻逼产品 
-
-### 百度网盘
-
-属实被恶心到了, 只有正式版有链接订阅, 渠道版/PC端/网页版 都不给你上, 一个网盘连会员都要一起喂广告, 可不可以问问企业良心是什么? 在哪里? 你们把用户当成了什么???
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1030123434)
-
-## 焦虑, 而后惶惶不可终日
-
-今天为了考研/工作的事情焦虑, 为了自己瞎花钱, 冲动消费而焦虑, 为自己没有好好比对商品而焦虑 为开学而焦虑, 为不远的看家而焦虑, 为持续付出而无回报的家庭劳动而焦虑, 为父母身体式微而焦虑......
-
-负能量是一种毒药, 是啊, 好好一个人, 怎么就变成这样了呢? 看了很多别人的回答, 多多少少都有一点启发, 但我觉得都不够, 都没有到点上, 我希望这次存档起来, 留给下次的自己
-
-一个归因错误, 人总要把失败的原因归类于某些不完美的条件上, 为什么非要等待所有条件都完美才能成事呢?
-
-### find the thing loved and to do that
-
-### look the other side 
-
-Remember that your thoughts can only be given the importance and meaning that you assign to them. via: https://www.quora.com/Why-does-anxiety-make-me-hyper-focused-on-such-minor-body-sensations-and-how-can-I-stop-this
-
-> 如果我们有目标和梦想, 并且我们尽最大的努力, 或者我们爱一些人, 不希望伤害到他们或失去他们, 当这些出现问题的时候我们理应感到痛苦, 问题的关键不是生而无悔, 而是不要因为后悔而厌恶自己.
-> 
-> 我们需要学会去爱我们制造出的, 不完美, 有缺陷的东西. 并原谅自己导致了这样的结果, 遗憾并不是要提醒我们所做的糟糕行为, 而是提醒我们可以做到更好. via https://www.youtube.com/watch?v=ka8L1YMR88U
-
-也可以理解为其他的什么: via: https://www.healthline.com/health/how-anxiety-can-make-you-more-powerful#4.-Anxiety-is-a-powerful-motivator-for-me
-
-- a protective mechanism
-- balance work and life
-- see that what I feel is also excitement
-- a powerful motivator
-
-Then, try following filed to research:
-
-- [ ] how to cope with intrusive thoughts.
-- [ ] Anxiety: Causes, treatments and when to get help?
-- [ ] The amygdala and it’s role in anxiety.
-
-### Links
-
-- https://www.v2ex.com/t/805311#;
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1030185930)
-
-## 2月来的头脑风暴
-
-### 希望, 绝望, 宗教, 救赎
-
-_Everything is fucked_
-
-- 希望(hopeful), 带来希望的关键词有3:
-  - 控制感
-    - 控制感形同虚设, 骑手是种幻觉
-  - 价值
-    - 依靠经验或者想象, 调整自己的价值观
-    - 人生路上不断打标, 不断设置护栏, 坠下是无底深渊
-  - 社群/团体
-    - 信仰
-    - 关注着
-    - 仪式
-    - 替罪羊 => 投射的敌人
-    - 盈利
-    - 精神/意志/人际
-
-- **绝望(hopeless)**(反义词)
-  - 思想, 感觉不一致
-- 不要和感觉做对抗
-  - 注重感受, 让感受呼吸
-
-- [ ] 外国人很习惯总结傻瓜式的公式, 让人们套
-
-### 原则
-
-- 需吹顺畅
-- 五步走
-  - 目标
-  - 关键阻碍
-  - 找根源
-  - 方案
-  - 践行
-- 必须开放,
-- 做一个向上的塑造者
-  - 理想家 + 务实思考家 + 坚毅者
-- 思考-原则-算法-决策
-
-### 习得性无助
-
-- 编程很难
-- 我老了, 不行了
-- 编程太难了
-- 我tm的不适合这些往往出现在一些用模板投机取巧的是可能
-
-### 上瘾
-
-两边的结论都可以证伪, 关键在于对他们的定义是什么? 什么让你痛苦? 什么让你觉得自己上了瘾?
-
-建立正向爽感, 重新上瘾, 然后寻找团体依托
-
-- [ ] 享受上瘾的过程中，存在自由意志吗？
-
-
-### 焦虑 
-
-工作!!! 
-
-进大厂!!!
-
-### 回老家
-
-一种从未有过的成家欲望燃起, 每次寂寞的时候总是这样, 旧的我复活.
-
-新的我蜷缩角落, 第一次觉得女性外嫁的疏离感
-
-说实话, 我最近才发现, 很羡慕别人家的父亲, 也许如此, 我会变得能突出几字来, 而不是保持沉默
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1033799383)
-
-## 斟酌自己唯几的业余爱好
-
-via: https://letters.acacess.com/daily-productive-sharing-381/
-
-最近沉迷在王者荣耀无法自拔, 尤其喜欢 __克隆__ 和 __梦境大乱斗__, 前者极其考虑队友配合, 后者7分钟就能爽一把, **So Fast**.
-
-不出所料很多黄金时间就被这无穷的游戏打发了, 并且, 我时常感到游戏机制对个人玩家的压制, 嘲笑和无常. 这让人倍感失控, 胜似loser. 仔细列出了几个兴趣爱好, 供自己好好分析一番.
-
-- [ ] 运动, 跑步 | 🥱
-- [ ] 打扮, 捯饬 | ⏲ + 🥱 + 💴
-- [ ] 书籍 (哲学 + 人文 + 社科) | ⏲
-- [ ] 画画 ( Pixel + Illustration ) | 👨‍💻
-- [ ] 语言爱好者 ( 英语 + 日语 ) | ⏲
-- [ ] 上网冲浪, 碎片资源爱好者 ( Rss + Podcast+ 刷推 ~~+ 色图 + 资源~~) | ⏲ + 🥱
-- [ ] 动漫文化 (动漫 + 漫画 + 插画 + 美剧 + 电影 ) | 💻 + 💴
-- [ ] 冲咖啡 (黑 + 奶 + 糖) | 💴 + 🧡
-- [ ] 音乐 (后摇 + 流行 + 轻音 + ASMR) | 😢 + ⏲
-- [x] 3C 小烧员 (耳机 + 电脑 + 手机 + 平板 + 外设) | 💴
-- [x] 练字, 书法, 笔杆文具爱好者 | 💻
-- [x] 拍照 ( 限手机 ) | 💻
-- [x] 游戏 ( 剧情 / 最简单模式 + Galgame + 爱手柄 + 向往主机 ~~+ 王者荣耀~~ ) | 📚 + 💴 + ⏲ + 🥱
-- [ ] ~~手艺活 | ⏲ + 🥱~~
-
-所以我消灭了一点现阶段的爱好. 尽力做到平衡自己的 balance between work & life.
-
-__连爱好都要考虑变现的我, 自己都觉得可悲.__
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1041886845)
-
-## 一个自卑的民族有他妈的大问题
-
-在中国, 什么小问题都会放大数倍不止, 为什么? 人口基数啊!
-
-所以什么小问题都不能轻易忽视, 就像去年 **LGBT** 被遭屏蔽, 就算 1% 的人口占比, 14亿人口算下来也是 1400 万人口, 这也不是个小数量了, 自卑就更不能同理了. 
-
-为什么自卑?
-
-原生家庭, 攀比, 低自尊, 不自信等等原因不胜枚举, 他们大多就是外界给予你的评价, 他对你来说是权威的, 成年前的老师, 父母, 长辈.
-
-如果我们的教育模式能够少一点侮辱个体自尊的行为, 这样对我们的影响是不是能够减轻一点? 我深刻的记得我初中数学班主任在私下里是个很好的人, 但是, 我现在梦到他, 我梦中的地位永远是那个被老师抓出来众目睽睽之下羞辱的那个人.
-
-**如果你有上进心, 还有点小自卑, 不幸的是你还混的不行, 你不嫉妒别人, 谁嫉妒?** 我们说嫉妒往往会造成一个人人格的扭曲
-
-"他为什么那么有钱? 一定是非法勾当拿开的, 为什么那个女的穿着品如的衣服, 那什么事没少干吧". 
-
-我们彻彻底底活在了与他人相比的世界, 而不是我们个体内心的平静和独立的价值. 这就是最大的问题, 我们见不得人好, 我们漠视他人的苦难, 我们乐于当吃瓜群众, 我们事不关己高高挂起, 我们不懂己所不欲勿施于人, 我们也变得气量很小, 容不得和自己不一样的声音, 我们举报, 我们支持封杀, 最后, 都成了我们自阉的后果.
-
-这是我们的时代, 我们是什么样子, 我们的世界就是什么样子, 这个民族再这样漠视人的内心就真的没救了, 你根本没有办法相信别人, 因为有人拿你的信任当愚蠢, 最恐怖的是, 他们津津乐道地不断传承这种扭曲的价值观.
-
-我们不能因为海水很大就淡化自己的垃圾行为, 因为如果每一个人都这样想, 那这就是个粪坑, 最后任由谁舀上来的, 都是一坨屎.
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1086781735)
-
-## 我讨厌体制, 我不念书了
-
-其实一大部分原因是我融入不了那个如香饽饽的体制, 你可以发现一切私企所提供的待遇都不如一个好体制的基本盘, 加上私企变本加厉的996, 985, 实在是用命换钱, 好一个钱命紧相连....
-
-我对身边的人声称不愿再读书，看不进去书，不考研了出来卷。倒也不是真的读不下去，只是学校里的那些老练的老师，几十年生是把好的都讲得味同嚼蜡，直生生叫人劝退。
-
-几年前想通过考研换所城市，但看这今年的形势真的是稍微挂得上名的都逼近400，我要躲在这穷乡僻壤到什么时候，还是出来工作吧，没差
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1086783057)
-
-## 说唱述说着这个世界的复杂
-
-很惊艳是 19 年的歌, 无法改变, 一起摆烂
-
-![image](https://user-images.githubusercontent.com/57313137/161755571-750e8d20-8ed6-4ddf-acaa-3ab6351c774f.png)
-
-从最开始的纯乐, 到后来的爵士, 民谣, 说唱, 都在述说着这个世界的颠簸和复杂 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1088655346)
-
-## 我们永远无法弥补现在, 所以尽兴
-
-过去的悲哀就真的成了过去的悲哀，未来你想补都补不回来，没有那个环境，心境，再多的也只是悲哀，我替我的童年感到悲哀，虽说不上悲惨，但距离我想的人生 还是要差一大截
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089019348)
-
- ## 陈词滥调之百度
-
-常年使用百度的后果就是闻到什么干货的味道就疯狂往收藏夹里塞，之后这辈子也不再看一眼
-
-但你不知道的是，你缺的从来不是别人嘴里的干货
-
-你缺的 是只是一个搜索引擎和一份官方文档
-
-
-![image](https://user-images.githubusercontent.com/57313137/161804965-92778974-3ab6-49b3-a508-554cf587b657.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1089023504)
-
-## 养猫和养人一样
-
-如果没能做好百分百的容纳准备, 如果没能好好的照顾好养育之物的情绪等因素, 不如不养, 父亲的很多事情我不想插足, 因为我没有那么多时间, 那样很累, 也不讨好, 但是父亲显然已经不具备养猫的能力了, 或者说大部分情况下都不具备, 和他生活在一起你不知道什么时候会出糗尴尬, 这是这么多年始终没有改变的.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1091137388)
-
-## 演好自己的角色好难
-
-不敢换 iphone, 舍不得, 但是又也别馋 IOS.
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094091735)
-
-我能感觉到我对父亲抱有极大的偏见，因为同一件事情如果父亲做的我会拿放大镜🔎去找茬去抨击他，反而是我自己根本没有那种本领却要求他人拥有，我真是个傻逼
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094547269)
-
-
-当我发现流传到网络上的天空高度相似的时候
-我意识到这是一个无聊到何种地步的世界
-
-世界只有一片天空
-一种意识形态
-一种声音
-一个标准
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1094583695)
-
-## 离心难归位
-
-四月来一直过得太安逸了，目标太大落脚太小目标达不到，很挫败了可以说，还有多到数不清的todo list，让人松不了气。
-
-但是就算这样，才要加把劲吧，不能把专注力丢了啊，不能成为一个只会看短视频，嫌麻烦，放弃思考的废物啊
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1101182362)
-
-## 自我 AV 模板
-
-
-> 我这样做的原因是(xxx优点xxx);
->
-> 这样做的代价仅仅是(xxx缺点xxx);
->
-> 而我也只需要(xxx取舍xxx)这样做罢了;
->
-> 又不是不(xxx能用xxx)
-
-非常疑惑的是, 当我把我冲动但克制住的东西用陈述句梳理一遍的时候, 我冷静下来了.
-
- 
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1114111316)
-
-## 如果我未曾把你生下来, 我想你会感谢我
-
-我时常想象我有这样一个孩子, 尽管我只是才二十几岁, 我想象着我的孩子他理解我
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1124417703)
-
-## What I Regret to Buy. Are You?
-
-Almost everybody in this era like to recommand sth to you such as, "this is awsome!", "fatanstaic"
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1124417759)
-
-## 你应该着重关注报错的具体信息, 而不是浮于表面的说它报错了
-
-比如: 报的具体错误类型, 排查日志的 Log 文件, 而不是单方面的说它出错了, 因为错误并非函数关系, 是满射类型, 我们有时就无法得到正确信息.
-
-今日跑 https://github.com/RPCS3/rpcs3 报错日志 `{PPU[0x1000000] Thread (main_thread) [0x0056ef1c]} VM: Access violation reading location 0xf5f5b004 (unmapped memory)` 定位发现是 Mod 的问题. 这问题才得到解决...
-
-- wrong: [ode用女神异闻录5汉化补丁方法 - PS4/PS3软硬技术区 - A9VG电玩部落论坛 - Powered by Discuz!](https://bbs.a9vg.com/thread-5367079-1-1.html )
-- right: [Problems with Persona 5 (NPEB02436) 01.00 : rpcs3](https://www.reddit.com/r/rpcs3/comments/h0wpop/problems_with_persona_5_npeb02436_0100/ )
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1130200096)
-
-## 毫无意义的动作 actions 不要追求一次做完
-
-我认为需要为自己必须要一次性做完，做到底的事情拉一个清单，反而对那些不那么重要，没有必要今天做完的琐碎事情做出警示，因为那些琐碎的事情会随着时间变化而变化，到时候琐碎的事情就会变得更多，如果总是放任自己在那些鸡毛蒜皮的小事上，虽然我们说一花一世界，小小的世界蕴含大道理，但是这样却一点都不值得浪费你宝贵的时间
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1139821961)
-
-## 必须每天计划好明天要做什么
-
-要不然每天醒来都到处逛逛, 无所事事, 每天的黄金时间都会被蹉跎掉.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1143780271)
-
-## 中国人很聪明但是没有逻辑
-
-如果让你解一道抽象的数学题, 花不了多长时间大概就可以解开, 但是如果让你判断决策一件事情就会异常艰难.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1143781524)
-
-## Don't stop your hobby
-
-这段时间为了赶时间，放下了一切杀时间的爱好，动漫因为追原作导致基本没的看，漫画也不太想看了，间谍过家家不喜欢恋爱剧情，游戏Steam天天搞事心烦的很，再者也没有多余的钱拿来再买游戏，读书又有太多专业的书卡在那里不想读，感觉真的有点绝望了，南方公园很好看但是越来越多现实元素让我感觉如果不去了解就太浪费了，画画又太费时间不知道要怎么做，好像买东西(iPhone)来打发时间，但是发现没有钱，艹，喜欢的人也不知道怎么样了，不敢鼓起勇气去问一问
-
-说起来我的爱好可能也仅限于此了，过去这些年在繁重学业下养成的零星爱好不值一提，或者是我平时需要慰藉的时候反而太多，这些东西已经枯竭到不能让我再消费的程度，剩下的就是无聊的自慰时间，但是这种运动的频率在无意识中渐渐加速，已经快要到控制不住的境地了，我已经不太想靠这个了
-
-不要停止寻找你的爱好，赶快去挖掘你的爱好，就算买不起游戏也无所谓，又不是买不起硬盘，就算动漫没得看还有数不完的原作等你追，就算放弃也无所谓，不要停止挖掘你的爱好 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1145402756)
-
-## 真正痛苦的人是发不出悲鸣的
-
-我不知道为什么自己如此喜欢掏空自己去迎合他人，有时也会非常责怪那些活得非常自私的人，说实话，像我这种人，时间就不像是自己的，我做什么事情都要看别人的眼光照顾别人的感受，我在漫长的时间里选择入睡，我不知道尽头是什么，只是放任这段令人不适的时间陷入无意识的混沌。
-
-老师今天又在群里发布贫困补助声明，我不知道自己是否真的应该去申请，但是要说起来其实大家疫情期间都不好受，都过得不怎么样，这钱与其让人去申请，还不如真的平分下去。
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1145548941)
-
-## 混沌中的微光
-
-微光微得让人错悟, 不亮不灭的希望躁动, 在这无尽的混沌之中, 唯一与我同行得就是我自己, 我自娱自乐地捱, 渴望一日可以脱离这层笼罩我多年得绝望和阴影, 尽管常常被打得爬不起来, 尽管总是沉睡再混沌之中失控. 但其实身体潜意识里还是会让我苏醒, Something have to do... Maybe... 
-
-最近在控制自己多巴胺的水平, 好让自己可以减轻自己沉重的身体负担, 伴随着咖啡的戒断反应, 到最后真成了嗜睡, 表面上睡了很久, 但其实和工作一样, 基本没有什么有效的睡眠, 其实是杀时间的睡眠. I have to control,
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1146722974)
-
-## 色情 一定是 低俗 吗
-
-- [Is it abnormal if I find sex disgusting? I am 15. - Quora](https://www.quora.com/Is-it-abnormal-if-I-find-sex-disgusting-I-am-15 )
-    - I do too. I think it is abnormal if you DON’T find sex disgusting. Body parts, fluids, etc. EWWWW! People poop and pee and fart with their butts so idk why would anyone even like butts or dicks or vaginas! They smell so bad.
-    - It is perfectly normal. You are actually lucky to be this way.
-    - Sex is gross from one perspective. Two humans with really gross intestines inside and bodily fluids getting it together.
-    - I actually wish I was like you. I’m trying to lower my libido so that I won’t feel the need to sometimes look at any other woman apart from my girlfriend.
-
-- [I think sex is absolutely disgusting, am I odd? - Quora](https://www.quora.com/I-think-sex-is-absolutely-disgusting-am-I-odd )
-
-    - Not at all. I think it’s severely overrated, gross, and not important. I don’t understand why everyone is obsessed with it when I can make a list 20 miles long of things I’d rather be doing.
-    - No, I don’t think you’re odd. I find sex disgusting as well. I’ve never enjoyed it and I have zero interest in ever having it again. It repulses me. I think this is part of why I don’t want to date - all guys have ever wanted from me is sex. And it’s disgusting.
-    - No i find sex disgusting to i can assure you i am a straight girl but sex itself isn't what grosses me out it's the idea of a boys penis in my vagina that's what's so gross just the look of genitals gross me out and repulse me i want to be in a romantic relationship with a man but i don't want sex I'm not lesbian because i feel equally disguated by vaginas and hate the idea of being with a woman so I'm just gonna go with asexual
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1146754157)
-
-## 每当自己被消费欲望淹没的时候，总是用这样的心态安慰自己
-
-1. 未来会有更好的
-2. 捡便宜是捡不完的, 更便宜是有更多人为等不可知因素在其中的, 你在捡便宜的过程中就会和人产生比较, 往往别人捡到便宜比你自己丢了钱还难受, 但其实当时的你是没有选择的, 所以这个过程你注定会痛苦
-3. 如果你还在犹豫一件东西要不要买，那你一定不要买, 没有强大驱动力购买的商品最后也留不住
-4. 电子商品做好牺牲掉一半价值转出二手的准备
-5. 你有足够的选择权, 主要钱还在你手上, 未来大方向市场注定广阔, 虽然中国这个社会不太现实, 但是真的希望自己可以对未来抱有期待
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1146780424)
-
-## 失落的宠儿
-
-从今往后会有成千上万个这样的瞬间似曾相识，没人关心你这件事会成为你往后生活的主流，你不知道的是，这鄙夷而无法融入的当下，是你这辈子的高峰，当泡沫破碎，往后都是急转直下。
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1151947162)
-
-## 相见不如怀念 
-
-臆想 和 现实打得不可开交, 看到也只能视若无睹, 过去时光里八个美好的存在再也没有了, 悲伤此刻也不知道去哪了, 内心只是非常的平静, 虽然又短暂地进入了那段各系的那个角色, 但我意识到就此打断就是最好的结局, 她对我的感觉不可能会有任何新的东西存在, 我也一样, 如果幻想可以好过一点, 我愿意创造整个宇宙. 不见世人.
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1152804915)
-
-## 寻觅内心的声音
-
-其实这声音消失了有一段时间了, 在某个时间点的开始, 消费, 性, 生产力, 或是其他的什么, 占据了每天的大全部精力, 日日思索着想要什么, 沦为不断被别人种草的存在, 其实现在也是这样, 但是不一样的东西可能再度游荡在脑海中, 这是一个自高中间断出现开始, 到宽松大学的完全消失, 现在又再度恢复的一种声音.
-
-这是一种关于如何在脑海中构建出结构缜密, 碰触边界的声音 -- 理性. 显然当我享受当下生活的时候, 我是不具备理性的, 我只是沉溺于混沌之中, 那是最舒服的地方, 我从那里来, 也终将回归到哪里去. 在人类绞尽脑汁想出的评价体系中得到一个评价, 然后慢慢地如受锤的牛一样, 归故里.
-
-> 那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1152896181)
-
-## Day Trivia
-
-你知道吗? 
-
-你要感到庆幸, 在猫打翻水杯的时候, 父亲就在旁边, 恰巧有他可以帮你你收拾残局, 要不然你损失的就不是 3 个键帽支持和 1 个键帽了. 这次事件过后我为我的水杯盖上了盖子, 在离开书桌前确认收拾好自己的桌面, **确保不给猫猫留什么马脚**, 好让这只猫钻了空子. 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1155301482)
-
-## 权力一旦让渡 就再也收不回来了
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1157535398)
-
-## 我能完整吗？就算我知道并不可能
-
-我渴望爱，渴望得到那诱人的另一半，我渴望填补我内心的空虚，我想这条我想走的路就是交媾，我希望能用那片刻的欢愉堵住生活中的这黑洞。
-
-但是我知道其实其实没有人能够完整，在这个世界上，在我还没怎么活明白的时候人生就这样坦坦荡荡地在我面前铺开，没有太多的波澜，甚至连一点点期待都没有，我所浸泡着的，这几十年来给我营造的幻觉就是一种无法原谅的幻灭，我多么希望能早点看透这操蛋的生活，但是我不能，那些被灌输的想法连我自己都没有办法觉察，等回过头来就是这种连求死都做不到的懦弱的人了。
-
-天啊，粗略极端了一下，可能这辈子都娶不到wjr了，我要怎么办。日日活在幻想这她的未来吗？
-
-我该如何面对我的真心，面对这个巨大惯性的社会，她是个好女孩，理应获得最美好的人，我多么希望我就是，但我不是，我就是那种大赤贫阶级，生活在一丝丝中产的幻觉中，如果一日发生意外，我将知道这是下一层幻灭。这个社会让我病不起，生不起，买不起，信不起，唯独人人都要和你说一遍，不许死。
-
-简直是何不食肉糜，简直是屁股决定脑袋，简直是跪久了就站不起来的那批人。我知道我要糊口，我就必须要为我热爱的互联网上糊 shit，也许我唯一能做的就是慢慢梳理我的逻辑，让我今后的人生和工作不要那么多 error。减少糊 shit，从今天开始。
-
-
-草，怎么又励志了
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1157554112)
-
-## 不要把心放在任何无交集的人身上
-
-就算他再合你的胃口，再夺你的眼球，也不要把这个人拔高到什么高度，更不能让这个人得到能审判你的价值的地步，那样对你自己太残酷了吧，别人总是能审视自己的价值，自己在自己眼里却一文不值1
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1160961410)
 
 
 
