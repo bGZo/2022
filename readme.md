@@ -1,23 +1,4 @@
-- [read(book) Updated at 2022-06-23](#readbook-updated-at-20220623)
-    - [蔡智恒](#蔡智恒)
-    - [工作, 消费主义和新穷人](#工作-消费主义和新穷人)
-    - [沉默的大多数](#沉默的大多数)
-    - [伤逝](#伤逝)
-    - [新的一天](#新的一天)
-    - [孩子们的诗](#孩子们的诗)
-    - [如果没有今天. 明天会不会有昨天](#如果没有今天-明天会不会有昨天)
-    - [你当像鸟飞向你的山](#你当像鸟飞向你的山)
-    - [凡人修仙传](#凡人修仙传)
-    - [The little Prince](#the-little-prince)
-        - [ch01](#ch01)
-        - [ch02](#ch02)
-        - [ch03](#ch03)
-        - [ch04](#ch04)
-        - [ch05](#ch05)
-    - [秒懂设计模式](#秒懂设计模式)
-        - [创建](#创建)
-        - [结构](#结构)
-- [thought(message) Updated at 2022-06-23](#thoughtmessage-updated-at-20220623)
+- [thought(message) Updated at 2022-06-24](#thoughtmessage-updated-at-20220624)
     - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
         - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
         - [边缘人群注定痛苦](#边缘人群注定痛苦)
@@ -92,6 +73,47 @@
     - [不要把心放在任何无交集的人身上](#不要把心放在任何无交集的人身上)
     - [我想我不会在 Steam 上玩游戏了](#我想我不会在-steam-上玩游戏了)
     - [倘若有一天, 连一壶热水都懒得做, 连揭开手边的咖啡盖都觉得吃劲的话, 怎么办?](#倘若有一天-连一壶热水都懒得做-连揭开手边的咖啡盖都觉得吃劲的话-怎么办)
+    - [place holder4myself](#place-holder4myself)
+    - [Fuck Inner Mongolia DNS](#fuck-inner-mongolia-dns)
+- [read(book) Updated at 2022-06-24](#readbook-updated-at-20220624)
+    - [蔡智恒](#蔡智恒)
+    - [工作, 消费主义和新穷人](#工作-消费主义和新穷人)
+    - [沉默的大多数](#沉默的大多数)
+    - [伤逝](#伤逝)
+    - [新的一天](#新的一天)
+    - [孩子们的诗](#孩子们的诗)
+    - [如果没有今天. 明天会不会有昨天](#如果没有今天-明天会不会有昨天)
+    - [你当像鸟飞向你的山](#你当像鸟飞向你的山)
+    - [凡人修仙传](#凡人修仙传)
+    - [The little Prince](#the-little-prince)
+        - [ch01](#ch01)
+        - [ch02](#ch02)
+        - [ch03](#ch03)
+        - [ch04](#ch04)
+        - [ch05](#ch05)
+    - [秒懂设计模式](#秒懂设计模式)
+        - [创建](#创建)
+        - [结构](#结构)
+    - [行为](#行为)
+        - [原则](#原则)
+- [swipe(bangumi) Updated at 2022-06-24](#swipebangumi-updated-at-20220624)
+    - [虫师](#虫师)
+        - [S1E6](#s1e6)
+        - [S1E8](#s1e8)
+    - [S1E16](#s1e16)
+    - [猜火车 Trainspotting](#猜火车-trainspotting)
+    - [猜火车2 Trainspotting2](#猜火车2-trainspotting2)
+    - [乙女游戏世界对路人角色很不友好](#乙女游戏世界对路人角色很不友好)
+    - [朋友游戏](#朋友游戏)
+    - [魔法师黎明期](#魔法师黎明期)
+    - [间谍过家家](#间谍过家家)
+        - [什么鬼吐槽](#什么鬼吐槽)
+    - [异世界迷宫里开后宫](#异世界迷宫里开后宫)
+    - [恋上换装娃娃 / [更衣人偶坠入爱河](https://bgm.tv/subject/333158)](#恋上换装娃娃--更衣人偶坠入爱河httpsbgmtvsubject333158)
+        - [不要评判别人的喜好啊](#不要评判别人的喜好啊)
+        - [男主 社恐到有点感同身受了😅](#男主-社恐到有点感同身受了)
+        - [自从你的出现, "美丽" 这个词的定义就变了, 美丽不再是空泛的概念, 而是被你填满了](#自从你的出现-美丽-这个词的定义就变了-美丽不再是空泛的概念-而是被你填满了)
+        - [技巧生疏的话, 就需要花费三倍的时间再找回来啊](#技巧生疏的话-就需要花费三倍的时间再找回来啊)
 - [log(bug) Updated at 2022-06-22](#logbug-updated-at-20220622)
     - [Stage](#stage)
     - [整理房间](#整理房间)
@@ -154,19 +176,6 @@
     - [人体工程学, 表面解决腰酸背痛问题](#人体工程学-表面解决腰酸背痛问题)
     - [Productivity Pron](#productivity-pron)
     - [抓包](#抓包)
-- [swipe(bangumi) Updated at 2022-06-22](#swipebangumi-updated-at-20220622)
-    - [虫师](#虫师)
-        - [S1E6](#s1e6)
-        - [S1E8](#s1e8)
-    - [S1E16](#s1e16)
-    - [猜火车 Trainspotting](#猜火车-trainspotting)
-    - [猜火车2 Trainspotting2](#猜火车2-trainspotting2)
-    - [乙女游戏世界对路人角色很不友好](#乙女游戏世界对路人角色很不友好)
-    - [朋友游戏](#朋友游戏)
-    - [魔法师黎明期](#魔法师黎明期)
-    - [间谍过家家](#间谍过家家)
-        - [什么鬼吐槽](#什么鬼吐槽)
-    - [异世界迷宫里开后宫](#异世界迷宫里开后宫)
 - [make(mark) Updated at 2022-06-21](#makemark-updated-at-20220621)
     - [Code Review Mark](#code-review-mark)
         - [Telegram API](#telegram-api)
@@ -233,304 +242,7 @@
     - [死馆](#死馆)
 
 
-# read(book) Updated at 2022-06-23
-## 蔡智恒
-
-在 [Demon](http://demon.tw/about) 的博客里看到这样一句话:
-
-> 寂寞确实跟孤单不一样，孤单只表示身边没有别人。
-> 
-> 但寂寞是一种，你无法将感觉跟别人沟通或分享的心理状态。
-> 
-> 而真正的寂寞应该是，连自己都忘了，喜欢一个人的感觉。
-> 
-> ——蔡智恒《夜玫瑰》
-
-突然很想读一下他的书, 先 Mark 下.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1008560846)
-
-## 工作, 消费主义和新穷人
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777770)
-
-## 沉默的大多数
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777951)
-
-## 伤逝
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778133)
-
-## 新的一天
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778245)
-
-## 孩子们的诗
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778527)
-
-## 如果没有今天. 明天会不会有昨天
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778806)
-
-## 你当像鸟飞向你的山
-
-我一直以为是本小说，读到最后的致谢才发现其实是本回忆录，确是又惊又喜。
-故事主要冲突依旧体现在原生家庭，暴力和宗教方面，引述书中的陈述，大致就是
-
-> 我意识到除了理查德和泰勒，我所有的兄弟姐妹都在经济上依赖着我父母。我的家人从中间一分两半——三个离开了大山，四个留了下来。三个获得博士学位，四个没有高中文凭。裂痕已经出现，而且越来越深
-
-生活的多元也让自己多少能中同理一二。个人最喜欢的部分是主人公到杨百翰中求学的心理冲突，因为和个人的部分经历重叠，有比较多的共鸣。
-结尾收束那部分总感觉和《蛤蟆先生去看心理医生》有些许共通之处，暂时就留给下次阅读吧。
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1026485210)
-
-## 凡人修仙传
-
-修仙小说用词就这么夸张吗?  看着就像是个本子
-
-玉腕, 展颜, 艳容 ...
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1150583570)
-
-## The little Prince
-
-- weread book online: [book-zh-weread](https://weread.qq.com/web/bookDetail/62a32bd0726a673262afe98); [book-en-weread](https://weread.qq.com/web/bookDetail/cf132190715aaeaacf12d9b)
-- video read online: [BV1QB4y1c78v](https://www.bilibili.com/video/BV1QB4y1c78v)
-
-### ch01
-
-- Once when I was six years old I saw a **magnificent** picture in a book, called True Stories from Nature, about the **primeval** forest. It was a picture of a **boa constrictor** in the act of swallowing an animal.
-  我六岁那年，在一本描写原始森林的名叫《真实的故事》的书上，看见过一幅精彩的插图，画的是一条蟒蛇在吞吃一头猛兽
-- Boa constrictors swallow their prey whole, without chewing it
-  蟒蛇把猎物囫囵吞下，嚼都不嚼
-- I **pondered** deeply, then, over the adventures of the **jungle**.
-  当时，我对丛林里的奇妙景象想得很多
-- The grown-ups’ response, this time, was to advise me to **lay aside** my drawings of boa constrictors, whether from the inside or the outside, and devote myself instead to geography, history, arithmetic and grammar
-  那些大人劝我别再画蟒蛇，甭管它是剖开的，还是没剖开的，全都丢开。他们说，我还是把心思放在地理、历史、算术和语法上好
--  I had been **disheartened** by the failure of my Drawing Number One and my Drawing Number Two.
-  作品1号和作品2号都没成功，我泄了气
-
-> Grown-ups never understand anything by themselves, and it is **tiresome** for children to be always and forever explaining things to them.
-> 那些大人自个儿什么也弄不懂，老要孩子们一遍一遍给他们解释，真烦人
-
-- **In the course of this life** I have had a great many encounters with a great many people who have been **concerned with matters of consequence**.
-  就这样，我这一生中，跟好多严肃的人打过好多交道
-- I have seen them **intimately**, **close at hand**. And that hasn’t much improved my opinion of them.
-  我仔细地观察过他们。观察下来印象并没好多少
-- Whenever I met one of them who seemed to me at all **clear-sighted**, I tried the experiment of showing him my Drawing Number One, which I have always kept.
-  要是碰上一个人，看上去头脑稍许清楚些，我就拿出一直保存着的作品1号，让他试试看
-- I would try to find out, so, if this was a person of true understanding.
-  我想知道，他是不是真的能看懂
-- I would **bring myself down to** his level. I would talk to him about bridge, and golf, and politics, and neckties.
-  我就说些他能懂的事情。我跟他说桥牌，高尔夫，政治，还有领带
-- And the grown-up would be greatly pleased to have met such a **sensible** man.
-  于是大人觉得很高兴，认识了这么个通情达理的人
-
-### ch02
-
-- So I **lived my life alone**, without anyone that I could really talk to, until I had an accident with my plane in the Desert of Sahara, six years ago. 
-  我孤独地生活着，没有一个真正谈得来的人，直到六年前，有一次飞机出了故障，降落在撒哈拉大沙漠
-- And as I had with me neither a **mechanic** nor any passengers, I set myself to attempt the difficult repairs all alone.
-  因为我身边既没有机械师，也没有乘客，我就打算单枪匹马来完成一项困难的修复工作
-- I was more **isolated** than a **shipwrecked** sailor on a **raft** in the middle of the ocean. 
-  比靠一块船板在大海中漂流的遇难者还孤独
-- Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. 
-  所以，当天蒙蒙亮，有个奇怪的声音轻轻把我喊醒的时候，你们可以想象我有多么惊讶
-- I jumped to my feet, completely **thunderstruck**. 
-  我像遭了雷击似的，猛地一下子跳了起来
-- And I saw a most **extraordinary** small person, who stood there examining me with great seriousness.
-  只见一个从没见过的小人儿，正一本正经地看着我呢
-- Here you may see the best **portrait** that, later, I was able to **make of him**. 
-  后来我给他画了一幅非常出色的肖像，就是旁边的这幅
-- But my drawing is certainly very much less charming than its **model**.
-  不过我的画，当然远远不及本人可爱
-- That, however, is not my fault. The grown-ups **discouraged** me in my painter’s career when I was six years old, and I never learned to draw anything, except boas from the outside and boas from the inside.
-  我的画家生涯在六岁那年就让大人给断送了，除了画剖开和不剖开的蟒蛇，后来再没画过什么
-- Now I stared at this sudden **apparition** with my eyes **fairly starting out of my head in astonishment**.
-  我吃惊地瞪大眼睛瞧着他
-- Remember, I had crashed in the desert a thousand miles from any inhabited region. And yet my little man seemed neither to be **straying** uncertainly among the sands, nor to be **fainting from fatigue** or hunger or thirst or fear.
-  你们别忘记，这儿离有人住的地方好远好远呢。可是这个小人儿，看上去并不像迷了路，也不像累得要命、饿得要命、渴得要命或怕得要命
-- And in answer he repeated, very slowly, as if he were speaking of **a matter of great consequence**:
-  他轻声轻气地又说了一遍，好像那是件很要紧的事情：
-- When a mystery is too **overpowering**, one dare not disobey.
-  受到神秘事物强烈冲击时，一个人是不敢不听从的
-- **Absurd** as it might seem to me, a thousand miles from any human habitation and in danger of death, I took out of my pocket a sheet of paper and my **fountain-pen**.
-  尽管在我看来，离一切有人居住的地方远而又远，又处于死亡的威胁之下，在这儿想到画画真是匪夷所思，可我还是从口袋里掏出一张纸、一支钢笔 
-- But then I remembered how my studies had been concentrated on geography, history, arithmetic, and grammar, and I told the little **chap** (a little crossly, too) that I did not know how to draw. 
-  但我想起我只学了地理、历史、算术和语法，所以我就（有点没好气地）对那小人儿说，我不会画画
-- A boa constrictor is a very dangerous creature, and an elephant is very **cumbersome**.
-  蟒蛇很危险，大象呢，太占地方
-- My friend smiled gently and **indulgently**. “You see yourself,” he said, “that this is not a sheep. This is a **ram**. It has **horns**.”
-  我的朋友温和地笑了，口气宽容地说：“你看看……这只不是绵羊，是山羊。头上长着角……”
-- But it was **rejected** too, just like the others.
-  但这一张也跟前几张一样，没能通过
--  So I **tossed** off this drawing.
-  所以我就胡乱画了一张
-- I was very surprised to see a light break over the face of my young **judge**,
-  但是令我吃惊的是，这个小评判的脸上顿时变得容光焕发了
-- He **bent** his head over the drawing.
-  他低下头去看那幅画
-
-### ch03 
-
-- It was from words **dropped by chance that**, little by little, everything was **revealed** to me.
-  我是从他偶尔漏出来的那些话里，一点一点知道这一切的
-- And the little prince broke into a lovely **peal** of laughter, which **irritated** me very much. 
-  小王子发出一阵清脆的笑声，这下可把我惹恼了。
-- I like my misfortunes to be taken seriously.
-  我不喜欢别人拿我的不幸逗趣儿
-- At that moment I caught a **gleam** of light in the **impenetrable** mystery of his presence; and I demanded, **abruptly**,
-  我脑子里闪过一个念头，他的降临之谜好像有了线索，我突如其来地发问
-- He **tossed** his head gently, without taking his eyes from my plane. 
-  他看着我的飞机，轻轻地点了点头
-- And he sank into a **reverie**, which lasted a long time. 
-  说着，他出神地遐想了很久
-- Then, taking my sheep out of his pocket, he buried himself in the **contemplation** of his treasure.
-  而后，从袋里拿出我画的绵羊，全神贯注地凝望着这宝贝。
-- After a **reflective** silence he answered:
-  若有所思地沉默了一会儿，然后开口对我说：
-- And if you are **good** I will give you a **string**, too, so that you can tie him during the day, and a **post** to tie him to.
-  要是你乖，我还会给你一根绳子，白天可以把它拴住。木桩也有
-- What a **queer** idea!
-  真是怪念头
-- Then the little prince said, **earnestly**
-  小王子一本正经地说
-- And, with perhaps **a hint of** sadness, he added,
-  他又说了一句，语气中仿佛有点儿忧郁
-
-### ch04
-
-- this was that the planet the little prince came from was **scarcely** any larger than a house!
-  他居住的星球比一座房子大不了多少！
-- On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great **demonstration**. 
-  当时，他在一次国际天文学大会上作了长篇论证
-- Fortunately, however, for the reputation of Asteroid B612, a Turkish **dictator** made a law that his subjects, under pain of death, should change to European **costume**.
-  有一个土耳其独裁者下令，全国百姓都要穿欧洲的服装，违令者处死，这一下 B612 号小行星的名声总算保全了
-- So in 1920 the astronomer gave his **demonstration** all over again, dressed with impressive style and elegance.
-  那个天文学家在1920年重新作报告，穿着一套非常体面的西装
-- If I have told you these details about the **asteroid**, and made a note of its number for you, it is on account of the grown-ups and their ways. 
-  我之所以要跟你们一五一十地介绍B 612号小行星，还把它的编号也讲得明明白白，完全是为了大人
-- If you were to say to the grown-ups, “I saw a beautiful house made of **rosy brick**, with **geraniums** in the windows and **doves** on the roof,” they would not be able to get any idea of that house at all. 
-  你要是对大人说：“我看见一幢漂亮的房子，红砖墙，窗前种着天竺葵，屋顶上停着鸽子……”他们想象不出这幢房子是怎样的。
-- Then they would **exclaim**, “Oh, what a pretty house that is!”
-  他们马上会大声嚷嚷：“多漂亮的房子！”
-- They would **shrug** their shoulders, and treat you like a child.
-  他们会耸耸肩膀，只当你还是个孩子！
-- then they would be convinced, and leave you in peace from their questions.
-  他们就会深信不疑，不再问这问那地烦你了
-- They are like that. One must not hold it against them. 
-  他们就是这样。不必怪他们
-- Children should always show great **forbearance** toward grown-up people.
-  孩子应该对大人多多原谅才是。
-- But **certainly**, for us who understand life, **figures are a matter of indifference**.
-  不过，当然，我们懂得生活，我们才不把数字放在眼里呢
-- For I do not want anyone to read my book carelessly, I have suffered too much **grief** in s**etting down** these memories. 
-  我不想人家轻率地来读我这本书。我讲述这段往事时，心情是很难过的
-> To forget a friend is sad. Not everyone has had a friend. And if I forget him, I may become like the grown-ups who are no longer interested in anything but figures...
-> 忘记朋友是件令人伤心的事情。并不是人人都有过一个朋友的。再说，我早晚也会变得像那些只关心数字的大人一样的。
-- I shall certainly try to make my **portraits** as true to life as possible.
-  当然，我一定要尽力把它们画得像一些
-- One drawing goes along all right, and another has no **resemblance** to its subject.
-  有时这一张还行，那一张就不大像了。
-- So I **fumble** along as best I can, now good, now bad, and I hope generally fair to **middling**.
-  我只好信手拿起色笔这儿试一下，那儿试一下。
-- In certain more important details I shall make mistakes, also. 
-  到头来，有些最要紧的细部，说不定都弄错了。
-- But that is something that will not be my fault. 
-  不过这一切，大家都得原谅我才是
-> My friend never explained anything to me. He thought, perhaps, that I was like himself.
-> 我的朋友从来不跟我解释什么。他大概以为我是跟他一样的
-- I **have had** to grow old.
-  我一定是老了
-
-### ch05
-
-- As each day passed I would learn, in our talk, something about the little prince’s planet, his **departure** from it, his journey. 
-  每天我都会知道一些情况，或者是关于他的星球，或者是关于他怎么离开那儿、怎么来到这儿
-- The information would come very slowly, as **it might chance to fall from his thoughts**.
-  这些情况，都是一点一点，碰巧知道的
-- It was in this way that I heard, on the third day, about the **catastrophe** of the baobabs.
-  比如说，在第三天，我知道了猴面包树的悲剧。
-- This time, once more, I had the sheep to thank for it. 
-  这一回，起因又是那只绵羊
-- For the little prince asked me abruptly—as if **seized** by a **grave** doubt—“It is true, isn’t it, that sheep eat little **bushes**?”
-  因为小王子突然向我发问，好像忧心忡忡似的: “绵羊当真吃灌木吗？”
-- “Then it follows that they also eat baobabs?”
-  “这么说，它们也吃猴面包树喽？”
-- I pointed out to the little prince that baobabs were not little bushes, but, on the contrary, trees as big as castles; and that even if he took a whole **herd** of elephants away with him, the herd would not eat up one single baobab.
-  我告诉小王子，猴面包树不是灌木，而是像教堂那么高的大树，他就是领一群大象来，也吃不完一棵猴面包树呢
-- “We would have to **put them one on top of the other**,” he said.
-  “那得让它们叠罗汉了……”
-- as if he were speaking of something that was self-evident. 
-  就像这是件不言而喻的事情
-- Indeed, as I learned, there were on the planet where the little prince lived—as on all planets—good plants and bad plants.
-  原来，在小王子的星球上，就像在别的星球上一样，有好的植物，也有不好的植物
-- **In consequence**, there were good seeds from good plants, and bad seeds from bad plants. 
-  结果呢，好植物有好种子，坏植物有坏种子
-- But seeds are invisible. They sleep deep in the heart of the earth’s darkness, until someone among them is **seized** with the desire to awaken. 
-  它们悄悄地睡在地底下，直到有一天，其中有一颗忽然想起要醒了
-- Then this little seed will stretch itself and begin—**timidly** at first—to push a charming little **sprig** **inoffensively** **upward** **toward** the sun.
-  于是它舒展身子，最先羞答答地朝太阳伸出一枝天真可爱的嫩苗
-- If it is only a **sprout** of **radish** or the **sprig** of a **rosebush**, one would let it grow wherever it might wish. 
-  假如那是萝卜或玫瑰的幼苗，可以让它爱怎么长就怎么长。
-- But when it is a bad plant, one must destroy it as soon as possible, **the very first instant that one recognizes it**.
-  不过，假如那是一株不好的植物，一认出就得拔掉它
-- The soil of that planet was **infested** with them.
-  星球的土壤里有好多猴面包树种子
-- It is a question of **discipline**
-  这就得有个严格的约束了
-- It is very **tedious** work,” the little prince added, “but very easy.
-  这个工作很单调，但并不难
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1162920203)
-
-## 秒懂设计模式
-
-### 创建
-
-- 单例 
-  ![image](https://user-images.githubusercontent.com/57313137/175233696-f5ac6fd0-d63e-4946-901e-b696e81bb004.png)
-- 原型
-  ![image](https://user-images.githubusercontent.com/57313137/175233789-633f8fb7-a890-4d70-a03c-200857b3d91e.png)
-- 工厂
-  ![image](https://user-images.githubusercontent.com/57313137/175233865-5cf5e367-e980-4528-9b81-582f2196849a.png)
-- 抽象工厂
-  ![image](https://user-images.githubusercontent.com/57313137/175233928-d2df1cf6-28f9-42d0-bf35-df28b4d9ade9.png)
-- 建造者
-  ![image](https://user-images.githubusercontent.com/57313137/175233997-ee7c1f58-b2a5-48ab-8ec2-baf36f384ca2.png)
-
-
-### 结构
-
-- 门面
-  ![image](https://user-images.githubusercontent.com/57313137/175234891-a4ad58d9-320f-4c0e-82c6-8a62dec228f9.png)
-- 组合
-  ![image](https://user-images.githubusercontent.com/57313137/175235009-9f97295b-ae3d-408b-8f93-768f8d639af4.png)
-- 装饰器
-  ![image](https://user-images.githubusercontent.com/57313137/175235131-1af28001-1de6-4aed-98f5-0cea18ca9303.png)
-- 适配器
-  - 对象适配器
-    ![image](https://user-images.githubusercontent.com/57313137/175235443-a2ff43e6-dfb1-4aec-bdac-beab83aac388.png)
-  - 类适配器
-    ![image](https://user-images.githubusercontent.com/57313137/175235551-6418cf72-a9f3-41b0-a6c3-1bd73bb926d6.png)
-- 享元
-  ![image](https://user-images.githubusercontent.com/57313137/175245048-9bc50001-9269-49e0-a071-eb0b9ef9f3c3.png)
-- 代理
-  ![image](https://user-images.githubusercontent.com/57313137/175245345-4883b433-5303-438a-a5bd-4bef124b420d.png)
-- 桥接
-  ![image](https://user-images.githubusercontent.com/57313137/175248031-19a8ae46-acef-4403-bc1a-1f2f2fcbb3d2.png)
-  
- 
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1164020813)
-
-
-
-# thought(message) Updated at 2022-06-23
+# thought(message) Updated at 2022-06-24
 ## 一个新兴的行业 -- 内容审查
 
 我不明白叫嚣着推进全球化, 为何却还要移除掉跨国公司的经营许可, 可能两者不是一件事情, 但还是要用人家开源的技术去开发自己的轮子, 忽视他人的许可证, 魔改代码, 套个皮, 加层接口, 做商业化. 拒不认账, 拒不开源.
@@ -1286,6 +998,562 @@ Almost everybody in this era like to recommand sth to you such as, "this is awso
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1163913742)
+
+## place holder4myself
+
+这篇留给我自己，写我那不堪的过去，写给自我感觉良好，生活在幻想中的自己。
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1164667512)
+
+## Fuck Inner Mongolia DNS
+
+![image](https://user-images.githubusercontent.com/57313137/175514591-bb7ff0f1-8587-440f-bd1a-e60775b1f085.png)
+
+![image](https://user-images.githubusercontent.com/57313137/175514445-66b4c332-f5aa-4e62-a67b-ead5c6f7f840.png)
+
+```
+PS C:\Users\15517\Desktop\review> nslookup.exe github.com 222.74.1.200
+Server:  200.1.74.222.broad.hh.nm.dynamic.163data.com.cn
+Address:  222.74.1.200
+
+Non-authoritative answer:
+Name:    github.com
+Addresses:  ::
+          0.0.0.0
+
+PS C:\Users\15517\Desktop\review> nslookup.exe github.com 222.74.126.230
+Server:  230.126.74.222.broad.tl.nm.dynamic.163data.com.cn
+Address:  222.74.126.230
+
+Non-authoritative answer:
+Name:    github.com
+Addresses:  ::
+          0.0.0.0
+
+PS C:\Users\15517\Desktop\review> nslookup.exe github.com 222.74.59.65
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  222.74.59.65
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+PS C:\Users\15517\Desktop\review> nslookup.exe github.com 219.148.162.31
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  219.148.162.31
+PS C:\Users\15517\Desktop\review> nslookup.exe github.com 219.148.162.31
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  219.148.162.31
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+*** Request to UnKnown timed-out
+PS C:\Users\15517\Desktop\review> nslookup.exe github.com 222.74.39.50
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  222.74.39.50
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+*** Request to UnKnown timed-out
+
+```
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/1#issuecomment-1165424815)
+
+
+
+# read(book) Updated at 2022-06-24
+## 蔡智恒
+
+在 [Demon](http://demon.tw/about) 的博客里看到这样一句话:
+
+> 寂寞确实跟孤单不一样，孤单只表示身边没有别人。
+> 
+> 但寂寞是一种，你无法将感觉跟别人沟通或分享的心理状态。
+> 
+> 而真正的寂寞应该是，连自己都忘了，喜欢一个人的感觉。
+> 
+> ——蔡智恒《夜玫瑰》
+
+突然很想读一下他的书, 先 Mark 下.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1008560846)
+
+## 工作, 消费主义和新穷人
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777770)
+
+## 沉默的大多数
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019777951)
+
+## 伤逝
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778133)
+
+## 新的一天
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778245)
+
+## 孩子们的诗
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778527)
+
+## 如果没有今天. 明天会不会有昨天
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1019778806)
+
+## 你当像鸟飞向你的山
+
+我一直以为是本小说，读到最后的致谢才发现其实是本回忆录，确是又惊又喜。
+故事主要冲突依旧体现在原生家庭，暴力和宗教方面，引述书中的陈述，大致就是
+
+> 我意识到除了理查德和泰勒，我所有的兄弟姐妹都在经济上依赖着我父母。我的家人从中间一分两半——三个离开了大山，四个留了下来。三个获得博士学位，四个没有高中文凭。裂痕已经出现，而且越来越深
+
+生活的多元也让自己多少能中同理一二。个人最喜欢的部分是主人公到杨百翰中求学的心理冲突，因为和个人的部分经历重叠，有比较多的共鸣。
+结尾收束那部分总感觉和《蛤蟆先生去看心理医生》有些许共通之处，暂时就留给下次阅读吧。
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1026485210)
+
+## 凡人修仙传
+
+修仙小说用词就这么夸张吗?  看着就像是个本子
+
+玉腕, 展颜, 艳容 ...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1150583570)
+
+## The little Prince
+
+- weread book online: [book-zh-weread](https://weread.qq.com/web/bookDetail/62a32bd0726a673262afe98); [book-en-weread](https://weread.qq.com/web/bookDetail/cf132190715aaeaacf12d9b)
+- video read online: [BV1QB4y1c78v](https://www.bilibili.com/video/BV1QB4y1c78v)
+
+### ch01
+
+- Once when I was six years old I saw a **magnificent** picture in a book, called True Stories from Nature, about the **primeval** forest. It was a picture of a **boa constrictor** in the act of swallowing an animal.
+  我六岁那年，在一本描写原始森林的名叫《真实的故事》的书上，看见过一幅精彩的插图，画的是一条蟒蛇在吞吃一头猛兽
+- Boa constrictors swallow their prey whole, without chewing it
+  蟒蛇把猎物囫囵吞下，嚼都不嚼
+- I **pondered** deeply, then, over the adventures of the **jungle**.
+  当时，我对丛林里的奇妙景象想得很多
+- The grown-ups’ response, this time, was to advise me to **lay aside** my drawings of boa constrictors, whether from the inside or the outside, and devote myself instead to geography, history, arithmetic and grammar
+  那些大人劝我别再画蟒蛇，甭管它是剖开的，还是没剖开的，全都丢开。他们说，我还是把心思放在地理、历史、算术和语法上好
+-  I had been **disheartened** by the failure of my Drawing Number One and my Drawing Number Two.
+  作品1号和作品2号都没成功，我泄了气
+
+> Grown-ups never understand anything by themselves, and it is **tiresome** for children to be always and forever explaining things to them.
+> 那些大人自个儿什么也弄不懂，老要孩子们一遍一遍给他们解释，真烦人
+
+- **In the course of this life** I have had a great many encounters with a great many people who have been **concerned with matters of consequence**.
+  就这样，我这一生中，跟好多严肃的人打过好多交道
+- I have seen them **intimately**, **close at hand**. And that hasn’t much improved my opinion of them.
+  我仔细地观察过他们。观察下来印象并没好多少
+- Whenever I met one of them who seemed to me at all **clear-sighted**, I tried the experiment of showing him my Drawing Number One, which I have always kept.
+  要是碰上一个人，看上去头脑稍许清楚些，我就拿出一直保存着的作品1号，让他试试看
+- I would try to find out, so, if this was a person of true understanding.
+  我想知道，他是不是真的能看懂
+- I would **bring myself down to** his level. I would talk to him about bridge, and golf, and politics, and neckties.
+  我就说些他能懂的事情。我跟他说桥牌，高尔夫，政治，还有领带
+- And the grown-up would be greatly pleased to have met such a **sensible** man.
+  于是大人觉得很高兴，认识了这么个通情达理的人
+
+### ch02
+
+- So I **lived my life alone**, without anyone that I could really talk to, until I had an accident with my plane in the Desert of Sahara, six years ago. 
+  我孤独地生活着，没有一个真正谈得来的人，直到六年前，有一次飞机出了故障，降落在撒哈拉大沙漠
+- And as I had with me neither a **mechanic** nor any passengers, I set myself to attempt the difficult repairs all alone.
+  因为我身边既没有机械师，也没有乘客，我就打算单枪匹马来完成一项困难的修复工作
+- I was more **isolated** than a **shipwrecked** sailor on a **raft** in the middle of the ocean. 
+  比靠一块船板在大海中漂流的遇难者还孤独
+- Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. 
+  所以，当天蒙蒙亮，有个奇怪的声音轻轻把我喊醒的时候，你们可以想象我有多么惊讶
+- I jumped to my feet, completely **thunderstruck**. 
+  我像遭了雷击似的，猛地一下子跳了起来
+- And I saw a most **extraordinary** small person, who stood there examining me with great seriousness.
+  只见一个从没见过的小人儿，正一本正经地看着我呢
+- Here you may see the best **portrait** that, later, I was able to **make of him**. 
+  后来我给他画了一幅非常出色的肖像，就是旁边的这幅
+- But my drawing is certainly very much less charming than its **model**.
+  不过我的画，当然远远不及本人可爱
+- That, however, is not my fault. The grown-ups **discouraged** me in my painter’s career when I was six years old, and I never learned to draw anything, except boas from the outside and boas from the inside.
+  我的画家生涯在六岁那年就让大人给断送了，除了画剖开和不剖开的蟒蛇，后来再没画过什么
+- Now I stared at this sudden **apparition** with my eyes **fairly starting out of my head in astonishment**.
+  我吃惊地瞪大眼睛瞧着他
+- Remember, I had crashed in the desert a thousand miles from any inhabited region. And yet my little man seemed neither to be **straying** uncertainly among the sands, nor to be **fainting from fatigue** or hunger or thirst or fear.
+  你们别忘记，这儿离有人住的地方好远好远呢。可是这个小人儿，看上去并不像迷了路，也不像累得要命、饿得要命、渴得要命或怕得要命
+- And in answer he repeated, very slowly, as if he were speaking of **a matter of great consequence**:
+  他轻声轻气地又说了一遍，好像那是件很要紧的事情：
+- When a mystery is too **overpowering**, one dare not disobey.
+  受到神秘事物强烈冲击时，一个人是不敢不听从的
+- **Absurd** as it might seem to me, a thousand miles from any human habitation and in danger of death, I took out of my pocket a sheet of paper and my **fountain-pen**.
+  尽管在我看来，离一切有人居住的地方远而又远，又处于死亡的威胁之下，在这儿想到画画真是匪夷所思，可我还是从口袋里掏出一张纸、一支钢笔 
+- But then I remembered how my studies had been concentrated on geography, history, arithmetic, and grammar, and I told the little **chap** (a little crossly, too) that I did not know how to draw. 
+  但我想起我只学了地理、历史、算术和语法，所以我就（有点没好气地）对那小人儿说，我不会画画
+- A boa constrictor is a very dangerous creature, and an elephant is very **cumbersome**.
+  蟒蛇很危险，大象呢，太占地方
+- My friend smiled gently and **indulgently**. “You see yourself,” he said, “that this is not a sheep. This is a **ram**. It has **horns**.”
+  我的朋友温和地笑了，口气宽容地说：“你看看……这只不是绵羊，是山羊。头上长着角……”
+- But it was **rejected** too, just like the others.
+  但这一张也跟前几张一样，没能通过
+-  So I **tossed** off this drawing.
+  所以我就胡乱画了一张
+- I was very surprised to see a light break over the face of my young **judge**,
+  但是令我吃惊的是，这个小评判的脸上顿时变得容光焕发了
+- He **bent** his head over the drawing.
+  他低下头去看那幅画
+
+### ch03 
+
+- It was from words **dropped by chance that**, little by little, everything was **revealed** to me.
+  我是从他偶尔漏出来的那些话里，一点一点知道这一切的
+- And the little prince broke into a lovely **peal** of laughter, which **irritated** me very much. 
+  小王子发出一阵清脆的笑声，这下可把我惹恼了。
+- I like my misfortunes to be taken seriously.
+  我不喜欢别人拿我的不幸逗趣儿
+- At that moment I caught a **gleam** of light in the **impenetrable** mystery of his presence; and I demanded, **abruptly**,
+  我脑子里闪过一个念头，他的降临之谜好像有了线索，我突如其来地发问
+- He **tossed** his head gently, without taking his eyes from my plane. 
+  他看着我的飞机，轻轻地点了点头
+- And he sank into a **reverie**, which lasted a long time. 
+  说着，他出神地遐想了很久
+- Then, taking my sheep out of his pocket, he buried himself in the **contemplation** of his treasure.
+  而后，从袋里拿出我画的绵羊，全神贯注地凝望着这宝贝。
+- After a **reflective** silence he answered:
+  若有所思地沉默了一会儿，然后开口对我说：
+- And if you are **good** I will give you a **string**, too, so that you can tie him during the day, and a **post** to tie him to.
+  要是你乖，我还会给你一根绳子，白天可以把它拴住。木桩也有
+- What a **queer** idea!
+  真是怪念头
+- Then the little prince said, **earnestly**
+  小王子一本正经地说
+- And, with perhaps **a hint of** sadness, he added,
+  他又说了一句，语气中仿佛有点儿忧郁
+
+### ch04
+
+- this was that the planet the little prince came from was **scarcely** any larger than a house!
+  他居住的星球比一座房子大不了多少！
+- On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great **demonstration**. 
+  当时，他在一次国际天文学大会上作了长篇论证
+- Fortunately, however, for the reputation of Asteroid B612, a Turkish **dictator** made a law that his subjects, under pain of death, should change to European **costume**.
+  有一个土耳其独裁者下令，全国百姓都要穿欧洲的服装，违令者处死，这一下 B612 号小行星的名声总算保全了
+- So in 1920 the astronomer gave his **demonstration** all over again, dressed with impressive style and elegance.
+  那个天文学家在1920年重新作报告，穿着一套非常体面的西装
+- If I have told you these details about the **asteroid**, and made a note of its number for you, it is on account of the grown-ups and their ways. 
+  我之所以要跟你们一五一十地介绍B 612号小行星，还把它的编号也讲得明明白白，完全是为了大人
+- If you were to say to the grown-ups, “I saw a beautiful house made of **rosy brick**, with **geraniums** in the windows and **doves** on the roof,” they would not be able to get any idea of that house at all. 
+  你要是对大人说：“我看见一幢漂亮的房子，红砖墙，窗前种着天竺葵，屋顶上停着鸽子……”他们想象不出这幢房子是怎样的。
+- Then they would **exclaim**, “Oh, what a pretty house that is!”
+  他们马上会大声嚷嚷：“多漂亮的房子！”
+- They would **shrug** their shoulders, and treat you like a child.
+  他们会耸耸肩膀，只当你还是个孩子！
+- then they would be convinced, and leave you in peace from their questions.
+  他们就会深信不疑，不再问这问那地烦你了
+- They are like that. One must not hold it against them. 
+  他们就是这样。不必怪他们
+- Children should always show great **forbearance** toward grown-up people.
+  孩子应该对大人多多原谅才是。
+- But **certainly**, for us who understand life, **figures are a matter of indifference**.
+  不过，当然，我们懂得生活，我们才不把数字放在眼里呢
+- For I do not want anyone to read my book carelessly, I have suffered too much **grief** in s**etting down** these memories. 
+  我不想人家轻率地来读我这本书。我讲述这段往事时，心情是很难过的
+> To forget a friend is sad. Not everyone has had a friend. And if I forget him, I may become like the grown-ups who are no longer interested in anything but figures...
+> 忘记朋友是件令人伤心的事情。并不是人人都有过一个朋友的。再说，我早晚也会变得像那些只关心数字的大人一样的。
+- I shall certainly try to make my **portraits** as true to life as possible.
+  当然，我一定要尽力把它们画得像一些
+- One drawing goes along all right, and another has no **resemblance** to its subject.
+  有时这一张还行，那一张就不大像了。
+- So I **fumble** along as best I can, now good, now bad, and I hope generally fair to **middling**.
+  我只好信手拿起色笔这儿试一下，那儿试一下。
+- In certain more important details I shall make mistakes, also. 
+  到头来，有些最要紧的细部，说不定都弄错了。
+- But that is something that will not be my fault. 
+  不过这一切，大家都得原谅我才是
+> My friend never explained anything to me. He thought, perhaps, that I was like himself.
+> 我的朋友从来不跟我解释什么。他大概以为我是跟他一样的
+- I **have had** to grow old.
+  我一定是老了
+
+### ch05
+
+- As each day passed I would learn, in our talk, something about the little prince’s planet, his **departure** from it, his journey. 
+  每天我都会知道一些情况，或者是关于他的星球，或者是关于他怎么离开那儿、怎么来到这儿
+- The information would come very slowly, as **it might chance to fall from his thoughts**.
+  这些情况，都是一点一点，碰巧知道的
+- It was in this way that I heard, on the third day, about the **catastrophe** of the baobabs.
+  比如说，在第三天，我知道了猴面包树的悲剧。
+- This time, once more, I had the sheep to thank for it. 
+  这一回，起因又是那只绵羊
+- For the little prince asked me abruptly—as if **seized** by a **grave** doubt—“It is true, isn’t it, that sheep eat little **bushes**?”
+  因为小王子突然向我发问，好像忧心忡忡似的: “绵羊当真吃灌木吗？”
+- “Then it follows that they also eat baobabs?”
+  “这么说，它们也吃猴面包树喽？”
+- I pointed out to the little prince that baobabs were not little bushes, but, on the contrary, trees as big as castles; and that even if he took a whole **herd** of elephants away with him, the herd would not eat up one single baobab.
+  我告诉小王子，猴面包树不是灌木，而是像教堂那么高的大树，他就是领一群大象来，也吃不完一棵猴面包树呢
+- “We would have to **put them one on top of the other**,” he said.
+  “那得让它们叠罗汉了……”
+- as if he were speaking of something that was self-evident. 
+  就像这是件不言而喻的事情
+- Indeed, as I learned, there were on the planet where the little prince lived—as on all planets—good plants and bad plants.
+  原来，在小王子的星球上，就像在别的星球上一样，有好的植物，也有不好的植物
+- **In consequence**, there were good seeds from good plants, and bad seeds from bad plants. 
+  结果呢，好植物有好种子，坏植物有坏种子
+- But seeds are invisible. They sleep deep in the heart of the earth’s darkness, until someone among them is **seized** with the desire to awaken. 
+  它们悄悄地睡在地底下，直到有一天，其中有一颗忽然想起要醒了
+- Then this little seed will stretch itself and begin—**timidly** at first—to push a charming little **sprig** **inoffensively** **upward** **toward** the sun.
+  于是它舒展身子，最先羞答答地朝太阳伸出一枝天真可爱的嫩苗
+- If it is only a **sprout** of **radish** or the **sprig** of a **rosebush**, one would let it grow wherever it might wish. 
+  假如那是萝卜或玫瑰的幼苗，可以让它爱怎么长就怎么长。
+- But when it is a bad plant, one must destroy it as soon as possible, **the very first instant that one recognizes it**.
+  不过，假如那是一株不好的植物，一认出就得拔掉它
+- The soil of that planet was **infested** with them.
+  星球的土壤里有好多猴面包树种子
+- It is a question of **discipline**
+  这就得有个严格的约束了
+- It is very **tedious** work,” the little prince added, “but very easy.
+  这个工作很单调，但并不难
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1162920203)
+
+## 秒懂设计模式
+
+### 创建
+
+- 单例 
+  ![image](https://user-images.githubusercontent.com/57313137/175233696-f5ac6fd0-d63e-4946-901e-b696e81bb004.png)
+- 原型
+  ![image](https://user-images.githubusercontent.com/57313137/175233789-633f8fb7-a890-4d70-a03c-200857b3d91e.png)
+- 工厂
+  ![image](https://user-images.githubusercontent.com/57313137/175233865-5cf5e367-e980-4528-9b81-582f2196849a.png)
+- 抽象工厂
+  ![image](https://user-images.githubusercontent.com/57313137/175233928-d2df1cf6-28f9-42d0-bf35-df28b4d9ade9.png)
+- 建造者
+  ![image](https://user-images.githubusercontent.com/57313137/175233997-ee7c1f58-b2a5-48ab-8ec2-baf36f384ca2.png)
+
+
+### 结构
+
+- 门面
+  ![image](https://user-images.githubusercontent.com/57313137/175234891-a4ad58d9-320f-4c0e-82c6-8a62dec228f9.png)
+- 组合
+  ![image](https://user-images.githubusercontent.com/57313137/175235009-9f97295b-ae3d-408b-8f93-768f8d639af4.png)
+- 装饰器
+  ![image](https://user-images.githubusercontent.com/57313137/175235131-1af28001-1de6-4aed-98f5-0cea18ca9303.png)
+- 适配器
+  - 对象适配器
+    ![image](https://user-images.githubusercontent.com/57313137/175235443-a2ff43e6-dfb1-4aec-bdac-beab83aac388.png)
+  - 类适配器
+    ![image](https://user-images.githubusercontent.com/57313137/175235551-6418cf72-a9f3-41b0-a6c3-1bd73bb926d6.png)
+- 享元
+  ![image](https://user-images.githubusercontent.com/57313137/175245048-9bc50001-9269-49e0-a071-eb0b9ef9f3c3.png)
+- 代理
+  ![image](https://user-images.githubusercontent.com/57313137/175245345-4883b433-5303-438a-a5bd-4bef124b420d.png)
+- 桥接
+  ![image](https://user-images.githubusercontent.com/57313137/175248031-19a8ae46-acef-4403-bc1a-1f2f2fcbb3d2.png)
+  
+ 
+## 行为 
+
+- 模板
+- 迭代器
+- 责任链
+- 策略
+- 状态
+  ![image](https://user-images.githubusercontent.com/57313137/175469152-aaa1a25f-df13-4ef8-aab0-63a3cb5ed34e.png)
+- 备忘录
+- 中介
+- 命令
+  ![image](https://user-images.githubusercontent.com/57313137/175478602-c225d26a-e4dc-441f-9008-0fe55b1d10ea.png)
+- 访问者
+  ![image](https://user-images.githubusercontent.com/57313137/175480918-bd35048b-1029-460c-a3bb-9fec9e6db31f.png)
+- 观察者
+  ![image](https://user-images.githubusercontent.com/57313137/175493320-8518aeec-3654-4d10-be27-a858ee2907a1.png)
+- 解释器
+![image](https://user-images.githubusercontent.com/57313137/175497324-bd4c8dbc-e7d4-406c-8993-b4408ee29a19.png)
+
+
+### 原则
+
+- Principle (6, S.O.L.I.D + LoD)
+    - Single Responsibility Principle, 单一职责, 任何修改只有一个原因
+    - Open/Closed Principle, 开闭原则, 开放扩展, 关闭修改
+    - Liskov Substitution Principle, 里氏替换原则, 父子类可替换
+    - Interface Segregation Principle, 接口隔离, 细粒度化接口(灵活Up)
+    - Dependency Inversion Principle, 依赖倒置, 高层与底层数据解耦, 只依赖抽象, 不依赖实现
+    - Law of Demeter, 迪米特法则, 简单化模块间的通信, 最大程度地隐藏内部逻辑
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1164020813)
+
+
+
+# swipe(bangumi) Updated at 2022-06-24
+## 虫师
+
+### S1E6
+
+[21:43] 不愿面对虚无的时间, 残酷的现实, 更愿意化身一日浮游, 短暂却充实. 
+
+![image](https://user-images.githubusercontent.com/57313137/150730001-6f7e515e-204a-49f4-9fb6-835c7c5d56e3.png)
+
+### S1E8
+
+唯一值得欣慰的是, 虽然我度过了三年的时间, 但她却也只受了三天的寂寞日子
+
+![image](https://user-images.githubusercontent.com/57313137/150730121-6558c1d6-8b93-47c4-8377-c0546addc303.png)
+
+## S1E16
+
+[11:40] 要是睡得着, 等待也许就不那么难熬了
+
+![image](https://user-images.githubusercontent.com/57313137/150730550-8c57b39b-1013-4f81-97d0-2046f0e4053f.png)
+
+![Screenshot_20220130-020325_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491933-f426bf2b-45ce-4c8d-90e9-06ecf55bbc55.png)
+![Screenshot_20220130-020332_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491941-20e69d15-2e76-4b55-b683-cd2ef1601ee6.png)
+![Screenshot_20220130-020340_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491946-0454b614-4c8d-4ada-80bb-23bbb8a30038.png)
+![Screenshot_20220130-020345_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491951-8cb47415-9c24-4049-9e39-34aa46394c50.png)
+![Screenshot_20220202-070748_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491954-4e67e2a3-573b-46a2-b97f-0dea06318074.png)
+![Screenshot_20220202-070755_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491956-5c9cd24f-2898-41c9-b80d-2e0380a3e7b5.png)
+![Screenshot_20220202-115447_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491959-901a428e-8f17-43d2-b3e3-76ec60264533.png)
+![Screenshot_20220202-115455_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491962-4969f7ee-8185-4101-80e5-e68fe5fb9207.png)
+![Screenshot_20220202-141845_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491964-352ab991-8d6f-40bb-a959-811e0d331fbb.png)
+![Screenshot_20220206-003556_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491969-c3f127b2-97ae-456e-863d-202bfd94ad0d.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019748522)
+
+## 猜火车 Trainspotting
+
+- [57:20/1:33:50] 痛过之后, 战斗的序幕其实才拉开, 消沉, 厌世, 情绪低落, 不想做人
+- [1:29:40/1:33:50] 我为什么要这样做? 千百条理由其实都是狗屁借口, 事实就是, 我是个坏蛋, 但我能改, 我要改过自新, 这是最后一次了, 从现在开始, 我要洗心革面, 重新做人, 我要大步向前, 选择生活, 我的前途一片光明. 我会像你一样, 有工作, 家庭, 再弄个大电视, 洗衣机, 汽车, 光盘播放器, 电动开罐器, 健康, 低胆固醇, 牙医保险, 还房贷, 休闲服, 行李箱, 三件套西装, 自己动手, 看电视, 吃零食, 生孩子, 逛公园, 朝九晚五, 打高尔夫, 洗车子, 穿运动衫, 过圣诞节, 领养老金, 有免税额, 通下水道, 改邪归正, 安居乐业, 等待归天的日子
+
+![image](https://user-images.githubusercontent.com/57313137/150756213-e14d4001-4fe7-4844-9bbd-876597946696.png)
+
+## 猜火车2 Trainspotting2
+
+- [1:00:00] 选择手提包; 选择高跟鞋, 羊绒跟丝绒让你自己感到快乐; 选择一部由一个跳出窗外的女人在中国生产的苹果手机 把手机放在刚从南亚服装血汗工厂生产出来的夹克口袋里面; 选择Facebook Twitter snapchat instargram; 还有一千种跟素不相识的人发泄愤怒的方法; 选择更新你的主页; 跟全世界公告你早饭吃了什么 然后希望在哪里会有什么人在乎; 选择找到旧爱; 拼命相信你看上去没他们那么糟; 选择博客直播, 从你第一次手淫到最后一口气; 人际交往减少到只剩数据; 选择十件你从不知道的 关于做过手术的名人的事; 选择攻击堕胎; 选择黄色笑话、荡妇羞辱、报复色情片以及让人压抑的无尽的厌女症; 选择911事件从未发生 若发生了，就是犹太人做的; 选择无约束力合约，通勤两小时去工作; 选择相同的给你孩子，只有更糟; 也许告诉你自己他们没出生会更好; 然后坐回去体会窒息的痛苦; 吸食着在某人厨房制作的 剂量不明确的不明毒品; 选择没有兑现的承诺，希望你可以选择不同的事; 选择永远不从你自己的错误中吸取教训; 选择看到历史重演; 选择逐渐认命 而不是你一直渴望的东西; 满足并认可贫穷; 选择失望; 选择失去你爱的人们; 随着他们的消失，你的一部分也会跟他们一同死去; 直到你看到未来某一天; 你就不会再谈论自己的生死了; 选择你的未来，维罗尼卡; 选择人生; 
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019893232)
+
+![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093096970)
+
+![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
+
+![sScreenshot_20220409-011507_Gallery.png](https://user-images.githubusercontent.com/57313137/162490402-7f74ca30-480c-4b42-a9c6-bcc6ba88bfbf.png)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093104206)
+
+![Screenshot_20220320-132429_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491488-f7a65456-b02f-4491-bf29-7188d78a6d14.png)
+![Screenshot_20220331-010747_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491506-0ce12dcc-8ddc-49b1-900c-216aabc2014a.png)
+![Screenshot_20220331-011406_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491511-01fdc4d3-3f78-458b-94d2-4c9ecaaf149c.png)
+![Screenshot_20220331-011439_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491525-408fd069-133d-4ee5-855f-027b9e98c7b9.png)
+![Screenshot_20220331-013222_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491529-4746979a-8be3-44ab-876a-d552bac685a8.png)
+![Screenshot_20220331-013612_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491536-25fdabb1-b9ae-4abe-b790-0004002ec3f5.png)
+![Screenshot_20220331-1055567666_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491541-1ed2a011-92ac-4359-b3f2-ebf08adf5778.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093112004)
+
+![Screenshot_20220215-022846_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491717-1fafb4bf-f62a-4e75-8515-edd680d364f1.png)
+![Screenshot_20220215-022912_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491764-592d3d8a-f503-490e-85ab-0019600eb3b8.png)
+![Screenshot_20220308-000635_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491777-9eaa081a-a56d-4a69-b67e-d8b85ebe38b4.png)
+![Screenshot_20220308-001225_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491778-069d4b3d-085c-4a3a-b6d5-018f111a9a8d.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113361)
+
+![Screenshot_20220219-030003_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491819-4893ee9e-9481-4e08-9549-aba2005d98f2.png)
+![Screenshot_20220219-042810_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491823-0d1c2515-fb5b-402d-a6b4-d5d33345d823.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113665)
+
+## 乙女游戏世界对路人角色很不友好
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235601)
+
+## 朋友游戏
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235722)
+
+## 魔法师黎明期
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101236253)
+
+## 间谍过家家
+
+我们说人的下半生从有了孩子开始，也许正是孩子的天真，纯粹，才能启发治愈着我们减少过度的社会化。第一集看到这个可爱的孩子真的是好单纯，好想哭😭
+
+### 什么鬼吐槽
+
+![20220426_230104.jpg](https://user-images.githubusercontent.com/57313137/165331608-158374a6-10b1-4bb9-b9fe-932625d8b596.jpg)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1109470565)
+
+## 异世界迷宫里开后宫
+
+- 人类的固有职业居然是: "色魔" 😅
+![E41P16 7卷P44](https://user-images.githubusercontent.com/57313137/174992020-3e42def3-d1fd-4443-8209-c5b7e3df7186.jpg)
+- 这东西肯本就是多余的 😅
+![E39P08 7卷P11](https://user-images.githubusercontent.com/57313137/174992029-a82d602e-2034-4451-a67a-3109021e7ee9.jpg)
+ 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1162854661)
+
+## 恋上换装娃娃 / [更衣人偶坠入爱河](https://bgm.tv/subject/333158)
+
+### 不要评判别人的喜好啊
+
+- E01[09:30]
+![joined-screenshot (3)](https://user-images.githubusercontent.com/57313137/175445991-9c742297-104c-4960-8dc4-07cc1dc28d7b.jpg)
+
+### 男主 社恐到有点感同身受了😅
+- E03[06:32]
+![joined-screenshot (7)](https://user-images.githubusercontent.com/57313137/175446916-0d1d1c96-8993-46fb-8e02-2a8cee0ead63.jpg)
+
+### 自从你的出现, "美丽" 这个词的定义就变了, 美丽不再是空泛的概念, 而是被你填满了
+
+- E03[17:43]
+![joined-screenshot (5)](https://user-images.githubusercontent.com/57313137/175446323-b861806a-e5c5-4b5c-b152-2b840551ec02.jpg)
+
+### 技巧生疏的话, 就需要花费三倍的时间再找回来啊
+
+- E04[10:34]
+![joined-screenshot (4)](https://user-images.githubusercontent.com/57313137/175446145-1dabfe14-e004-4681-a3a3-87ae2e98e300.jpg)
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1165101937)
 
 
 
@@ -2564,129 +2832,6 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1150561836)
-
-
-
-# swipe(bangumi) Updated at 2022-06-22
-## 虫师
-
-### S1E6
-
-[21:43] 不愿面对虚无的时间, 残酷的现实, 更愿意化身一日浮游, 短暂却充实. 
-
-![image](https://user-images.githubusercontent.com/57313137/150730001-6f7e515e-204a-49f4-9fb6-835c7c5d56e3.png)
-
-### S1E8
-
-唯一值得欣慰的是, 虽然我度过了三年的时间, 但她却也只受了三天的寂寞日子
-
-![image](https://user-images.githubusercontent.com/57313137/150730121-6558c1d6-8b93-47c4-8377-c0546addc303.png)
-
-## S1E16
-
-[11:40] 要是睡得着, 等待也许就不那么难熬了
-
-![image](https://user-images.githubusercontent.com/57313137/150730550-8c57b39b-1013-4f81-97d0-2046f0e4053f.png)
-
-![Screenshot_20220130-020325_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491933-f426bf2b-45ce-4c8d-90e9-06ecf55bbc55.png)
-![Screenshot_20220130-020332_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491941-20e69d15-2e76-4b55-b683-cd2ef1601ee6.png)
-![Screenshot_20220130-020340_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491946-0454b614-4c8d-4ada-80bb-23bbb8a30038.png)
-![Screenshot_20220130-020345_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491951-8cb47415-9c24-4049-9e39-34aa46394c50.png)
-![Screenshot_20220202-070748_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491954-4e67e2a3-573b-46a2-b97f-0dea06318074.png)
-![Screenshot_20220202-070755_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491956-5c9cd24f-2898-41c9-b80d-2e0380a3e7b5.png)
-![Screenshot_20220202-115447_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491959-901a428e-8f17-43d2-b3e3-76ec60264533.png)
-![Screenshot_20220202-115455_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491962-4969f7ee-8185-4101-80e5-e68fe5fb9207.png)
-![Screenshot_20220202-141845_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491964-352ab991-8d6f-40bb-a959-811e0d331fbb.png)
-![Screenshot_20220206-003556_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491969-c3f127b2-97ae-456e-863d-202bfd94ad0d.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019748522)
-
-## 猜火车 Trainspotting
-
-- [57:20/1:33:50] 痛过之后, 战斗的序幕其实才拉开, 消沉, 厌世, 情绪低落, 不想做人
-- [1:29:40/1:33:50] 我为什么要这样做? 千百条理由其实都是狗屁借口, 事实就是, 我是个坏蛋, 但我能改, 我要改过自新, 这是最后一次了, 从现在开始, 我要洗心革面, 重新做人, 我要大步向前, 选择生活, 我的前途一片光明. 我会像你一样, 有工作, 家庭, 再弄个大电视, 洗衣机, 汽车, 光盘播放器, 电动开罐器, 健康, 低胆固醇, 牙医保险, 还房贷, 休闲服, 行李箱, 三件套西装, 自己动手, 看电视, 吃零食, 生孩子, 逛公园, 朝九晚五, 打高尔夫, 洗车子, 穿运动衫, 过圣诞节, 领养老金, 有免税额, 通下水道, 改邪归正, 安居乐业, 等待归天的日子
-
-![image](https://user-images.githubusercontent.com/57313137/150756213-e14d4001-4fe7-4844-9bbd-876597946696.png)
-
-## 猜火车2 Trainspotting2
-
-- [1:00:00] 选择手提包; 选择高跟鞋, 羊绒跟丝绒让你自己感到快乐; 选择一部由一个跳出窗外的女人在中国生产的苹果手机 把手机放在刚从南亚服装血汗工厂生产出来的夹克口袋里面; 选择Facebook Twitter snapchat instargram; 还有一千种跟素不相识的人发泄愤怒的方法; 选择更新你的主页; 跟全世界公告你早饭吃了什么 然后希望在哪里会有什么人在乎; 选择找到旧爱; 拼命相信你看上去没他们那么糟; 选择博客直播, 从你第一次手淫到最后一口气; 人际交往减少到只剩数据; 选择十件你从不知道的 关于做过手术的名人的事; 选择攻击堕胎; 选择黄色笑话、荡妇羞辱、报复色情片以及让人压抑的无尽的厌女症; 选择911事件从未发生 若发生了，就是犹太人做的; 选择无约束力合约，通勤两小时去工作; 选择相同的给你孩子，只有更糟; 也许告诉你自己他们没出生会更好; 然后坐回去体会窒息的痛苦; 吸食着在某人厨房制作的 剂量不明确的不明毒品; 选择没有兑现的承诺，希望你可以选择不同的事; 选择永远不从你自己的错误中吸取教训; 选择看到历史重演; 选择逐渐认命 而不是你一直渴望的东西; 满足并认可贫穷; 选择失望; 选择失去你爱的人们; 随着他们的消失，你的一部分也会跟他们一同死去; 直到你看到未来某一天; 你就不会再谈论自己的生死了; 选择你的未来，维罗尼卡; 选择人生; 
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019893232)
-
-![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093096970)
-
-![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
-
-![sScreenshot_20220409-011507_Gallery.png](https://user-images.githubusercontent.com/57313137/162490402-7f74ca30-480c-4b42-a9c6-bcc6ba88bfbf.png)
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093104206)
-
-![Screenshot_20220320-132429_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491488-f7a65456-b02f-4491-bf29-7188d78a6d14.png)
-![Screenshot_20220331-010747_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491506-0ce12dcc-8ddc-49b1-900c-216aabc2014a.png)
-![Screenshot_20220331-011406_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491511-01fdc4d3-3f78-458b-94d2-4c9ecaaf149c.png)
-![Screenshot_20220331-011439_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491525-408fd069-133d-4ee5-855f-027b9e98c7b9.png)
-![Screenshot_20220331-013222_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491529-4746979a-8be3-44ab-876a-d552bac685a8.png)
-![Screenshot_20220331-013612_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491536-25fdabb1-b9ae-4abe-b790-0004002ec3f5.png)
-![Screenshot_20220331-1055567666_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491541-1ed2a011-92ac-4359-b3f2-ebf08adf5778.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093112004)
-
-![Screenshot_20220215-022846_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491717-1fafb4bf-f62a-4e75-8515-edd680d364f1.png)
-![Screenshot_20220215-022912_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491764-592d3d8a-f503-490e-85ab-0019600eb3b8.png)
-![Screenshot_20220308-000635_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491777-9eaa081a-a56d-4a69-b67e-d8b85ebe38b4.png)
-![Screenshot_20220308-001225_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491778-069d4b3d-085c-4a3a-b6d5-018f111a9a8d.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113361)
-
-![Screenshot_20220219-030003_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491819-4893ee9e-9481-4e08-9549-aba2005d98f2.png)
-![Screenshot_20220219-042810_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491823-0d1c2515-fb5b-402d-a6b4-d5d33345d823.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113665)
-
-## 乙女游戏世界对路人角色很不友好
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235601)
-
-## 朋友游戏
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235722)
-
-## 魔法师黎明期
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101236253)
-
-## 间谍过家家
-
-我们说人的下半生从有了孩子开始，也许正是孩子的天真，纯粹，才能启发治愈着我们减少过度的社会化。第一集看到这个可爱的孩子真的是好单纯，好想哭😭
-
-### 什么鬼吐槽
-
-![20220426_230104.jpg](https://user-images.githubusercontent.com/57313137/165331608-158374a6-10b1-4bb9-b9fe-932625d8b596.jpg)
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1109470565)
-
-## 异世界迷宫里开后宫
-
-- 人类的固有职业居然是: "色魔" 😅
-![E41P16 7卷P44](https://user-images.githubusercontent.com/57313137/174992020-3e42def3-d1fd-4443-8209-c5b7e3df7186.jpg)
-- 这东西肯本就是多余的 😅
-![E39P08 7卷P11](https://user-images.githubusercontent.com/57313137/174992029-a82d602e-2034-4451-a67a-3109021e7ee9.jpg)
- 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1162854661)
 
 
 
