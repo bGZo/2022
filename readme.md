@@ -1,3 +1,21 @@
+- [swipe(bangumi) Updated at 2022-06-25](#swipebangumi-updated-at-20220625)
+    - [虫师](#虫师)
+        - [S1E6](#s1e6)
+        - [S1E8](#s1e8)
+    - [S1E16](#s1e16)
+    - [猜火车 Trainspotting](#猜火车-trainspotting)
+    - [猜火车2 Trainspotting2](#猜火车2-trainspotting2)
+    - [乙女游戏世界对路人角色很不友好](#乙女游戏世界对路人角色很不友好)
+    - [朋友游戏](#朋友游戏)
+    - [魔法师黎明期](#魔法师黎明期)
+    - [间谍过家家](#间谍过家家)
+        - [什么鬼吐槽](#什么鬼吐槽)
+    - [异世界迷宫里开后宫](#异世界迷宫里开后宫)
+    - [恋上换装娃娃 / [更衣人偶坠入爱河](https://bgm.tv/subject/333158)](#恋上换装娃娃--更衣人偶坠入爱河httpsbgmtvsubject333158)
+        - [不要评判别人的喜好啊](#不要评判别人的喜好啊)
+        - [男主 社恐到有点感同身受了😅](#男主-社恐到有点感同身受了)
+        - [自从你的出现, "美丽" 这个词的定义就变了, 美丽不再是空泛的概念, 而是被你填满了](#自从你的出现-美丽-这个词的定义就变了-美丽不再是空泛的概念-而是被你填满了)
+        - [技巧生疏的话, 就需要花费三倍的时间再找回来啊](#技巧生疏的话-就需要花费三倍的时间再找回来啊)
 - [thought(message) Updated at 2022-06-24](#thoughtmessage-updated-at-20220624)
     - [一个新兴的行业 -- 内容审查](#一个新兴的行业--内容审查)
         - [阴阳怪气 / 魔幻主义](#阴阳怪气--魔幻主义)
@@ -96,24 +114,6 @@
         - [结构](#结构)
     - [行为](#行为)
         - [原则](#原则)
-- [swipe(bangumi) Updated at 2022-06-24](#swipebangumi-updated-at-20220624)
-    - [虫师](#虫师)
-        - [S1E6](#s1e6)
-        - [S1E8](#s1e8)
-    - [S1E16](#s1e16)
-    - [猜火车 Trainspotting](#猜火车-trainspotting)
-    - [猜火车2 Trainspotting2](#猜火车2-trainspotting2)
-    - [乙女游戏世界对路人角色很不友好](#乙女游戏世界对路人角色很不友好)
-    - [朋友游戏](#朋友游戏)
-    - [魔法师黎明期](#魔法师黎明期)
-    - [间谍过家家](#间谍过家家)
-        - [什么鬼吐槽](#什么鬼吐槽)
-    - [异世界迷宫里开后宫](#异世界迷宫里开后宫)
-    - [恋上换装娃娃 / [更衣人偶坠入爱河](https://bgm.tv/subject/333158)](#恋上换装娃娃--更衣人偶坠入爱河httpsbgmtvsubject333158)
-        - [不要评判别人的喜好啊](#不要评判别人的喜好啊)
-        - [男主 社恐到有点感同身受了😅](#男主-社恐到有点感同身受了)
-        - [自从你的出现, "美丽" 这个词的定义就变了, 美丽不再是空泛的概念, 而是被你填满了](#自从你的出现-美丽-这个词的定义就变了-美丽不再是空泛的概念-而是被你填满了)
-        - [技巧生疏的话, 就需要花费三倍的时间再找回来啊](#技巧生疏的话-就需要花费三倍的时间再找回来啊)
 - [log(bug) Updated at 2022-06-22](#logbug-updated-at-20220622)
     - [Stage](#stage)
     - [整理房间](#整理房间)
@@ -240,6 +240,160 @@
     - [~~友好~~ 的吐槽](#友好-的吐槽)
     - [一点点对话](#一点点对话)
     - [死馆](#死馆)
+
+
+# swipe(bangumi) Updated at 2022-06-25
+## 虫师
+
+### S1E6
+
+[21:43] 不愿面对虚无的时间, 残酷的现实, 更愿意化身一日浮游, 短暂却充实. 
+
+![image](https://user-images.githubusercontent.com/57313137/150730001-6f7e515e-204a-49f4-9fb6-835c7c5d56e3.png)
+
+### S1E8
+
+唯一值得欣慰的是, 虽然我度过了三年的时间, 但她却也只受了三天的寂寞日子
+
+![image](https://user-images.githubusercontent.com/57313137/150730121-6558c1d6-8b93-47c4-8377-c0546addc303.png)
+
+## S1E16
+
+[11:40] 要是睡得着, 等待也许就不那么难熬了
+
+![image](https://user-images.githubusercontent.com/57313137/150730550-8c57b39b-1013-4f81-97d0-2046f0e4053f.png)
+
+![Screenshot_20220130-020325_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491933-f426bf2b-45ce-4c8d-90e9-06ecf55bbc55.png)
+![Screenshot_20220130-020332_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491941-20e69d15-2e76-4b55-b683-cd2ef1601ee6.png)
+![Screenshot_20220130-020340_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491946-0454b614-4c8d-4ada-80bb-23bbb8a30038.png)
+![Screenshot_20220130-020345_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491951-8cb47415-9c24-4049-9e39-34aa46394c50.png)
+![Screenshot_20220202-070748_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491954-4e67e2a3-573b-46a2-b97f-0dea06318074.png)
+![Screenshot_20220202-070755_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491956-5c9cd24f-2898-41c9-b80d-2e0380a3e7b5.png)
+![Screenshot_20220202-115447_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491959-901a428e-8f17-43d2-b3e3-76ec60264533.png)
+![Screenshot_20220202-115455_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491962-4969f7ee-8185-4101-80e5-e68fe5fb9207.png)
+![Screenshot_20220202-141845_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491964-352ab991-8d6f-40bb-a959-811e0d331fbb.png)
+![Screenshot_20220206-003556_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491969-c3f127b2-97ae-456e-863d-202bfd94ad0d.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019748522)
+
+## 猜火车 Trainspotting
+
+- [57:20/1:33:50] 痛过之后, 战斗的序幕其实才拉开, 消沉, 厌世, 情绪低落, 不想做人
+- [1:29:40/1:33:50] 我为什么要这样做? 千百条理由其实都是狗屁借口, 事实就是, 我是个坏蛋, 但我能改, 我要改过自新, 这是最后一次了, 从现在开始, 我要洗心革面, 重新做人, 我要大步向前, 选择生活, 我的前途一片光明. 我会像你一样, 有工作, 家庭, 再弄个大电视, 洗衣机, 汽车, 光盘播放器, 电动开罐器, 健康, 低胆固醇, 牙医保险, 还房贷, 休闲服, 行李箱, 三件套西装, 自己动手, 看电视, 吃零食, 生孩子, 逛公园, 朝九晚五, 打高尔夫, 洗车子, 穿运动衫, 过圣诞节, 领养老金, 有免税额, 通下水道, 改邪归正, 安居乐业, 等待归天的日子
+
+![image](https://user-images.githubusercontent.com/57313137/150756213-e14d4001-4fe7-4844-9bbd-876597946696.png)
+
+## 猜火车2 Trainspotting2
+
+- [1:00:00] 选择手提包; 选择高跟鞋, 羊绒跟丝绒让你自己感到快乐; 选择一部由一个跳出窗外的女人在中国生产的苹果手机 把手机放在刚从南亚服装血汗工厂生产出来的夹克口袋里面; 选择Facebook Twitter snapchat instargram; 还有一千种跟素不相识的人发泄愤怒的方法; 选择更新你的主页; 跟全世界公告你早饭吃了什么 然后希望在哪里会有什么人在乎; 选择找到旧爱; 拼命相信你看上去没他们那么糟; 选择博客直播, 从你第一次手淫到最后一口气; 人际交往减少到只剩数据; 选择十件你从不知道的 关于做过手术的名人的事; 选择攻击堕胎; 选择黄色笑话、荡妇羞辱、报复色情片以及让人压抑的无尽的厌女症; 选择911事件从未发生 若发生了，就是犹太人做的; 选择无约束力合约，通勤两小时去工作; 选择相同的给你孩子，只有更糟; 也许告诉你自己他们没出生会更好; 然后坐回去体会窒息的痛苦; 吸食着在某人厨房制作的 剂量不明确的不明毒品; 选择没有兑现的承诺，希望你可以选择不同的事; 选择永远不从你自己的错误中吸取教训; 选择看到历史重演; 选择逐渐认命 而不是你一直渴望的东西; 满足并认可贫穷; 选择失望; 选择失去你爱的人们; 随着他们的消失，你的一部分也会跟他们一同死去; 直到你看到未来某一天; 你就不会再谈论自己的生死了; 选择你的未来，维罗尼卡; 选择人生; 
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019893232)
+
+![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093096970)
+
+![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
+
+![sScreenshot_20220409-011507_Gallery.png](https://user-images.githubusercontent.com/57313137/162490402-7f74ca30-480c-4b42-a9c6-bcc6ba88bfbf.png)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093104206)
+
+![Screenshot_20220320-132429_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491488-f7a65456-b02f-4491-bf29-7188d78a6d14.png)
+![Screenshot_20220331-010747_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491506-0ce12dcc-8ddc-49b1-900c-216aabc2014a.png)
+![Screenshot_20220331-011406_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491511-01fdc4d3-3f78-458b-94d2-4c9ecaaf149c.png)
+![Screenshot_20220331-011439_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491525-408fd069-133d-4ee5-855f-027b9e98c7b9.png)
+![Screenshot_20220331-013222_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491529-4746979a-8be3-44ab-876a-d552bac685a8.png)
+![Screenshot_20220331-013612_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491536-25fdabb1-b9ae-4abe-b790-0004002ec3f5.png)
+![Screenshot_20220331-1055567666_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491541-1ed2a011-92ac-4359-b3f2-ebf08adf5778.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093112004)
+
+![Screenshot_20220215-022846_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491717-1fafb4bf-f62a-4e75-8515-edd680d364f1.png)
+![Screenshot_20220215-022912_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491764-592d3d8a-f503-490e-85ab-0019600eb3b8.png)
+![Screenshot_20220308-000635_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491777-9eaa081a-a56d-4a69-b67e-d8b85ebe38b4.png)
+![Screenshot_20220308-001225_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491778-069d4b3d-085c-4a3a-b6d5-018f111a9a8d.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113361)
+
+![Screenshot_20220219-030003_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491819-4893ee9e-9481-4e08-9549-aba2005d98f2.png)
+![Screenshot_20220219-042810_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491823-0d1c2515-fb5b-402d-a6b4-d5d33345d823.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113665)
+
+## 乙女游戏世界对路人角色很不友好
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235601)
+
+## 朋友游戏
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235722)
+
+## 魔法师黎明期
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101236253)
+
+## 间谍过家家
+
+我们说人的下半生从有了孩子开始，也许正是孩子的天真，纯粹，才能启发治愈着我们减少过度的社会化。第一集看到这个可爱的孩子真的是好单纯，好想哭😭
+
+### 什么鬼吐槽
+
+![20220426_230104.jpg](https://user-images.githubusercontent.com/57313137/165331608-158374a6-10b1-4bb9-b9fe-932625d8b596.jpg)
+
+---
+
+中途等阿尼尔录取结果, 改追漫画了
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1109470565)
+
+## 异世界迷宫里开后宫
+
+- 人类的固有职业居然是: "色魔" 😅
+![E41P16 7卷P44](https://user-images.githubusercontent.com/57313137/174992020-3e42def3-d1fd-4443-8209-c5b7e3df7186.jpg)
+- 这东西肯本就是多余的 😅
+![E39P08 7卷P11](https://user-images.githubusercontent.com/57313137/174992029-a82d602e-2034-4451-a67a-3109021e7ee9.jpg)
+ 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1162854661)
+
+## 恋上换装娃娃 / [更衣人偶坠入爱河](https://bgm.tv/subject/333158)
+
+### 不要评判别人的喜好啊
+
+- E01[09:30]
+![joined-screenshot (3)](https://user-images.githubusercontent.com/57313137/175445991-9c742297-104c-4960-8dc4-07cc1dc28d7b.jpg)
+
+### 男主 社恐到有点感同身受了😅
+- E03[06:32]
+![joined-screenshot (7)](https://user-images.githubusercontent.com/57313137/175446916-0d1d1c96-8993-46fb-8e02-2a8cee0ead63.jpg)
+
+### 自从你的出现, "美丽" 这个词的定义就变了, 美丽不再是空泛的概念, 而是被你填满了
+
+- E03[17:43]
+![joined-screenshot (8)](https://user-images.githubusercontent.com/57313137/175777358-863f5112-97a7-40de-a86a-67555f43184d.jpg)
+
+### 技巧生疏的话, 就需要花费三倍的时间再找回来啊
+
+- E04[10:34]
+![joined-screenshot (4)](https://user-images.githubusercontent.com/57313137/175446145-1dabfe14-e004-4681-a3a3-87ae2e98e300.jpg)
+
+---
+
+从第 8 集看不下去了，基本上是在卖女主完美人设。作画好，情节也很吸引人，架空的故事反而让人没什么代入感，越齁，笑得越大声，越感觉到虚无，无聊，距离和羡慕。像是长的帅却是个死直男也太套路了，虽然很多恶俗桥段喜闻乐见，但我只觉得吵闹，营造出能遇见这样女性的幻灭才是阿宅们最寂寞难捱的。
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1165101937)
+
 
 
 # thought(message) Updated at 2022-06-24
@@ -1406,154 +1560,6 @@ DNS request timed out.
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/4#issuecomment-1164020813)
-
-
-
-# swipe(bangumi) Updated at 2022-06-24
-## 虫师
-
-### S1E6
-
-[21:43] 不愿面对虚无的时间, 残酷的现实, 更愿意化身一日浮游, 短暂却充实. 
-
-![image](https://user-images.githubusercontent.com/57313137/150730001-6f7e515e-204a-49f4-9fb6-835c7c5d56e3.png)
-
-### S1E8
-
-唯一值得欣慰的是, 虽然我度过了三年的时间, 但她却也只受了三天的寂寞日子
-
-![image](https://user-images.githubusercontent.com/57313137/150730121-6558c1d6-8b93-47c4-8377-c0546addc303.png)
-
-## S1E16
-
-[11:40] 要是睡得着, 等待也许就不那么难熬了
-
-![image](https://user-images.githubusercontent.com/57313137/150730550-8c57b39b-1013-4f81-97d0-2046f0e4053f.png)
-
-![Screenshot_20220130-020325_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491933-f426bf2b-45ce-4c8d-90e9-06ecf55bbc55.png)
-![Screenshot_20220130-020332_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491941-20e69d15-2e76-4b55-b683-cd2ef1601ee6.png)
-![Screenshot_20220130-020340_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491946-0454b614-4c8d-4ada-80bb-23bbb8a30038.png)
-![Screenshot_20220130-020345_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491951-8cb47415-9c24-4049-9e39-34aa46394c50.png)
-![Screenshot_20220202-070748_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491954-4e67e2a3-573b-46a2-b97f-0dea06318074.png)
-![Screenshot_20220202-070755_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491956-5c9cd24f-2898-41c9-b80d-2e0380a3e7b5.png)
-![Screenshot_20220202-115447_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491959-901a428e-8f17-43d2-b3e3-76ec60264533.png)
-![Screenshot_20220202-115455_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491962-4969f7ee-8185-4101-80e5-e68fe5fb9207.png)
-![Screenshot_20220202-141845_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491964-352ab991-8d6f-40bb-a959-811e0d331fbb.png)
-![Screenshot_20220206-003556_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491969-c3f127b2-97ae-456e-863d-202bfd94ad0d.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019748522)
-
-## 猜火车 Trainspotting
-
-- [57:20/1:33:50] 痛过之后, 战斗的序幕其实才拉开, 消沉, 厌世, 情绪低落, 不想做人
-- [1:29:40/1:33:50] 我为什么要这样做? 千百条理由其实都是狗屁借口, 事实就是, 我是个坏蛋, 但我能改, 我要改过自新, 这是最后一次了, 从现在开始, 我要洗心革面, 重新做人, 我要大步向前, 选择生活, 我的前途一片光明. 我会像你一样, 有工作, 家庭, 再弄个大电视, 洗衣机, 汽车, 光盘播放器, 电动开罐器, 健康, 低胆固醇, 牙医保险, 还房贷, 休闲服, 行李箱, 三件套西装, 自己动手, 看电视, 吃零食, 生孩子, 逛公园, 朝九晚五, 打高尔夫, 洗车子, 穿运动衫, 过圣诞节, 领养老金, 有免税额, 通下水道, 改邪归正, 安居乐业, 等待归天的日子
-
-![image](https://user-images.githubusercontent.com/57313137/150756213-e14d4001-4fe7-4844-9bbd-876597946696.png)
-
-## 猜火车2 Trainspotting2
-
-- [1:00:00] 选择手提包; 选择高跟鞋, 羊绒跟丝绒让你自己感到快乐; 选择一部由一个跳出窗外的女人在中国生产的苹果手机 把手机放在刚从南亚服装血汗工厂生产出来的夹克口袋里面; 选择Facebook Twitter snapchat instargram; 还有一千种跟素不相识的人发泄愤怒的方法; 选择更新你的主页; 跟全世界公告你早饭吃了什么 然后希望在哪里会有什么人在乎; 选择找到旧爱; 拼命相信你看上去没他们那么糟; 选择博客直播, 从你第一次手淫到最后一口气; 人际交往减少到只剩数据; 选择十件你从不知道的 关于做过手术的名人的事; 选择攻击堕胎; 选择黄色笑话、荡妇羞辱、报复色情片以及让人压抑的无尽的厌女症; 选择911事件从未发生 若发生了，就是犹太人做的; 选择无约束力合约，通勤两小时去工作; 选择相同的给你孩子，只有更糟; 也许告诉你自己他们没出生会更好; 然后坐回去体会窒息的痛苦; 吸食着在某人厨房制作的 剂量不明确的不明毒品; 选择没有兑现的承诺，希望你可以选择不同的事; 选择永远不从你自己的错误中吸取教训; 选择看到历史重演; 选择逐渐认命 而不是你一直渴望的东西; 满足并认可贫穷; 选择失望; 选择失去你爱的人们; 随着他们的消失，你的一部分也会跟他们一同死去; 直到你看到未来某一天; 你就不会再谈论自己的生死了; 选择你的未来，维罗尼卡; 选择人生; 
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1019893232)
-
-![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093096970)
-
-![Screenshot_20220409-010634_Gallery.png](https://user-images.githubusercontent.com/57313137/162489186-32874b5f-3ac9-427f-96c1-5c90df3ea090.png)
-
-![sScreenshot_20220409-011507_Gallery.png](https://user-images.githubusercontent.com/57313137/162490402-7f74ca30-480c-4b42-a9c6-bcc6ba88bfbf.png)
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093104206)
-
-![Screenshot_20220320-132429_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491488-f7a65456-b02f-4491-bf29-7188d78a6d14.png)
-![Screenshot_20220331-010747_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491506-0ce12dcc-8ddc-49b1-900c-216aabc2014a.png)
-![Screenshot_20220331-011406_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491511-01fdc4d3-3f78-458b-94d2-4c9ecaaf149c.png)
-![Screenshot_20220331-011439_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491525-408fd069-133d-4ee5-855f-027b9e98c7b9.png)
-![Screenshot_20220331-013222_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491529-4746979a-8be3-44ab-876a-d552bac685a8.png)
-![Screenshot_20220331-013612_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491536-25fdabb1-b9ae-4abe-b790-0004002ec3f5.png)
-![Screenshot_20220331-1055567666_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491541-1ed2a011-92ac-4359-b3f2-ebf08adf5778.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093112004)
-
-![Screenshot_20220215-022846_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491717-1fafb4bf-f62a-4e75-8515-edd680d364f1.png)
-![Screenshot_20220215-022912_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491764-592d3d8a-f503-490e-85ab-0019600eb3b8.png)
-![Screenshot_20220308-000635_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491777-9eaa081a-a56d-4a69-b67e-d8b85ebe38b4.png)
-![Screenshot_20220308-001225_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491778-069d4b3d-085c-4a3a-b6d5-018f111a9a8d.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113361)
-
-![Screenshot_20220219-030003_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491819-4893ee9e-9481-4e08-9549-aba2005d98f2.png)
-![Screenshot_20220219-042810_Kiwi Browser](https://user-images.githubusercontent.com/57313137/162491823-0d1c2515-fb5b-402d-a6b4-d5d33345d823.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1093113665)
-
-## 乙女游戏世界对路人角色很不友好
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235601)
-
-## 朋友游戏
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101235722)
-
-## 魔法师黎明期
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1101236253)
-
-## 间谍过家家
-
-我们说人的下半生从有了孩子开始，也许正是孩子的天真，纯粹，才能启发治愈着我们减少过度的社会化。第一集看到这个可爱的孩子真的是好单纯，好想哭😭
-
-### 什么鬼吐槽
-
-![20220426_230104.jpg](https://user-images.githubusercontent.com/57313137/165331608-158374a6-10b1-4bb9-b9fe-932625d8b596.jpg)
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1109470565)
-
-## 异世界迷宫里开后宫
-
-- 人类的固有职业居然是: "色魔" 😅
-![E41P16 7卷P44](https://user-images.githubusercontent.com/57313137/174992020-3e42def3-d1fd-4443-8209-c5b7e3df7186.jpg)
-- 这东西肯本就是多余的 😅
-![E39P08 7卷P11](https://user-images.githubusercontent.com/57313137/174992029-a82d602e-2034-4451-a67a-3109021e7ee9.jpg)
- 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1162854661)
-
-## 恋上换装娃娃 / [更衣人偶坠入爱河](https://bgm.tv/subject/333158)
-
-### 不要评判别人的喜好啊
-
-- E01[09:30]
-![joined-screenshot (3)](https://user-images.githubusercontent.com/57313137/175445991-9c742297-104c-4960-8dc4-07cc1dc28d7b.jpg)
-
-### 男主 社恐到有点感同身受了😅
-- E03[06:32]
-![joined-screenshot (7)](https://user-images.githubusercontent.com/57313137/175446916-0d1d1c96-8993-46fb-8e02-2a8cee0ead63.jpg)
-
-### 自从你的出现, "美丽" 这个词的定义就变了, 美丽不再是空泛的概念, 而是被你填满了
-
-- E03[17:43]
-![joined-screenshot (5)](https://user-images.githubusercontent.com/57313137/175446323-b861806a-e5c5-4b5c-b152-2b840551ec02.jpg)
-
-### 技巧生疏的话, 就需要花费三倍的时间再找回来啊
-
-- E04[10:34]
-![joined-screenshot (4)](https://user-images.githubusercontent.com/57313137/175446145-1dabfe14-e004-4681-a3a3-87ae2e98e300.jpg)
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/3#issuecomment-1165101937)
 
 
 
