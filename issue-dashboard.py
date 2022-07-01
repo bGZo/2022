@@ -27,7 +27,10 @@ if __name__ == '__main__':
     g = Github(token)
     repo = g.get_repo(repoUrl)
     name = g.get_user().login
-    issues = repo.get_issues(state='open', creator=name, sort='updated')
+    issues = repo.get_issues( labels='api',
+                             state='open',
+                             creator=name,
+                             sort='updated')
 
     write_issue_to_file(issues, file)
 
