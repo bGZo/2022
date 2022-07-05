@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-07-04](#logbug-updated-at-20220704)
+- [log(bug) Updated at 2022-07-05](#logbug-updated-at-20220705)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [英文自查](#英文自查)
@@ -69,7 +69,7 @@
 - [最后一个 & 需要注意](#最后一个--需要注意)
         - [access `%TEMP` directory](#access-temp-directory)
     - [C](#c)
-- [make(mark) Updated at 2022-07-02](#makemark-updated-at-20220702)
+- [make(mark) Updated at 2022-07-05](#makemark-updated-at-20220705)
     - [Code Review Mark](#code-review-mark)
         - [Telegram API](#telegram-api)
         - [Web Latex Supported](#web-latex-supported)
@@ -117,9 +117,10 @@
         - [《金银》](#金银)
         - [《范进中举》](#范进中举)
         - [《自罚两杯》](#自罚两杯)
+    - [Repo](#repo)
 
 
-# log(bug) Updated at 2022-07-04
+# log(bug) Updated at 2022-07-05
 ## Stage
 
 - [ ] #10
@@ -854,6 +855,19 @@ url = "https://pypi.tuna.tsinghua.edu.cn/simple"
     ```java
     Set<String>set = new HashSet<>(Arrays.asList(arr));
     ```
+    - NOTICE: int to Integer hasn't a init constructor. so just manually do it. / Stream
+    ```
+    // via: https://stackoverflow.com/questions/1073919
+    // Stream on Java 8+
+    int[] ints = {1,2,3};
+    List<Integer> list = Arrays.stream(ints).boxed().collect(Collectors.toList());
+    // Stream on Java 16+
+    List<Integer> list = Arrays.stream(ints).boxed().toList();
+    // Manual
+    List<Integer> intList = new ArrayList<Integer>(ints.length);
+    for (int i : ints)
+        intList.add(i);
+    ```
 ### convert an integer to binary
 - `Integer.toBinaryString(int i)` via: [How to convert an integer to binary in Java](https://www.educative.io/answers/how-to-convert-an-integer-to-binary-in-java )
   - To add the padding, first format the string to fixed-width string using the `String.format()` method. Then, replace spaces with 0s using the `String.replaceAll(String str, String replacement)`
@@ -1508,7 +1522,7 @@ cd $env:temp
 
 
 
-# make(mark) Updated at 2022-07-02
+# make(mark) Updated at 2022-07-05
 ## Code Review Mark
 
 ### Telegram API
@@ -2910,6 +2924,12 @@ via: [《自罚两杯》-BV1Bh411x77n ](https://www.bilibili.com/video/BV1Bh411x
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1171927190)
+
+## Repo 
+
+- [TomoeMami/qqlog](https://github.com/TomoeMami/qqlog): [mirai bot + http server + [https://github.com/project-mirai/mirai-api-http](https://github.com/TomoeMami/qqlog/blob/main/mirai-api-http)]一个 Q 群开盒脚本, Omz
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1174737527)
 
 
 
