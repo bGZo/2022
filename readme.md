@@ -1,4 +1,54 @@
-- [log(bug) Updated at 2022-07-05](#logbug-updated-at-20220705)
+- [make(mark) Updated at 2022-07-06](#makemark-updated-at-20220706)
+    - [Code Review Mark](#code-review-mark)
+        - [Telegram API](#telegram-api)
+        - [Web Latex Supported](#web-latex-supported)
+    - [比快排更高效的排序](#比快排更高效的排序)
+    - [Five timeless lessons](#five-timeless-lessons)
+    - [Git Messages](#git-messages)
+    - [Tutorials](#tutorials)
+    - [内容消费, 拿捏事实和观点, 转变为目的导向](#内容消费-拿捏事实和观点-转变为目的导向)
+    - [Lang Mark](#lang-mark)
+    - [奶水的牌子](#奶水的牌子)
+    - [一种对自由的定义](#一种对自由的定义)
+    - [笔记本小抄](#笔记本小抄)
+    - [404](#404)
+    - [我们倒闭了](#我们倒闭了)
+    - [2047 Links](#2047-links)
+        - [资源](#资源)
+        - [工具](#工具)
+        - [友站](#友站)
+        - [资讯](#资讯)
+        - [个人](#个人)
+        - [翻译](#翻译)
+        - [杂志/期刊](#杂志期刊)
+        - [密码学/区块链/加密货币](#密码学区块链加密货币)
+        - [农业](#农业)
+        - [翻墙](#翻墙)
+        - [组织](#组织)
+        - [美国公民自](#美国公民自)
+        - [教育](#教育)
+        - [卫生](#卫生)
+        - [工业](#工业)
+        - [政府](#政府)
+        - [去中心化](#去中心化)
+    - [Proz, 一个翻译论坛](#proz-一个翻译论坛)
+    - [英文杂志 关于中国](#英文杂志-关于中国)
+    - [关于内卷](#关于内卷)
+    - [[Live chat 在线聊天服务](https://www.v2ex.com/t/542687#;) #tools](#live-chat-在线聊天服务httpswwwv2excomt542687-tools)
+    - [[Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/ )](#best-practices-for-writing-code-comments--stack-overflow-bloghttpsstackoverflowblog20211223bestpracticesforwritingcodecomments-)
+    - [书签](#书签)
+        - [个人收藏](#个人收藏)
+        - [书签菜单](#书签菜单)
+        - [阅读列表](#阅读列表)
+    - [iPhone](#iphone)
+    - [Broadway Chinglish](#broadway-chinglish)
+    - [隐射现实的佳曲](#隐射现实的佳曲)
+        - [《金银》](#金银)
+        - [《范进中举》](#范进中举)
+        - [《自罚两杯》](#自罚两杯)
+    - [Repo](#repo)
+    - [Sentences](#sentences)
+- [log(bug) Updated at 2022-07-06](#logbug-updated-at-20220706)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [英文自查](#英文自查)
@@ -69,1460 +119,9 @@
 - [最后一个 & 需要注意](#最后一个--需要注意)
         - [access `%TEMP` directory](#access-temp-directory)
     - [C](#c)
-- [make(mark) Updated at 2022-07-05](#makemark-updated-at-20220705)
-    - [Code Review Mark](#code-review-mark)
-        - [Telegram API](#telegram-api)
-        - [Web Latex Supported](#web-latex-supported)
-    - [比快排更高效的排序](#比快排更高效的排序)
-    - [Five timeless lessons](#five-timeless-lessons)
-    - [Git Messages](#git-messages)
-    - [Tutorials](#tutorials)
-    - [内容消费, 拿捏事实和观点, 转变为目的导向](#内容消费-拿捏事实和观点-转变为目的导向)
-    - [Lang Mark](#lang-mark)
-    - [奶水的牌子](#奶水的牌子)
-    - [一种对自由的定义](#一种对自由的定义)
-    - [笔记本小抄](#笔记本小抄)
-    - [404](#404)
-    - [我们倒闭了](#我们倒闭了)
-    - [2047 Links](#2047-links)
-        - [资源](#资源)
-        - [工具](#工具)
-        - [友站](#友站)
-        - [资讯](#资讯)
-        - [个人](#个人)
-        - [翻译](#翻译)
-        - [杂志/期刊](#杂志期刊)
-        - [密码学/区块链/加密货币](#密码学区块链加密货币)
-        - [农业](#农业)
-        - [翻墙](#翻墙)
-        - [组织](#组织)
-        - [美国公民自](#美国公民自)
-        - [教育](#教育)
-        - [卫生](#卫生)
-        - [工业](#工业)
-        - [政府](#政府)
-        - [去中心化](#去中心化)
-    - [Proz, 一个翻译论坛](#proz-一个翻译论坛)
-    - [英文杂志 关于中国](#英文杂志-关于中国)
-    - [关于内卷](#关于内卷)
-    - [[Live chat 在线聊天服务](https://www.v2ex.com/t/542687#;) #tools](#live-chat-在线聊天服务httpswwwv2excomt542687-tools)
-    - [[Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/ )](#best-practices-for-writing-code-comments--stack-overflow-bloghttpsstackoverflowblog20211223bestpracticesforwritingcodecomments-)
-    - [书签](#书签)
-        - [个人收藏](#个人收藏)
-        - [书签菜单](#书签菜单)
-        - [阅读列表](#阅读列表)
-    - [iPhone](#iphone)
-    - [Broadway Chinglish](#broadway-chinglish)
-    - [隐射现实的佳曲](#隐射现实的佳曲)
-        - [《金银》](#金银)
-        - [《范进中举》](#范进中举)
-        - [《自罚两杯》](#自罚两杯)
-    - [Repo](#repo)
 
 
-# log(bug) Updated at 2022-07-05
-## Stage
-
-- [ ] #10
- 
-![image](https://user-images.githubusercontent.com/57313137/174589695-4bb685d4-3b96-4ae1-a0db-2d628ce34372.png)
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7)
-
-## 整理房间
-
-- 绕线: 正一圈, 反一圈. via: https://www.bilibili.com/video/BV11s411f7Aj
-- 电工接线: https://www.bilibili.com/video/BV1nA411L7yf
-- 捯饬: 维生素E => 祛痘
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1003732232)
-
-## 英文自查
-
-- 图画: Paint / `win+r` -> `mspaint`
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1003931645)
-
-## 传播已出版书籍内容的视频算侵权吗? 多少算?
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1006577715)
-
-## 吃人条款
-
-- Tencent WeChat 
-- Netease Music
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1006578506)
-
-## Windows
-
-- 看不懂的迷幻操作
-  - `cmd` 的 `python` 默认指向微软商店
-    ![python-mStore](https://user-images.githubusercontent.com/57313137/148641377-aa7c7926-d18e-4ec5-902f-94bec7741098.png)
-  
-- __Fuck Windows Defend__ =>  fuck `Antimalware Service Executable`
-  - this [_Defender Control v2.0_](https://www.sordum.org/9480/defender-control-v2-0/) works for me(via blog(https://www.isharepc.com/32502.html)).
-  - but before that I try
-  ```bash
-  # administrator mode
-  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
-  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 0 /t REG_DWORD /f
-  # via: https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%A6%82%E4%BD%95%E5%BD%BB%E5%BA%95%E5%85%B3/f71fbc7f-9604-4493-a6b1-6c907664dc83
-  REG DELETE "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware
-  # via: https://www.thewindowsclub.com/virus-threat-protection-is-managed-by-your-organization
-  ```
-  
-- 之前我移除过到期的 Onedrive 账号, 因为图方便就直接把东西挪到回收站了, 但是今天发现里面部分的缓存是删不掉的. 位置在`C:\$Recycle.Bin\S-1-5-21-3804606499-716401209-922194820-1001\$R0Y1A2M\xxxx`, 附带报错代码`0x8007016A`. 这就导致了一个死循环
-  - 最后的做法是用 `PE` 进系统, 因为还是找不到这个文件夹, 就直接把`C:\$Recycle.Bin`这个文件夹也删掉了. 系统好像会自动生成? 
-  
-- [onenote怎么关闭开机启动啊? - 知乎](https://www.zhihu.com/question/395176312)
-
-- 开机自启动居然只需要添加快捷方式到 `Shell:common startup`/`Shell:startup` 就可以. via: https://answers.microsoft.com/en-us/windows/forum/all/autostart-a-program-in-windows-10/940682ae-8872-47ce-964d-8b1e820d9a5a
-
----
-
-
-- [ ] Bluetooth 只有 stereo 没有 hand-free 模式
-- [ ] 怎么 安装 gem??
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1007953305)
-
-## RSS
-
-- [ ] 找不到订阅 https://github.com/LCTT/TranslateProject/blob/master/published 的方法...
-
----
-昨天类似的翻译的项目找了很久也没有找到, 不限于已经停更或关站的
-
-- [伯乐在线](https://github.com/jobbole)
-- [众成翻译](https://zcfy.cc)
-
-当然这也看得出还是活跃在Github比较好, 起码项目不做了, 记录都还留着, 服务器一清理了什么都没了; 而且貌似技术社区中掘金还算好的? 淦噢😂
-
-痛点
-
-- 专业知识储量
-- 组员放话, 但不干活
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1017789376)
-
-## 电脑 
-
-- [x] 为什么DELL电脑不统一充电C口, 没有锐龙系列?
-
-> [前者] 我觉得这是基本的道德良心吧，毕竟DC口插三孔插座有接地，typeC往往是插二孔插座就没接地了.
-> via: https://www.zhihu.com/question/381287746/answer/1637537271
-
----
-这里今天翻到一个电脑牌子推荐的帖子, 回复如下:
-
-> DELL - 入门商务 Vostro ，进阶 Inspiron ，高级 Latitude ，顶级 XPS/Precision
-> 
-> 联想 - 入门 Yoga/ThinkBook/Thinkpad L14 ，进阶 Thinkpad T14/T14s ，高级 T15p ，顶级 Thinkpad X1 Carbon / X1 Extreme / P1 / P15 / P17
-> 
-> HP - 入门 Pavilion ，进阶 Probook/Zhan66 ，高级 EliteBook ，顶级 ZBook / ZBook Studio / ZBook
-> via: https://www.v2ex.com/t/830186#87
-
-
-## 电源口救援
-
-笔电要在合盖实现开机可以说是有点难了, Thinkpad 拓展坞自带电源键, 或是其他品牌自带解决方案
-
-小白用户(自己)能做的已经算是很少了...
-
-- [插电唤醒] `Restore after AC Power Loss`, 笔电精简了 BIOS, 没有这个选项...
-- [网络唤醒] `WOL`, `wake on lan`, 只限于有线网线.
-- [芯片飞线] 难度拉满, 从引脚飞线出来一个按键(EC芯片). via: https://www.zhihu.com/question/53771647/answer/1566583028<img src="https://user-images.githubusercontent.com/57313137/150995669-47176831-a300-4355-a9f9-f63ae4de0c7c.png" height="240px" />
-
-- [ ] 所以暂时无解...
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1019233686)
-
-## 取消所有 star => unstar all repo
-
-也不是小气, 只是发现自己的 star 已经失去控制了, 太广泛了, 有的可能已经不再需要了, 但是再筛自己需要的又太多太难了, 简直是大海捞针, 索性全取消从头来过. 专注自己真正用到的几个仓库才是王道, 把精力放在刀刃上...
-
-当然一开始想自己写的, 抓包发现发送的居然是 `post`, 而不是 `delete` 有点意外, 当然被 [REST 思想](https://www.zhihu.com/question/28557115/answer/48094438)弄得有点魔怔了. `post` 在 `https` 下似乎更加安全..
-
-![image](https://user-images.githubusercontent.com/57313137/150986894-0924d607-2fb6-448a-b072-90986bf624bf.png)
-
-然后发现自己开启了 `Authy` 二部验证真的 `py` 不知道怎么实现, 放弃了, 发现 `GithubAPI` [取关居然是 `delete`请求](https://developer.github.com/v3/activity/starring/#unstar-a-repository), 真的是不怎么理解啊😂
-
-最后发现了 npm 得 [user-unstar](https://www.npmjs.com/package/github-unstar), 问题解决...
-
-via:
-1. https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars
-2. https://stackoverflow.com/questions/50183402/github-api-how-to-get-list-of-users-who-have-starred-a-repo-and-cloned-it
-3. https://stackoverflow.com/questions/42503179/how-to-remove-github-repository-stars-older-than-two-years
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021217971)
-
-## scoop 拉不到最新的版本
-
-安装哈希校验失败, 但是搜 issue 发现版本已经落后作者更新的 `json` 了,  执行安装该版本发现还是可以安装的...
-
-<img src="https://user-images.githubusercontent.com/57313137/151095161-619e2c50-ea32-4bc9-9f43-d98fbc848471.png" width="45%"> <img src="https://user-images.githubusercontent.com/57313137/151095280-080b47db-3605-4d31-b38f-1a822545dba1.png" width="50%">
-
-因为 scoop 依赖 git, 所以我之前翻过对应的 repo, 可能不小心修改过文件, 都会让 `git pull` 不下来仓库信息, 所以放弃更改就行了. 具体为以下报错信息
-
-```bash
-# error: Your local changes to the following files would be overwritten by merge:
-#          /xxxx/xxxx.json
-git reset --hard
-git pull
-```
-### 遗留问题
-
-- [ ] scoop 无法卸载未成功安装的软件, 非常神奇
-
-![image](https://user-images.githubusercontent.com/57313137/154320652-bc58623e-cb02-4d3a-9f56-ddd2abebaca5.png)
-
-
-### 拉不下来. 
-
-```shell
-scoop config proxy 127.0.0.1:7890
-scoop config aria2-enabled false
-```
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021809568)
-
-## [PP] 远程控制 
-
-一度认为 `TeamViewer` 是最优解, 但是今天发现国区也需要[绑定](https://community.teamviewer.com/English/discussion/92643/cant-validate-my-account-cant-recieve-sms) `+86` 的手机号... 之后发现手机号绑到另一个号上了, 得嘞, 上另外一个号, excuse me??? [You have no switches left???](https://community.teamviewer.com/English/discussion/110182/how-can-i-remove-devices-in-free-account) 合着我这辈子就只能在这个账户下用两台设备是吗??? 官方也没个回复, 嫖不到服务, delete account, 走了...
-
-<img src="https://user-images.githubusercontent.com/57313137/151100126-f2bc26df-2c80-4b12-ba58-04caf5a53bab.png" width="50%">
-
-笑死, 挂了 SG 的节点, [todesk](https://user.todesk.com/index/index/index.html) 不让注册了(表现为那个滑块纹丝不动), tmd, 也是必须绑定 `+86` 手机号, 然后发现 V2-[安全漏洞](https://www.v2ex.com/t/788413) 的帖子, 啼笑皆非.
-
-最终确定了 `VNC Viewer`(从 [这里](https://www.twblogs.net/a/5b7e6e742b71776838574dc2) 拿到了专业版试用) & `Windows Remote Desktop` 两个软件, 但是前者无法传输 Audio 后者无法跨平台使用都挺操蛋的. 唯一都不识别的键位就是 `win` 了, 需要单独调出虚拟键盘拿到, 有点繁琐.
-
-<!--
-BQ24G-PDXE4-KKKRS-WBHZE-F5RCA
-8ZEZH-QPANM-NX3A5-8C4TS-8B97A
--->
-
-### Diff
-
-两个软件的差别现在列举如下
-
-- 系统自带的更像是在本机上运行似的，而 VNC 更像投屏；
-  - 在使用输入法的时候可以明显感觉出来，VNC可以调用本机的输入法，而 RD 只能调用平板的输入法，因为我的同问输入法配置文件似乎不适配平板的一系列操作， 三星自带输入法又不支持双拼， 所以最后还是用了 Gboard， 唯一的缺点就是无法全局半角了，多少在写 markdown 的时候略感难受。
-  - 屏幕的显示比例也可以看出，RD 是全屏显示，VNC还是传统 16：9 的输出。
-
-
-### 优化 RD 显示及帧率
-
-走完一遍下来基本感觉稳在 `50-60` 之间了，反正比之前30帧舒服得多。
-
-1. 显卡支持: `gpedit.msc` -> `计算机配置->管理模板->Windows组件->远程桌面服务->远程桌面会话主机->远程会话环境` -> enable `硬件图形适配器应用于所有远程桌面服务会话`
-2. 添加注册表 -> `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations` -> `DWORD (32位)` -> `DWMFRAMEINTERVAL` -> `15` (十进制）
-3. reboot.
-
-via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.com/t/746154
-
-注意不要用 UDP 代替 TCP, 连接有时会断得很离谱. via: https://www.v2ex.com/t/507173 & https://www.nextofwindows.com/troubleshoot-and-improve-rdp-connections-with-udp
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021832774)
-
-## 链路改装，刷固件
-
-### 改装链路
-
-- [x] 两个二级路由下的设备互访? 打通两个路由器网络?
-
-> 1. 如下我叙述的那样，将远程路由变成中继
->
-> 2. 静态路由， 设置遇到另一个网段的地址， 直接转发到目的网段的路由器处理，此处类似转发的操作无需端口转发，直接用静态路由去做。
->
-> 3. Lan To Lan, 实现网络的拓展，本质还是中继（PS：Wan To Lan 的路由器连接方法需要关闭 Lan 入口路由器的 DHCP功能，并设置网关为 Wan 出口路由 IP）
->
-> via: [wikihow](https://zh.wikihow.com/%E8%BF%9E%E6%8E%A5%E4%B8%A4%E5%8F%B0%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BB%A5%E6%89%A9%E5%B1%95%E7%BD%91%E7%BB%9C) & https://zhuanlan.zhihu.com/p/85129768 ＆ https://www.zhihu.com/question/26598324
-
-更多链接:
-
-- [[请问电脑有ip地址，为啥还要网关地址呢？ 网关的ip地址是路由器的地址吗？ - 知乎](https://www.zhihu.com/question/327338744)](https://www.zhihu.com/question/327338744)
-- [[同一网段内的两台主机通信是否需要路由器？ - 知乎](https://www.zhihu.com/question/41496681)](https://www.zhihu.com/question/41496681)
-- [[你所见过最长或最大的二层局域网有多大？ - 知乎](https://www.zhihu.com/question/447734554)](https://www.zhihu.com/question/447734554)
-- [[VLAN 划分与子网划分联系与区别？ - 知乎](https://www.zhihu.com/question/51675361)](https://www.zhihu.com/question/51675361)
-- [设置静态路由 不同网段可以互相访问](http://blog.sina.com.cn/s/blog_86d75993010109cr.html)
-- [如何实现交换机不同VLAN、不同网段之间互访？](https://www.163.com/dy/article/GKHS9TAG0552DON3.html)
-- [[传统界面路由器\] 当无线AP（无线交换机）使用，怎么设置？ - TP-LINK 服务支持](https://service.tp-link.com.cn/detail_article_451.html)
-- [外网通过路由器DMZ功能访问内网 - 米扑博客](https://blog.mimvp.com/article/19730.html)
-- [小米路由器作为二级路由器的完美设置_小米路由器子网掩码 - 调色盘网络](https://www.tspweb.com/key/小米路由器子网掩码.html)
-
-今天发现没办法用远程桌面了, 才意识到去年搬家网络链路也变了(之前我电脑做服务器是直接连接交换机的, 现在电脑已经成了三级设备), 虽然知道网络层已经把两个网络独立开了, 还是傻逼般折腾了好一会儿, 换局域网的 IP, 用小米路由的转口转发什么的, 都不成. 中途关了 DHCP 直接连后台都进不去了, 最后还是走的重置路由. 真🐶.
-
-所以现在要么是复现当时的链路连接方法, 要么另寻他法, 因为自己没有找到合适的解决方案. 而且官方路由无法单独设置子网掩码, 永远是`255.255.255.0`, 所以产生了要刷路由固件的想法.
-
-<img src="https://user-images.githubusercontent.com/57313137/151391451-46637183-0cd2-4fd3-8943-8442dc7f191d.png" width="50%">
-
-### 刷固件
-
-个人买路由器是在 2006 的时候, 所以固件版本为 `1.0.14-stable` 也不用折腾去降级了, 直接跟着 [B站视频](https://www.bilibili.com/video/BV1dD4y1D7gM) 做, 一个小时连拆带刷, 再带探索, 一气呵成, 最后实现了也就是 对指定 IP(设备) 科学上网 和 去广告这两个馋了我好久的功能了...
-
-大概流程也就是像它那个 [脑图](https://mind.airmore.cn/doc/0421076311) 那样.
-
-- 卸载火绒, 关闭 `firewall`, via: [火绒怎么完全退出？ - 知乎](https://www.zhihu.com/question/442514458)
-- 网卡设置静态 IP
-- `windows` 开启 `telnet` 
-- 安装 `winpcap`
-  - 中途报了 `C:\WINDOWS\system32\npf.sys` 的错, 问题不大, 因该是权限问题, 复写完了大小也一样..
-- 执行脚本 && `telnet 192.168.31.1` && `cd /tmp&&wget http://192.168.31.177:8081/busybox&&chmod a+x ./busybox&&./busybox telnetd -l /bin/sh` && `telnet 192.168.31.1` && `cd /tmp` && `wget http://192.168.31.177:8081/breed-mt7621-xiaomi-r3g.bin&&nvram set uart_en=1&&nvram set bootdelay=5&&nvram set flag_try_sys1_failed=1&&nvram commit` && `mtd -r write breed-mt7621-xiaomi-r3g.bin Bootloader`
-- 长按 `reset` 后开机直到闪烁进入 `不死 breed`, 最后在里面刷上老毛子的固件, 版本当然还是2019年, 但是暂时够用了, nice.
-
-另外 安山的旧蓝奏的链接一般都是 `lanzous.com`, 用的时候全换成 `lanzoux.com` 就能用了
-
-~~家里还有台之后买的 `ac2100`, 回头有机会也一并刷上去吧~~
-
-突然发现小米路由器有中继功能, 什么都不用设置, 直接在网络连接里开启中继, 本来想着用 `lan to lan` + `DHCP`, 没想到小米直接可以, 太棒了. 最后后台变成了 `192.168.2.164`. 在考虑 IP 冲突的问题 这样不会冲突吧
-
-- AC2100 刷机参考教程
-  - https://www.right.com.cn/forum/thread-4016985-1-1.html
-  - https://www.right.com.cn/forum/thread-4017726-1-2.html
-  - https://www.right.com.cn/forum/thread-4033492-1-1.html
-  - https://www.right.com.cn/forum/thread-4019326-1-1.html
-  - https://www.kejiwanjia.com/jiaocheng/zheteng/160.html
-  - https://post.smzdm.com/p/aoo85457/
-
-###  一点概念
-
-- 固件差别 (via: https://www.right.com.cn/forum/thread-4009551-1-1.html)
-  - [OpenWRT](https://openwrt.org/)
-    - OpenWRT是参考了Linksys代码的开源系统，于2005年正式推出了1.0
-    - 嵌入式的 Linux 发行版, 但对博通的CPU支持的不好，主要是因为博通不开源（博通的路由常见于华硕的中高端型号）
-    - 硬件表格： https://openwrt.org/zh/toh/start
-  - LEDE
-    - OpenWRT在LEDE 17.01.0到LEDE 17.01.6的版本
-    - OpenWRT的一个成熟时期
-  - [潘多拉](https://www.pangubox.com)(PandoraBox)
-    - 国内lintel开发的一个基于OpenWRT的分支
-  - 华硕(Asuswrt)
-    - 固件功能和稳定性很强，缺点可定制性不高。
-    - 大多机型为博通CPU
-  - [梅林](https://www.asuswrt-merlin.net/)
-    - 基于华硕的改版
-  - [老毛子](https://bitbucket.org/padavan/)(Padavan)
-    - 俄罗斯人基于华硕的改版
-- 中继、无线桥接、级联、HyFi、AP/AC (via: https://service.tp-link.com.cn/detail_article_458.html)
-  - **AP(ACCESS POINT)**: 把有线网络转换为无线网络. 无线AP也就是一个无线交换机, 接入在有线交换机或是路由器上, 接入的无线终端和原来的网络是属于同一个子网
-  
-- SSID (Service Set Identifier): 无线名称
-- RSSI (Received Signal Strength Indicator): 接收信号的强度指示，在反向通道基带接收滤波器之后进行的
-
-## 电脑开始裸奔
-
-因为刷固件的时候把火绒卸载了， 现在就出现了另一个问题，我不想装回去了。
-
-- 开机自启动管理 -> `task manager`/`startup`.
-- Host -> `C:\Windows\System32\Drivers\etc\hosts`
-- Net Monitor -> `Traffic Monitor`
-- [ ] 右键管理
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1023411363)
-
-## Git 
-
-- submodule
-  - `git submodule add https://github.com/yyy/xxx.git`
-  - see https://knightyun.github.io/2021/03/21/git-submodule
-```shell
-[submodule "xxx"]
-	path = xxx
-	url = git@github.com:yyy/xxx.git
-```
-
-- 移除历史提交
-```shell
-git filter-branch --force --index-filter \
-  'git rm -r --cached --ignore-unmatch public/photos' \
-  --prune-empty --tag-name-filter cat -- --all
-echo public/photos >> .gitignore
-git add .gitignore && git commit -m "ignore rule for photos"
-git push origin branch -f
-// via: https://stackoverflow.com/questions/25458306/git-rm-fatal-pathspec-did-not-match-any-files
-```
-
-- git 如何不提交目录删除文件
-
-```shell
-git rm readme
-```
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1037068425)
-
-## Jekyll 整修记
-
-### 可能会用到的 CSS 代码
-
-类 github 表格 CSS.
-
-```css
-/* via: typora github theme */ 
-table {
-  padding: 0;
-  word-break: initial;
-  border-collapse: collapse;
-}
-
-table tr {
-  border: 1px solid #dfe2e5;
-  margin: 0;
-  padding: 0;
-}
-
-table tr:nth-child(2n), 
-thead {
-  background-color: #f8f8f8;
-}
-
-table th {
-  background:#bec1c4;
-  font-weight: bold;
-  border: 1px solid #dfe2e5;
-  border-bottom: 0;
-  margin: 0;
-  padding: 6px 13px;
-}
-
-table td {
-  border: 1px solid #dfe2e5;
-  margin: 0;
-  padding: 6px 13px;
-}
-
-table th:first-child,
-table td:first-child {
-  margin-top: 0;
-}
-
-table th:last-child,
-table td:last-child {
-  margin-bottom: 0;
-}
-
-tr:nth-child(n):hover td {
-  background:#D7C4BB;
-}
-```
-
-目录 Css
-
-```css
-/* via: sspai.com */
-.contents{
-  font-size: 16px;
-  overflow: auto;
-  max-height: 400px;
-  max-width: 300px;
-  border: 1px solid #a2a9b1;
-  background-color: #f8f9fa;
-  padding: 10px;
-}
-
-.contents>ul{
-  list-style: none;
-  margin-left: -20px;
-}
-```
-
-## Math Latex Supported.
-
-#8 
-
-## Comment Jmp to Github Issues
-
-via: [Variables | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/variables/ )
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1041897827)
-
-## Samsung 
-
-### Galaxy App Booster
-
-via: https://www.youtube.com/watch?v=riWyEKS4d-M
-
-using android feature via https://android-developers.googleblog.com/2019/04/improving-app-performance-with-art.html
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1046239653)
-
-## Virtualbox
-
-腾讯会议 在 win7虚拟机 下绘制图形失败, 必须重启电脑
-
-<img src="https://user-images.githubusercontent.com/57313137/155131344-f7f16711-5678-4de7-8214-54a4525fe6b2.png" width="50%">
-
-就算是开启3d加速, 显卡拉到 256M 还是收效甚微. 所以打算换个系统 [win11](https://www.microsoft.com/zh-cn/software-download/windows11). 
-
-配置的时候记得开启如下选项
-
-1. 分配硬盘一定要 100G(动态), 要不容易卡在安装蓝屏.
-2. `系统` -> `主板` -> `内存4G` & `启用EFI`
-3. `系统` -> `处理器` -> `处理器数4` & `启用PAE/NX`
-4. `显示` -> `屏幕` -> `硬件加速` & `256M`
-
-进去系统在安装前 `shief+F10` 打开 `cmd` 敲 `regedit`
-
-在 `HKEY_LOCAL_MACHINE\SYSTEM\Setup` 下新建一个 `LabConfig` 的 `key`,  其下新建 `BypassTPMCheck`,  `BypassRAMCheck`, `BypassSecureBootCheck` 三个 DWORD (32位) 值，赋值均为 1. 骗过校验之后就能直接安装了.
-
-<img src="https://user-images.githubusercontent.com/57313137/155132896-9e4da0ba-42da-44c7-aa70-ca8c68b728a7.png" width="50%">
-
-之后发现还是很卡, 在 `系统` -> `硬件加速` -> `Hype-V`(win) / `KVM`(linux) 会有所好转. Mac 则有 [PD备胎](https://www.parallels.com/hk/) 可选 
-
-而且硬件居然显示的不是 SSD, 而是HDD. 暂时不知道要怎么做....
-
-
-## Refs
-
-1. https://www.zhihu.com/question/58179981
-2. https://www.zhihu.com/question/309295881
-3. https://www.zhihu.com/question/63156851
-4. https://www.v2ex.com/t/805490
-5. https://www.v2ex.com/t/623493
-6. https://www.v2ex.com/t/284666
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1047750363)
-
-## TTRSS Shortcuts | ttrss 快捷键
-
-I'm sorry that I couldn't found any related from offical [wiki](https://tt-rss.org/wiki.php) and other site. The only I found helpful site is unavailable now(via https://www.isitdownrightnow.com/ttrss.info.html).
-
-And I found some shortcuts by myself except arrow keys and `j`/`k`/`n`(j = previous category. · k = next category. · n = next unread article). 😂
-
-| Shortcuts | Mean |
-|------------|-------|
-| `Shift + q` | Mark All Readed. |
-| `o` | Open Origin Url in new tab|
-| `space` | Scroll |
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1065823971)
-
-## Get Windows WLAN IP
-
-```shell
-netsh interface ip show address "WLAN" | findstr "IP Address" | Select-String -Pattern '([0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*)' | %{ $_.matches.Value }
-````
-
-via: [networking - How to get network ip address via windows command prompt? - Super User](https://superuser.com/questions/719268/how-to-get-network-ip-address-via-windows-command-prompt/719274#719274 )
-
-After I learn some usage of windows command line, It's weird that `man xxx`/`Get-Help xxx` useless than `xxx ?`, like following:
-
-```shell
-PS C:\Users\15517> man netsh
-
-NAME
-    Netsh-Lan
-
-SYNTAX
-    Netsh-Lan
-
-
-PARAMETERS
-    None
-
-
-INPUTS
-    None
-
-
-OUTPUTS
-    System.Object
-
-ALIASES
-    None
-
-
-REMARKS
-    None
-
-
-
-PS C:\Users\15517> netsh ?
-
-Usage: C:\windows\system32\netsh.exe [-a AliasFile] [-c Context] [-r RemoteMachine] [-u [DomainName\]UserName] [-p Password | *]
-             [Command | -f ScriptFile]
-
-The following commands are available:
-
-Commands in this context:
-?              - Displays a list of commands.
-add            - Adds a configuration entry to a list of entries.
-advfirewall    - Changes to the `netsh advfirewall' context.
-branchcache    - Changes to the `netsh branchcache' context.
-bridge         - Changes to the `netsh bridge' context.
-delete         - Deletes a configuration entry from a list of entries.
-dhcpclient     - Changes to the `netsh dhcpclient' context.
-dnsclient      - Changes to the `netsh dnsclient' context.
-dump           - Displays a configuration script.
-exec           - Runs a script file.
-firewall       - Changes to the `netsh firewall' context.
-help           - Displays a list of commands.
-http           - Changes to the `netsh http' context.
-interface      - Changes to the `netsh interface' context.
-ipsec          - Changes to the `netsh ipsec' context.
-lan            - Changes to the `netsh lan' context.
-mbn            - Changes to the `netsh mbn' context.
-namespace      - Changes to the `netsh namespace' context.
-netio          - Changes to the `netsh netio' context.
-p2p            - Changes to the `netsh p2p' context.
-ras            - Changes to the `netsh ras' context.
-rpc            - Changes to the `netsh rpc' context.
-set            - Updates configuration settings.
-show           - Displays information.
-trace          - Changes to the `netsh trace' context.
-wcn            - Changes to the `netsh wcn' context.
-wfp            - Changes to the `netsh wfp' context.
-winhttp        - Changes to the `netsh winhttp' context.
-winsock        - Changes to the `netsh winsock' context.
-wlan           - Changes to the `netsh wlan' context.
-
-The following sub-contexts are available:
- advfirewall branchcache bridge dhcpclient dnsclient firewall http interface ipsec lan mbn namespace netio p2p ras rpc trace wcn wfp winhttp winsock wlan
-
-To view help for a command, type the command, followed by a space, and then
- type ?.
-```
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1083107220)
-
-## 手机📱
-
-- 耳机连接声音有点大 情景模式
-- 几点之后设置静音🔇晚上通知容易吵着别人
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1091517326)
-
-## 为什么对她这么不好
-
-她有没有曾为我做些什么 为什么总是要我去做她做不来的事情 自己去做不就好了 不要什么事情都找我 很烦
-
-我不想听别人的废话 太费我的精力了
-
-一点点的东西就把我的精力打散了  好无奈
-
-怎么破除这样脆弱的状态 
-
-果然应该为明天做更加具体的计划吗
-
-当然计划应该有剩余 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1091525603)
-
-## Wget Here
-
-via: https://www.youtube.com/watch?v=Oe40pxcjPpM
-
-```shell
-wget --mirror --page-requisites --convert-link --no-clobber --no-parent --domains (root-domain) (url you want)
-``` 
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1110488840)
-
-## Python 
-
-### Uninstall Package I do not need
-
-Using [pip-date · PyPI](https://pypi.org/project/pip-date/ ) make sure what you want to uninstall.
-
-```shell
-pip freeze > requirements.txt
-pip uninstall -r requirements.txt [-y]
-```
-
-### Look where you install it
-
-```shell
-python -m site
-```
-
-### Install Env Here
-
-```shell
-pip install -r requirements.txt -t .
-```
-
-### Pipenv 
-
-- [Pipenv与虚拟环境 — pipenv 2020.8.13.dev0 文档](https://pipenv-zh.readthedocs.io/zh_CN/latest/install.html )
-- Proxy Address: https://pypi.tuna.tsinghua.edu.cn/simple
-- [python - Using pipenv behind a proxy - Stack Overflow](https://stackoverflow.com/questions/59817886/using-pipenv-behind-a-proxy )
-- [python - How to configure PIP per config file to use a proxy (with authentification)? - Stack Overflow](https://stackoverflow.com/questions/43473041/how-to-configure-pip-per-config-file-to-use-a-proxy-with-authentification )
-
-```python
-#pip.ini
-trusted-host = pypi.python.org
-               pypi.org
-               files.pythonhosted.org
-proxy = <proxy:port>
-http_proxy = xxx
-https_proxy = xxx
-
-# pipfile
-[[source]]
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
-```
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1114265643)
-
-## Java 
-### Basic
-- ArrayList 
-  - Init via: [How to initialize an ArrayList](https://beginnersbook.com/2013/12/how-to-initialize-an-arraylist/ )
-    - 常规
-      ```java
-      // 1
-      ArrayList<T> obj = new ArrayList<T>();
-      obj.add("o1");
-      obj.add("o2");
-      
-      // 2
-      ArrayList<T> obj = new ArrayList<T>();
-      List list = Arrays.asList("o1","o2",...);
-      obj.addAll(list);
-      ```
-    - 匿名内部内进行初始化
-      ```java
-      ArrayList<T> obj = new ArrayList<T>() {{
-          add(Object o1);
-          add(Object o2);
-          ...
-          ...
-      }};
-      ```
-    - Arrays.asList
-      ```java
-      ArrayList<Type> obj = new ArrayList<Type>(Arrays.asList(Object o1, Object o2, Object o3, ....so on));
-      ```
-    - Collections.ncopies
-      ```java
-      ArrayList<T> obj = new ArrayList<T>(Collections.nCopies(count,element));//把element复制count次填入ArrayList中
-      ```
-  - sort
-    via: [Java List排序的几种方式整理 - 掘金](https://juejin.cn/post/6986191577659998216 )
-    ```java
-    // 1. basic
-    Collections.sort(list);
-    // 2. user based
-    class classname implements Comparable<classname>{}
-    // 3. 匿名内部类
-    Collections.sort(list, new Comparator<User>() {
-    　　　　    @Override
-    　　　　    public int compare(User u1, User u2) {
-    　　　　　　    int diff = u1.getAge() - u2.getAge();
-    　　　　　　    if (diff > 0) {
-    　　　　　　　　    return 1;
-    　　　　　　    }else if (diff < 0) {
-    　　　　　　　　    return -1;
-    　　　　　　    }
-    　　　　　　    return 0; //相等为0
-    　　　　    }
-    　　    }); // 按年龄排序
-    // 4.
-    list.sort(Comparator.comparing(User::getAge));
-    ```
-  - to Array (seem like `set`)
-    ```java
-    String[] myArray = new String[list.size()];
-    list.toArray(myArray);
-    ```
-- Array
-  - init
-    ```java
-    int[] x;// 1
-    int x[];// 2
-    int []x;// 3
-    
-    int[] array=new int[]{10,20,30,40,50};
-    
-    int[] array=new int[50];
-    ```
-  - to list
-    ```java
-    List<String> list = Arrays.asList(myArray);
-    ```
-  - to Set
-    ```java
-    Set<String>set = new HashSet<>(Arrays.asList(arr));
-    ```
-    - NOTICE: int to Integer hasn't a init constructor. so just manually do it. / Stream
-    ```
-    // via: https://stackoverflow.com/questions/1073919
-    // Stream on Java 8+
-    int[] ints = {1,2,3};
-    List<Integer> list = Arrays.stream(ints).boxed().collect(Collectors.toList());
-    // Stream on Java 16+
-    List<Integer> list = Arrays.stream(ints).boxed().toList();
-    // Manual
-    List<Integer> intList = new ArrayList<Integer>(ints.length);
-    for (int i : ints)
-        intList.add(i);
-    ```
-### convert an integer to binary
-- `Integer.toBinaryString(int i)` via: [How to convert an integer to binary in Java](https://www.educative.io/answers/how-to-convert-an-integer-to-binary-in-java )
-  - To add the padding, first format the string to fixed-width string using the `String.format()` method. Then, replace spaces with 0s using the `String.replaceAll(String str, String replacement)`
-    - `String.format("%32s", binaryString).replaceAll(" ", "0");`
-  - Adding 4-bit blocks
-    - ```java
-      StringBuffer sb = new StringBuffer();
-      for (int i = 0; i< binaryString.length(); i++ ) {
-        sb.append(binaryString.charAt(i));
-        if (i%4 == 3 && i != binaryString.length() - 1)
-          sb.append(separator);
-      }
-      ```
-### JDBC & Mysql
-```
-chown -R mysql:mysql /var/lib/mysql/
-mysqld --initialize
-sudo service mysql start # systemctl start mysqld
-sudo mysqladmin -u root
-mysql -u (username) -p
-mysql> show global variables like 'port';
-grant all privileges on *.* to 'user'@'localhost' [identified by 'pass'];
-flush privileges;
-CREATE DATABASE database_name;
-USE database_name;
-```
-- [ ] 改密码始终没有成功, 最后是自己回忆起了密码, 总是在报SQL语句错误的问题, 但是在 Root 用户下一下子好像就成功了...
-  ```
-  UPDATE mysql.user SET authentication_string=PASSWORD('password') WHERE User='root' --ssl-mode=required; #error
-  
-  sudo mysqladmin -u root -p password #successful
-  ```
-  - Refs
-    - [MySQL 安装 | 菜鸟教程](https://www.runoob.com/mysql/mysql-install.html )
-    - [linux - error: 'Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)' -- Missing /var/run/mysqld/mysqld.sock - Stack Overflow](https://stackoverflow.com/questions/11990708/error-cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysq )
-    - [MySQL password issues (mac OS X Lion) - Stack Overflow](https://stackoverflow.com/questions/8541115/mysql-password-issues-mac-os-x-lion )
-    - [mysql - mysqladmin: Warning Using a password on the command line interface can be insecure - Stack Overflow](https://stackoverflow.com/questions/67109670/mysqladmin-warning-using-a-password-on-the-command-line-interface-can-be-insecu )
-    - [php - MySql Access denied for user ''@'localhost' to database - Stack Overflow](https://stackoverflow.com/questions/50496353/mysql-access-denied-for-user-localhost-to-database )
-    - [sql - Error 1046 No database Selected, how to resolve? - Stack Overflow](https://stackoverflow.com/questions/4005409/error-1046-no-database-selected-how-to-resolve )
-- [ ] docker 虚拟化环境, 不要污染环境
-  - [Docker 安装 MySQL | 菜鸟教程](https://www.runoob.com/docker/docker-install-mysql.html )
-- [ ] JDBC
-  - **mysql-connector.jar**
-  - [Mini tutorial on MySQL + JDBC connectivity](https://stackoverflow.com/questions/2839321/java-connectivity-with-mysql/2840358#2840358)
-  - via: [java - No suitable driver found for 'jdbc:mysql://localhost:3306/mysql - Stack Overflow](https://stackoverflow.com/questions/8146793/no-suitable-driver-found-for-jdbcmysql-localhost3306-mysql )
-- [x] Install Tomcat via [How To Install Apache Tomcat 10 on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04 )
-    ```shell
-    sudo useradd -m -d /opt/tomcat -U -s /bin/false tomcat
-    sudo apt update && sudo apt install default-jdk
-    cd /tmp
-    wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.20/bin/apache-tomcat-10.0.20.tar.gz
-    sudo tar xzvf apache-tomcat-10*tar.gz -C /opt/tomcat --strip-components=1
-    sudo chown -R tomcat:tomcat /opt/tomcat/
-    sudo chmod -R u+x /opt/tomcat/bin
-    sudo vim /opt/tomcat/conf/tomcat-users.xml
-    # set user password
-    sudo vim /opt/tomcat/webapps/manager/META-INF/context.xml
-    # remove the restriction for the Manager page, open its config file for editing
-    # <!--  <Valve className="org.apache.catalina.valves.RemoteAddrValve" allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" /> -->
-    sudo vim /opt/tomcat/webapps/host-manager/META-INF/context.xml
-    #like above
-    sudo nano /etc/systemd/system/tomcat.service
-    [Unit]
-    Description=Tomcat
-    After=network.target
-    [Service]
-    Type=forking
-    User=tomcat
-    Group=tomcat
-    Environment="JAVA_HOME=$JAVA_HOME" #here config!!!
-    Environment="JAVA_OPTS=-Djava.security.egd=file:///dev/urandom"
-    Environment="CATALINA_BASE=/opt/tomcat"
-    Environment="CATALINA_HOME=/opt/tomcat"
-    Environment="CATALINA_PID=/opt/tomcat/temp/tomcat.pid"
-    Environment="CATALINA_OPTS=-Xms512M -Xmx1024M -server -XX:+UseParallelGC"
-    ExecStart=/opt/tomcat/bin/startup.sh
-    ExecStop=/opt/tomcat/bin/shutdown.sh
-    RestartSec=10
-    Restart=always
-    [Install]
-    WantedBy=multi-user.target
-    sudo /opt/tomcat/bin/startup.sh
-    ```
-### Run Tomcat on WSL2
-Not Supported!!! It would all print error to Java JDK, but it matters to WSL2!!!
-via: [Run Tomcat on WSL 2 – IDEs Support (IntelliJ Platform) | JetBrains](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010609900-Run-Tomcat-on-WSL-2 )
-- > It's not supported at the moment, I've submitted a request at https://youtrack.jetbrains.com/issue/IDEA-265214.
-### Tomcat >=10, servlet from javax to jakarta
-> [Apache Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) 9 and 10 are equivalent products. The only difference is support for changes for the package names in the Jakarta Servlet and related technologies from javax.* to jakarta.*. via: [How to update Apache Tomcat Embed from 9.0.35 to 10.0.4 in Java application - Stack Overflow](https://stackoverflow.com/questions/66758269/how-to-update-apache-tomcat-embed-from-9-0-35-to-10-0-4-in-java-application )
-more via:
-- [记一次@WebServlet不生效的问题 - 冰肌玉骨小香脐 - 博客园](https://www.cnblogs.com/volun/p/15140946.html )
-- [从Java EE到Jakarta EE，企业版Java的发展历程-CSDN博客](https://fangshixiang.blog.csdn.net/article/details/118403779 )
-### Little Error
-- [How to Install Tomcat 9 on Ubuntu 20.04 | Linuxize](https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-20-04/ )
-  - [java - installing tomcat 9 on WSL - Stack Overflow](https://stackoverflow.com/questions/63312469/installing-tomcat-9-on-wsl )
-  - [Apache Tomcat® - Which Version Do I Want?](https://tomcat.apache.org/whichversion.html )
-- [Install Open JDK on WSL](https://kontext.tech/article/621/install-open-jdk-on-wsl )
-  - [How to Install Java on Ubuntu 18.04 | Linuxize](https://linuxize.com/post/install-java-on-ubuntu-18-04/ )
-  - [java - Getting Error:JRE_HOME variable is not defined correctly when trying to run startup.bat of Apache-Tomcat - Stack Overflow](https://stackoverflow.com/questions/28991391/getting-errorjre-home-variable-is-not-defined-correctly-when-trying-to-run-star )
-  - [How to set Java environment path in Ubuntu - Stack Overflow](https://stackoverflow.com/questions/9612941/how-to-set-java-environment-path-in-ubuntu )
-  ```shell
-  $ sudo apt-get install openjdk-8-jdk
-  $ sudo apt install default-jdk # 11
-  $ readlink -f $(which java)
-  # /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
-  $export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
-  # /usr/lib/jvm/java-11-openjdk-amd64
-  ```
-- [Tomcat Config : Diff between "Tomcat Home" and "Tomcat base directory" – IDEs Support (IntelliJ Platform) | JetBrains](https://intellij-support.jetbrains.com/hc/en-us/community/posts/207041235-Tomcat-Config-Diff-between-Tomcat-Home-and-Tomcat-base-directory- )
-  - Tomcat base ($CATALINA_BASE) is place where server stores its instance
-  - stuff (configs, etc). By default, it is the same as tomcat install dir
-  - (CATALINA_HOME).
-- [IDEA 出现cannot resolve method getParameter(Java.lang.String)解决方案 - 简书](https://www.jianshu.com/p/08d4eea27355 )
-  - File>Project Structure>Modules>Dependencies，然后点击右边的绿色+号，选择Library，然后选择你的Tomcat服务器添加，然后再Apply应用即可。
-- [java - Cannot resolve method getParameter() in JSP - Stack Overflow](https://stackoverflow.com/questions/50826313/cannot-resolve-method-getparameter-in-jsp )
-  - If that's the case, I'm almost sure you're missing the `servlet-api.jar` file in your classpath.
-  - Here's one of the ways to add it on IntelliJ:
-    - Right-click on your project and select **Open Module Settings**:
-    - Make sure that you're on the **Modules** section, **Dependencies** tab, click on the "+" button at the bottom, and select **1 JARs or directories...**:
-    - Select the file `servlet-api.jar` from the folder `lib` at (THIS IS IMPORTANT:) **the container where you're deploying your application** (in my case, **apache-tomcat-8.5.31**):
-    - Then click on the "Ok" button. Your program now should look like this:
-- JSP 自动刷新
-  ```html
-  <!-- 1 content=”5″ 是时间控制，表示每隔5秒刷新一次页面 -->
-  <meta http-equiv=”refresh” content=”5″>
-  <!-- 2 -->
-  <%@ page language="java" contentType="text/html; charset=UTF-8"
-      pageEncoding="UTF-8"%>
-  <%@ page import="java.io.*,java.util.*" %>
-  <html>
-  <head>
-  <title>自动刷新实例</title>
-  </head>
-  <body>
-  
-  <h2>自动刷新实</h2>
-  <%
-     // 设置每隔5秒刷新一次
-     response.setIntHeader("Refresh", 5);
-     // 获取当前时间
-     Calendar calendar = new GregorianCalendar();
-     String am_pm;
-     int hour = calendar.get(Calendar.HOUR);
-     int minute = calendar.get(Calendar.MINUTE);
-     int second = calendar.get(Calendar.SECOND);
-     if(calendar.get(Calendar.AM_PM) == 0)
-        am_pm = "AM";
-     else
-        am_pm = "PM";
-     String CT = hour+":"+ minute +":"+ second +" "+ am_pm;
-     out.println("当前时间为: " + CT + "\n");
-  %>
-  
-  </body>
-  </html>
-  <!-- via: https://www.runoob.com/jsp/jsp-auto-refresh.html-->
-  ```
-- 自动跳转
-  ```html
-  <meta http-equiv=”refresh” content=”1;url=index.jsp”>
-  <!-- ontent=”1 是时间控制,表示1秒后自动跳转到要跳转的页面. 
-  content=”0 表示打开该页后立即跳转到你要跳转的页面 -->
-  ```
-- Solving a "communications link failure" with JDBC and MySQL [duplicate](https://stackoverflow.com/questions/6865538/solving-a-communications-link-failure-with-jdbc-and-mysql)
-  - 5s 重启
-  - 修改等待时间 via: [解决Java程序连接mysql数据库出现CommunicationsException: Communications link failure错误的问题](https://www.cnblogs.com/hafiz/p/5879432.html )
-- [java - session.getAttribute from servlet and display in html - Stack Overflow](https://stackoverflow.com/questions/26657104/session-getattribute-from-servlet-and-display-in-html )
-  - [Forget about scriptlets, avoid its usage](https://stackoverflow.com/q/3177733/1065197). Use [Expression language](https://stackoverflow.com/tags/el/info) instead:
-  - ```
-    <div id="divUser">
-        Welcome ${FirstName} ${LastName}
-    </div>
-    ```
-- [java - Using Intellij to Build War and Deploy to Tomcat - Stack Overflow](https://stackoverflow.com/questions/31705700/using-intellij-to-build-war-and-deploy-to-tomcat )
-  - Checklist of things you can do to verify where things go wrong:
-    - Manually build the artifacts using Build > Build artifacts.
-    - Verify if the artifact is in the expected output directory (out/artifacts/xxx).
-    - If not, go to File > Project structure > Artifacts
-    - Select the artifact file in question (project_name in this case).
-    - Verify if the output directory is correct. Optionally try to create this directory yourselves in case IntelliJ doesn't do it (although this would surprise me)
-    - Verify if the contents are correct.
-    - Optionally check "Build on make" to always have the latest version of your code deployed whenever you run the server.
-  - Note that for deploying WAR files to a Tomcat, you should prefer to use the exploded WAR. This makes deploying/testing/debugging significantly faster.
-- [java - Intellij error=2 No such file or directory - Stack Overflow](https://stackoverflow.com/questions/42856555/intellij-error-2-no-such-file-or-directory )
-  - The answer from here [Change jdk path in IntelliJ 13 when compiling from 32 bit program file folder to 64 bit one](https://stackoverflow.com/questions/22392110/change-jdk-path-in-intellij-13-when-compiling-from-32-bit-program-file-folder-to/22392702#22392702) worked for me
-  - From the menu: `File` -> `Project Structure...`.
-  - On the left, below "Platform Settings", you have "SDKs": click on it; you can add your new JDK here.
-  - Always in the same window, below "Project Settings", select "Project": you have the option to select the JDK which you just added.
-- [How to get Maven to run war:exploded but not war:war - Stack Overflow](https://stackoverflow.com/questions/352612/how-to-get-maven-to-run-warexploded-but-not-warwar )
-  - The solution is quite simple. You need to override the default execution of the war plugin to disable it and add your own execution (for exploded):
-    ```xml
-    <pluginManagement>
-        <plugins>
-                <plugin><!-- don't pack the war  -->
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-war-plugin</artifactId>
-                    <executions>
-                        <execution>
-                            <id>default-war</id>
-                            <phase>none</phase>
-                        </execution>
-                        <execution>
-                            <id>war-exploded</id>
-                            <phase>package</phase>
-                            <goals>
-                                <goal>exploded</goal>
-                            </goals>
-                        </execution>
-                    </executions>
-                </plugin>
-        </plugins>
-    </pluginManagement>
-    ```
-- [ios - HTTP Status 404 Tomcat / Intellij - Stack Overflow](https://stackoverflow.com/questions/33013155/http-status-404-tomcat-intellij )
-- [java - Intellij warning no artifacts configured - Stack Overflow](https://stackoverflow.com/questions/35816563/intellij-warning-no-artifacts-configured )
-- [java - Warning the selected directory is not a valid tomcat home - Stack Overflow](https://stackoverflow.com/questions/33055786/warning-the-selected-directory-is-not-a-valid-tomcat-home )
-  - If you are using **IDEA on Linux platform**, use the command:
-  - `chmod 755 -R apache-tomcat-<>`
-  - Then try to restart your service again.
-- [java - IntelliJ, can't start simple web application: Unable to ping server at localhost:1099 - Stack Overflow](https://stackoverflow.com/questions/19068977/intellij-cant-start-simple-web-application-unable-to-ping-server-at-localhost )
-  - WSL JDK 换成 Windows 的 JDK
-- [networking - java.net.ConnectException :connection timed out: connect? - Stack Overflow](https://stackoverflow.com/questions/5662283/java-net-connectexception-connection-timed-out-connect )
-  - The error message says it all: your connection timed out. This means your request did not get a response within some (default) timeframe. The reasons that no response was received is likely to be one of:
-    - a) The IP/domain or port is incorrect
-    - b) The IP/domain or port (i.e service) is down
-    - c) The IP/domain is taking longer than your default timeout to respond
-    - d) You have a firewall that is blocking requests or responses on whatever port you are using
-    - e) You have a firewall that is blocking requests to that particular host
-    - f) Your internet access is down
-  - Note that firewalls and port or IP blocking may be in place by your ISP
-- [Configure Web application deployment | IntelliJ IDEA](https://www.jetbrains.com/help/idea/configure-web-app-deployment.html )
-  - Open the Project Structure dialog (e.g. Ctrl+Alt+Shift+S). 
-  - Click Artifacts to open the [Artifacts page](https://www.jetbrains.com/help/idea/artifacts.html).
-  - Do one of the following:
-    - To use a pre-defined exploded directory artifact, select the war:exploded artifact from the list on the left-hand pane. If necessary, change the name and output directory of the artifact in the corresponding fields on the right-hand pane.
-    - To create a new artifact, click New + on the left-hand pane and choose the artifact type from the New list.
-      - To have the application deployed as a directory, choose Web Application: Exploded.
-      - To have the application deployed in the packed form, choose Web Application: Archive.
-    - On the right-hand pane, specify the general settings of the artifact, such as name and output directory, in the corresponding fields.
-- [spring mvc - Error: tomEE required to support EAR/EJB deployment error message - Stack Overflow](https://stackoverflow.com/questions/25630054/error-tomee-required-to-support-ear-ejb-deployment-error-message )
-  - I got the same problem but solution was different. The problem was with artifact type which had to be changed from Java EE Application exploded to Web Application:Exploded/Archive
-- [java - My IntelliJ do not hint the out's method in JSP - Stack Overflow](https://stackoverflow.com/questions/42110578/my-intellij-do-not-hint-the-outs-method-in-jsp )
-  - I was having same issue on IntelliJ Ultimate 2020.3.2. Then I put the dependency mentioned by leela Daka on my pom.xml, reloaded the pom and It worked! The only change I've made was on version to **2.2** to match with Tomcat 7 that uses JSP 2.2.
-    ```xml
-       <dependency>
-            <groupId>javax.servlet.jsp</groupId>
-            <artifactId>jsp-api</artifactId>
-            <version>2.2</version>
-            <scope>provided</scope></dependency>
-        <dependency>
-    ```
-- [Cannot load driver class: com.mysql.jdbc.Driver Spring - Stack Overflow](https://stackoverflow.com/questions/33123985/cannot-load-driver-class-com-mysql-jdbc-driver-spring )
-  - If you're using Maven, add this to your `pom.xml`:
-  - (Recommended) For `MySQL 5.6, 5.7, 8.x` and `Java >= 8` use;
-    ```xml
-    <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
-        <version>8.0.25</version>
-    </dependency>
-    ```
-  - (Legacy) For `MySQL <= 5.5` or `Java <= 7` or `JDBC < 4.2` use;
-    ```xml
-    <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
-        <version>5.1.49</version>
-    </dependency>
-    ```
-- [ResultSet (Java 2 Platform SE 6)](https://aisia.moe/java6api-cn/java/sql/ResultSet.html )
-### More See
-- [mysql - ERROR 1698 (28000): Access denied for user 'root'@'localhost' - Stack Overflow](https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost )
-- [JDBC快速入门教程 - JDBC教程™](https://www.yiibai.com/jdbc/jdbc_quick_guide.html )
-- [java - installing tomcat 9 on WSL - Stack Overflow](https://stackoverflow.com/questions/63312469/installing-tomcat-9-on-wsl )
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1120449446)
-
-## WSL 
-- [ ] **resolv.conf** and **real IPv4** is different
-  ![image](https://user-images.githubusercontent.com/57313137/158162835-349cc9e5-b5b0-488a-823c-7de9c42d6171.png)
-- Docker 部署 TTRSS, 端口转发和防火墙
-  - _Main Tutorials_
-    - [Install Docker Compose | Docker Documentation](https://docs.docker.com/compose/install/ )
-      - [Docker 1小时快速上手教程，无废话纯干货_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11L411g7U1)
-    - [Awesome-TTRSS · HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docs/zh/README.md )
-      - also thx [Tiny Tiny RSS：最速部署私有 RSS 服务器 - Spencer's Blog](https://spencerwoo.com/blog/tiny-tiny-rss#an-zhuang-docker-compose )
-      - [如何在局域网的其他主机上中访问本机的WSL2 - 知乎](https://zhuanlan.zhihu.com/p/425312804 )
-      - [Docker的三种网络代理配置 · 零壹軒·笔记](https://note.qidong.name/2020/05/docker-proxy/ )
-    - deploy the docker using command
-  ```shell
-  $ sudo docker-compose --env .env up -d
-  ```
-  - `--env` is environment each we deploy. mainly to replace `${HTTP_PROXY}` in ` docker-compose.yml`
-    ```yaml
-    environment:
-    ...
-    - HTTP_PROXY=${HTTP_PROXY}
-    ```
-    - we see `.env` file like this, each I open the terminal proxy I will refreah this file using zsh. (cause wsl2's Ip is not fixed.
-    ```she
-    $ cat .env
-    HTTP_PROXY=172.27.176.1:7890
-    ```
-      - via: https://dockerdocs.cn/compose/environment-variables, BTW, _Baidu Source Sucks_ !!!
-    - When Deploy is error, stop it and redeploy it!
-    ```shell
-    $ docker-compose down
-    $ docker-compose rm # 删除已停止的 Docker 容器 ???
-    $ docker-compose up -d
-    ```
-    - When everything work well, start your ttrss career.😆 Buuuut, emmm, Where you deploy? WSL! What the feature is?  
-    
-    | Feature(via: [mircosoft](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)) | WSL 1 | WSL 2 |
-    | :----------------------------------------------------------- | :---- | :---- |
-    | Integration between Windows and Linux                        | ✅     | ✅     |
-    | Fast boot times                                              | ✅     | ✅     |
-    | Small resource foot print compared to traditional Virtual Machines | ✅     | ✅     |
-    | Runs with current versions of VMware and VirtualBox          | ✅     | ✅     |
-    | Managed VM                                                   | ❌     | ✅     |
-    | Full Linux Kernel                                            | ❌     | ✅     |
-    | Full system call compatibility                               | ❌     | ✅     |
-    | Performance across OS file systems                           | ✅     | ❌     |
-  - Fucking ___VM Network___!!! So you cannot visit using LAN IP, which you just only use it on your PC(using 127.0.0.1)!!! So next you should set ___port forwarding___ on win10.  The startup see more deatails on [here-csdn](https://blog.csdn.net/cf313995/article/details/108871531). Shortly like following:
-      > BTW, `SELF_URL_PATH` is really hard. when I not realize the problem is wsl network, I search it on google as much as I can. (Hundreds of tabs). Route DNS  Hijacking/domain DNS in cloudflare. At most is adding `define('_SKIP_SELF_URL_PATH_CHECK',true)` to `config.php`, via: [offical](https://community.tt-rss.org/t/solved-self-url-path-for-host-with-two-hostnames/2198). But appearly they are not the same problem, of course I failed. Haha, hard really... till i found LAN could work well from [v2ex](https://www.v2ex.com/t/822732 ).
-    ```shell
-    # on wsl
-    $ ip addr show eth0
-    # get v4ip likely: 192.168.97.228/20 ->  192.168.97.228, then switch windows ps
-    $ sudo netsh interface portproxy add v4tov4 listenport=4040 listenaddress=0.0.0.0 connectport=4040 connectaddress=192.168.97.228 protocol=tcp
-    # or -> sudo netsh interface portproxy add v4tov4 listenport=4040 listenaddress=* connectport=4040 connectaddress=192.168.97.228 protocol=tcp
-    # check what you set
-    $ netsh interface portproxy show all
-    ```
-    - Then if everything work well, you'll be able to visit your PC LAN IP to visit TTRSS. But on my machine it still not work. That's really wired... Open `firewall & network protection` -> `advanced settings` -> `inbound rules `-> `new rules`: `port`  -> `TCP&&4040` -> `defalut`... 
-  - Then everything work well for me. Nice🍻
-- vim clipboard sharing
-  ```vimrc
-  :w !clip.exe
-  ```
-  - via: https://blog.csdn.net/AngelLover2017/article/details/122072001
-- win10 GUI
-  - GWSL in Microsoft Store(recommand).
-  - [VcXsrv](https://sourceforge.net/projects/vcxsrv/). with following WSL2 Config:
-    ```shell
-    sudo apt install -y tasksel
-    sudo tasksel install xubuntu-desktop
-    sudo apt install gtk2-engines
-    
-    # .vimrc
-    export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
-    #export DISPLAY=$(grep -m 1 nameserver /etc/resolv.conf | awk '{print $2}'):0
-    # export LIBGL_ALWAYS_INDIRECT=1 ?
-    # sudo /etc/init.d/dbus start &> /dev/null ?
-    ```
-    - Win10 Config: `“Multiple Windows” -> “Start no client” -> “Disable access control”`
-      - [ ] memory using seem okay, from `500M` -> `1100M` ->`900M`, 🤣seem enough debug programming...
-      what if using win11?
-    - So After Import Env in Jetbrains Idea, java Swing works well.
-    - via: https://blog.meathill.com/tools/install-wsl2-on-windows-10-and-config-gui-for-applications.html & https://www.shogan.co.uk/how-tos/wsl2-gui-x-server-using-vcxsrv/
-- WSL Node Can not Fetch Update
-  - ```
-    This script requires Node v12.14.0 or higher, but you are using v10.19.0
-    ```
-  - After I `sudo apt update -y`, I do not find the choose to upgrade my low version nodejs. So I try [Microsoft Doc](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)  to do. That works well. 😁
-    - ```bash
-      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-      nvm ls # check
-      nvm install --lts
-      ```
-- Compress JPEG
-    - ```bash
-      jpegoptim --stdout a.jpg > b.jpg
-      cat a.jpg | jpegoptim --stdin > b.jpg
-      //via: https://github.com/tjko/jpegoptim/issues/14
-      ```
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1124025397)
-
-## android browser download file cannot open(cannot find
-
-<img src="https://user-images.githubusercontent.com/57313137/169709645-c3e6f95e-7aba-4fde-9357-2859b44198da.png" width="50%">
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1133946995)
-
-## Http-sever Video Sound Strange
-
-- [ ] Samsung Internet Browser Work well, Via, Kiwi Browser Not Work 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1144347592)
-
-## Win10 
-
-### Open Hibernate
-
-```powershell
-# open administer power
-powercfg.exe /hibernate on
-```
-
-Power Option (Battery Plan) -> Choose what the power button do -> Change settings that are currently unavailable -> Hibernate.
-
-via: https://adersaytech.com/kb-article/enable-hibernate-mode.html 
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1144352726)
-
-## USB 接线图 
-
-via: http://www.usbzh.com/article/detail-206.html
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146570389)
-
-## Gtihub Page -> Index Directory
-
-- [ ] https://stackoverflow.com/questions/39048654/how-to-enable-directory-indexing-on-github-pages
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146747766)
-
-## Github Action 
-
-- Add timezone supported: https://github.com/github-community/community/discussions/13454
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146750958)
-
-## 人体工程学, 表面解决腰酸背痛问题
-
-via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https://www.bauhutte.jp/bauhutte-life/tip2/ )
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146753949)
-
-## Productivity Pron
-
-- [workspacer/workspacer: a tiling window manager for Windows](https://github.com/workspacer/workspacer)
-  - ShortCut
-    - `alt-shift-{1..9}`: move focused window to workspace {1..9} | **移动窗口到工作台**
-    - `alt-{1..9}`: switch to workspace {1..9} | **换当前工作区**
-      - `alt-{wer}`: focus monitor {123}
-    - `alt-t`: toggle tiling for focused window | **释放控制窗口**
-    - `alt-h/alt-l`: shrink/expand  primary area | **左右调整窗口**
-    - `alt-shift-j`: swap focus and next window | **专注下一窗口**
-    - ? `alt-shief-e`
-- [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other.](https://kdeconnect.kde.org/ )
-  - [ ] clash with CFW.
-  - [x] Under phone, it needs to set storage path.
-- [ninja33/ODH: A chrome extension to show online dictionary content.](https://github.com/ninja33/ODH )
-  - [ ] clash with CFW while downloading audio. (cause [AnkiConnect - AnkiWeb](https://ankiweb.net/shared/info/2055492159 ))
-    ```
-    check_hostname requires server_hostname
-    ```
-    - [x] Alternative: [anki-dict-helper](https://github.com/ninja33/anki-dict-helper), ODH's father.
-    - [ ] Ubuntu still existed proxy?
-    - [Dict2Anki（有道,欧陆词典单词本同步工具） - AnkiWeb](https://ankiweb.net/shared/info/1284759083 )
-    - [(9.15)GoldenDict & 欧路 取词完美版(AHK) - GoldenDict - 掌上百科 - PDAWIKI - Powered by Discuz!](https://www.pdawiki.com/forum/thread-23696-1-1.html?x=304213 )
-    - [Import from Excel with html formatting (bold text when present) and return lines when present within the cells? : Anki](https://www.reddit.com/r/Anki/comments/3wbrun/import_from_excel_with_html_formatting_bold_text/ )
-- [WebCull - Ad-Free and Privacy-Focused Bookmark Manager](https://webcull.com/ )
-  - inspired by [yodhcn的收藏夹 - WebCull](https://app.webcull.com/w/yodhcn), 小众放弃😂
-  - 找到个挺有意思的 pron 网站😂 [Porn Dude](https://theporndude.com/zh )
-- [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/ )
-  - [ ] RainDrop cannot select by mouse, Raindrop part cannot select.
-    - [x] Bookmarklet Replace Tag CSS
-      ```javascript
-      javascript: (() => {document.getElementById('rdhs').innerHTML = '.rdhnav:before,mark[data-rdhid]{background:var(--rdhc,#fe0)!important}mark[data-rdhid]{background-image:linear-gradient(180deg,hsla(0,0%,100%,.7) 0,hsla(0,0%,100%,.7))!important;color:#000!important;-webkit-text-fill-color:#000!important;cursor:pointer!important}.rdhni{display:inline!important;padding:0!important;border:0!important;color:inherit!important;opacity:.5!important;fill:currentColor!important;background:transparent!important;border-radius:0!important;margin:0 .3em!important;width:.85em!important;height:.85em!important}.rdhnav{position:fixed!important;right:0!important;padding:10px 6px 10px 10px!important;cursor:pointer!important}.rdhnav:before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-radius:10px!important;box-shadow:0 0 0 .5px ButtonShadow,0 5px 30px rgb(0 0 0/30%)!important;background-image:linear-gradient(180deg,hsla(0,0%,100%,.2) 0,hsla(0,0%,100%,.2))!important}.rdhnav:hover:before{background-image:linear-gradient(180deg,hsla(0,0%,100%,.5) 0,hsla(0,0%,100%,.5))!important}.rdhnav:active{filter:brightness(50%)!important}';})();
-      ```
-    - [ ] Script: Raindrop 用的 `mark[data-rdhid]`, js 选中了 `mark` 也没用, 不知道为什么里面的 `style>user-select` 为什么是空, 没有定义.   
-      ```javascript
-      mark = document.getElementsByTagName('mark');
-      for(var i=0;i<mark[i].length;i++){
-          mark[i].style.removeProperty('-webkit-user-select');
-          mark[i].style.removeProperty('user-select');
-      }
-      
-      for(var i=0;i<mark[i].length;i++){
-          mark[i].style.setProperty('-webkit-user-select', 'text !important');
-          mark[i].style.setProperty(('user-select', 'text !important');
-      }
-      ```
-      全部都无效, 然后又尝试了 `parentNode.removeChild` 也还是不行, Chrome Extension 又会再次把 CSS 注入进来.
-      也尝试用 Stylish, 但是应该是 css 加载顺序的问题, 总是不生效...
-- Add a Back2Top Button
-    - Due to CSP, some userscript wasn't allowed injected into pages, so them will not work, even can't repair without paied...
-    - ```javascript
-      //... also with tampermonkey beta
-      (function() {
-          'use strict';
-          var newHTML=document.createElement ('div');
-          newHTML.innerHTML='<style>#kotori{position:fixed;bottom:-10px;left:-10px;height:70px;width:70px;cursor:pointer;transition:.2s all;display:block;z-index:100}#kotori:hover{transform:translate(10px,-10px)}</style><img id="kotori" src="https://s1.ax1x.com/2022/05/11/OUqj3D.png" onclick="smoothscroll()">';
-          document.body.appendChild (newHTML);
-      
-          var scriptElem = document.createElement('script');
-          scriptElem.innerHTML = 'window.addEventListener("scroll",handleScroll);function handleScroll(){var scollTop=document.documentElement.scrollTop||document.body.scrollTop;var clientHeight=document.documentElement.clientHeight;if(scollTop>=clientHeight){document.querySelector("#kotori").style.display="block"}else{document.querySelector("#kotori").style.display="none"}}function smoothscroll(){var currentScrollTop=document.documentElement.scrollTop||document.body.scrollTop;if(currentScrollTop>0){window.requestAnimationFrame(smoothscroll);window.scrollTo(0,currentScrollTop-currentScrollTop/10)}};';
-          document.body.appendChild(scriptElem);
-      
-          var code = 'window.addEventListener("scroll",handleScroll);function handleScroll(){var scollTop=document.documentElement.scrollTop||document.body.scrollTop;var clientHeight=document.documentElement.clientHeight;if(scollTop>=clientHeight){document.querySelector("#kotori").style.display="block"}else{document.querySelector("#kotori").style.display="none"}}function smoothscroll(){var currentScrollTop=document.documentElement.scrollTop||document.body.scrollTop;if(currentScrollTop>0){window.requestAnimationFrame(smoothscroll);window.scrollTo(0,currentScrollTop-currentScrollTop/10)}};';
-          eval(code);
-      
-          let script_tag = GM_addScript('alert("works!");');
-      })();
-      // more details via: https://github.com/Tampermonkey/tampermonkey/issues/296
-    - 
-- ...
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1149723834)
-
-## 抓包
-
-- [ ] 极客时间超链接跳转
-    - 猜测是把跳转网址记录到缓存里面 (请求回来的数据里有 `<a>` 标签, 但是 HTML 文档里面没有出现).
-![image](https://user-images.githubusercontent.com/57313137/172740797-db518878-99b0-4fd2-a654-75f5e5ba3c18.png)
-![image](https://user-images.githubusercontent.com/57313137/172740804-318c4fcd-b222-47eb-a046-caba632c2320.png)
-![image](https://user-images.githubusercontent.com/57313137/172742199-090f1b46-fe16-4978-8f3b-eae0b934b1d5.png)
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1150561836)
-
-## Fuck Inner Mongolia DNS
-
-
-<img src = "https://user-images.githubusercontent.com/57313137/175514591-bb7ff0f1-8587-440f-bd1a-e60775b1f085.png" width="40%"/><img src = "https://user-images.githubusercontent.com/57313137/175514445-66b4c332-f5aa-4e62-a67b-ead5c6f7f840.png" width = "40%"/>
-
-```powershell
-PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.1.200
-Server:  200.1.74.222.broad.hh.nm.dynamic.163data.com.cn
-Address:  222.74.1.200
-
-Non-authoritative answer:
-Name:    github.com
-Addresses:  ::
-          0.0.0.0
-
-PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.126.230
-Server:  230.126.74.222.broad.tl.nm.dynamic.163data.com.cn
-Address:  222.74.126.230
-
-Non-authoritative answer:
-Name:    github.com
-Addresses:  ::
-          0.0.0.0
-
-PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.59.65
-DNS request timed out.
-    timeout was 2 seconds.
-Server:  UnKnown
-Address:  222.74.59.65
-
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 219.148.162.31
-DNS request timed out.
-    timeout was 2 seconds.
-Server:  UnKnown
-Address:  219.148.162.31
-PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 219.148.162.31
-DNS request timed out.
-    timeout was 2 seconds.
-Server:  UnKnown
-Address:  219.148.162.31
-
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-*** Request to UnKnown timed-out
-PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.39.50
-DNS request timed out.
-    timeout was 2 seconds.
-Server:  UnKnown
-Address:  222.74.39.50
-
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-DNS request timed out.
-    timeout was 2 seconds.
-*** Request to UnKnown timed-out
-```
-
-### Change Public DNS
-
-via: [如何选择适合的公共 DNS](https://blog.skk.moe/post/which-public-dns-to-use/ )
-
-| DNSPod                                                       | Anycast                   | Export         | Address                                | TCP  | DoT  | DoH  | ECS  | Mark |
-| ------------------------------------------------------------ | ------------------------- | -------------- | -------------------------------------- | ---- | ---- | ---- | ---- | ---- |
-| [腾讯](https://www.dnspod.cn/Products/Public.DNS)            | 上海 / 天津 / 广州 / 香港 | 同左           | `119.29.29.29` / `119.28.28.28`        | ❌    | ✔    | ✔    | ❌    | 国内 |
-| [阿里云](http://www.alidns.com/)                             | 成都 / 深圳 / 杭州        | 同左           | `223.6.6.6` / `223.5.5.5`              | ❌    | ✔    | ✔    | ❌    |      |
-| [南京信风](https://www.114dns.com/)                          | 南京 / 济南 / 芝加哥      | N/A            | `114.114.114.114` /  `114.114.115.115` | ❌    | ❌    | ❌    | ❌    |      |
-| [CNNIC](http://www.sdns.cn/)                                 | 北京 / 杭州 / 香港        | CNNIC / 阿里云 | `1.2.4.8` / `210.2.4.8`                | ❌    | ❌    | ❌    | ❌    |      |
-| [百度](https://dudns.baidu.com/)                             | 北京 / 南京 / 深圳        | 同左           | `180.76.76.76`                         | ❌    | ✔    | ✔    | ❌    |      |
-| [Google](https://developers.google.com/speed/public-dns/)    | 36+ 数据中心              | 边缘网络       | `8.8.8.8` / `8.8.4.4`                  | ✔    | ✔    | ✔    | ✔    | 国外 |
-| [OpenDNS](https://www.opendns.com/)                          | 32+ 数据中心              | N/A            | `208.67.222.222` /  `208.67.220.220`   | ✔    | ❌    | ❌    | ✔    |      |
-| [Cloudflare DNS](https://1.0.0.1/)                           | 160+ 数据中心             | 同左           | `1.0.0.1` / `1.1.1.1`                  | ✔    | ✔    | ✔    | ❌    |      |
-| [Freenom World](https://www.freenom.world/zh/index.html?lang=zh) |                           | Transit        | `80.80.80.80` /  `80.80.81.81`         | ✔    | ❌    | ❌    | ✔    |      |
-| DNS.sb                                                       |                           | SB Network     | `185.222.222.222` /  `185.184.222.222` | ✔    | ✔    | ✔    | ❌    |      |
-
-
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1166728789)
-
-## Powershell 
-
-### Background Task
-
-```powershell
-(xxx) > task.log 2>&1 &
-# 最后一个 & 需要注意
-```
-
-- [What is the difference between dot (.) and ampersand (&) in PowerShell? - Stack Overflow](https://stackoverflow.com/questions/54661916/what-is-the-difference-between-dot-and-ampersand-in-powershell )
-    - `&`, the __call operator__, executes scripts and functions in a __child__ scope, which is the __typical__** use case**: functions and scripts are typically expected to **execute **__without side effects__:
-        - The variables, (nested) functions, aliases defined in the script / function invoked are local to the invocation and go out of scope when the script exits / function returns.
-        - Note, however, that **even a script run in a **__child__** scope can affect the caller's environment**, such as by using `Set-Location` to change the current location, explicitly modifying the parent scope (`Set-Variable -Scope 1 ...`) or the global scope (`$global:...`) or defining process-level environment variables.
-
-### access `%TEMP` directory
-
-```powershell
-cd $env:temp
-```
-
-- [How to access the %temp% directory using PowerShell](https://www.vistax64.com/threads/how-to-access-the-temp-directory-using-powershell.124111/ )
-    - PowerShell keeps environemnt variables in a special PSDrive called: `env`
-    - To get all environment variables, type:
-    - `dir env`
-    - To get a specific variable, type:
-    - `$env:<variableName>`, as in:
-    - `get-childitem $env:temp`
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1168125832)
-
-## C
-
-- [c - Two Equal Signs in One Line? - Stack Overflow](https://stackoverflow.com/questions/7244114/two-equal-signs-in-one-line )
-    - The value of the expression `(a = b)` is the value of `b`, so you can chain them this way. They are also right-associative, so it all works out.
-    - Essentially `ArcChar = ArcBit = 0;` is (approximately1) the same as
-      ```c
-      ArcBit = 0;
-      ArcChar = 0;
-      ```
-    - since the value of the first assigment is the assigned value, thus `0`.
-    - Regarding the types, even though `ArcBit` is an `unsigned char` the result of the assignment will get widened to `int`.
-
-[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1168127217)
-
-
-
-# make(mark) Updated at 2022-07-05
+# make(mark) Updated at 2022-07-06
 ## Code Review Mark
 
 ### Telegram API
@@ -2930,6 +1529,1469 @@ via: [《自罚两杯》-BV1Bh411x77n ](https://www.bilibili.com/video/BV1Bh411x
 - [TomoeMami/qqlog](https://github.com/TomoeMami/qqlog): [mirai bot + http server + [https://github.com/project-mirai/mirai-api-http](https://github.com/TomoeMami/qqlog/blob/main/mirai-api-http)]一个 Q 群开盒脚本, Omz
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1174737527)
+
+## Sentences
+
+via: [Story of My Life | Aemon's Blog](https://www.aemon.top/about/ )
+- 有一套房子之后，才能去爱别人吗？
+- 胜利的曙光和前进的希望来自于再努力使把劲的坚持之中。
+- 把时间用在你最终不会引以为豪的东西上面，是一件可怕的事情，浪费了你在地球上的短暂旅程。
+- 民族主义只教会了你去恨你连见都没见过的人，你从未参与过的那些成就，一下子就让你骄傲自豪起来了。你到处吹牛逼，就像有些美国人：「去他妈的法国人！要不是我们两次世界大战都救了这帮 B，他们现在得说德语了」。你心想：「哦哦，那是我们的功劳吗？我们？你，和我？汤米，矮马，我俩救了法国人吗？」
+  你站起来挥舞着你的旗帜，高谈阔论你的种族身份，民族身份，说你有多自豪。跟你有半毛钱关系吗？你这个废物！因为你就是历史上的那些伟大的英雄之一吗？所以你才站那挥舞着你的旗子吗？不不，你并不是，你自我归类于这个群体，因为你个人本身毫无贡献价值，可悲至极。
+  我从来都无法理解种族或者民族主义自豪感，因为我觉得，自豪感应该是留给你自己获得的成就，而不是为你出生就意外获得的东西而骄傲。「我是爱尔兰人」并不是一门技能啊，而是一场基因意外。你不会说「我一米八我很自豪」，「我有易患肠癌的倾向我很骄傲」。所以为啥要为是爱尔兰人而骄傲，或者意大利人、美国人或者任何人。你要是很幸福的话倒没问题，用这个词吧，说幸福，「作为美国人我很幸福」。请幸福，不要骄傲，骄傲自豪已经太多了。「骄傲在跌倒之前」，勿忘箴言。
+  via: https://weibo.com/1508386642/Iv5EPxTMu
+- [生命在他里面，这生命就是人的光。](https://cnbible.com/john/1-4.htm)
+- 百善孝为先，论心不论迹，论迹寒门无孝子；
+  万恶淫为首，论迹不论心，论心世上无圣人。
+- [别人主动暴露给你的，大都是包装出来的惬意生活。](https://www.v2ex.com/t/778064?p=1#r_10541233)
+- [No Silver Bullet.](https://zh.wikipedia.org/wiki/%E6%B2%A1%E6%9C%89%E9%93%B6%E5%BC%B9)
+- [让我们觉得开心的，都是一些没用的事。](http://jandan.net/t/4872991)
+- [我必须考虑这会不会是我此生仅有的机会。](https://www.bilibili.com/video/BV1fa4y1W7Vz?t=150)
+- [赐予我宁静，让我接受无法改变的事情；赐予我勇气，让我去改变可改之事；赐予我睿智，让我能区分以上两者。](https://zh.wikipedia.org/wiki/%E5%AF%A7%E9%9D%9C%E7%A6%B1%E6%96%87)
+- [如果一个玩笑呢，你不会说给你妈妈和女儿听，那其实你也不应该说给你的女同事和女同学听。](https://www.bilibili.com/video/BV1iX4y1u7Rx?t=107)
+- 世人慌慌张张，不过图的是碎银几两，偏偏这碎银几两，能解世间万千惆怅，这几两碎银，可让父母安康，可护幼子成长。但这碎银几两，也断了儿时念想，让少年染上沧桑，压弯了脊梁。
+- 新鲜感是追寻出来的，而不是等待出来的。多和旧人做新事，少和新人做旧事，前者是上升的山路，后者是循环的泥沼。
+- 他在生命的每个阶段，都说了他相信的东西。那你要他怎么样，他什么都没做错。
+- 把你们绝望的人，你们迷茫的人，把你们渴望看到胜利之光的畏惧徘徊的人都给我，把那些精神失落、灵魂在流浪的人都送来：在这金色的信念旁，我要为他们把灯举起。
+- 有志者立长志，无志者常立志。
+- 当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚，其实都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你作出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。但一场巨变，已经发生了，地动山移，浑然不觉，当时是道是寻常。世上的生死荣衰，不就是在空寂之中缘起缘灭的么？
+- 谁他妈都别想这么轻易离开这个操蛋的世界。
+- 你说咱长这么大容易吗。
+  说别人我不敢说，反正我是真不容易。
+  可不是。打在胎里，就随时有可能流产，当妈的一口烟就可能畸形。长慢了心脏缺损，长快了就是六指。好容易扛过十个月生出来了，一不留神，还得让产钳把头夹扁。都躲过去了，小儿麻痹、百日咳、猩红热、大脑炎还在前面等着。哭起来呛奶，走起来摔跤，摸水水烫，碰火火燎，是个东西撞上，咱就是个半死。钙多了不长个，钙少了罗圈腿。总算长到会吃饭能出门了，天上下雹子，地下跑汽车，大街小巷是个暗处就多这个坏人。你说赶谁都是个九死一生。
+  这都是明枪，还有暗箭呢。势利眼、冷脸子、闲言碎语、指桑骂槐；好了遭人嫉妒，差了让人瞧不起；忠厚的人家说你傻，精明的人家说你奸；冷淡了大伙儿说你傲，热情了群众说你浪；走在前头挨闷棍，走在后头全没份；这也叫活着，纯粹是练他妈一辈子轻功 ！
+- [为什么看见你弟兄眼中有刺，却不想自己眼中有梁木呢？](https://cnbible.com/matthew/7-3.htm)
+- 路上没有灯火的时候，就点亮自己的头颅。
+- 你从小到大做了无数个大大小小的选择，都不能阻止你看到这句话。
+- [So if people are sufficiently worried, then there\’s a lot less to worry about. But if no one is worried, that\’s when you should worry!](https://www.bilibili.com/video/av95917816?t=506)
+  所以说：如果人们都足够担心的话，那你就没什么可担心的；但如果没有人担心的话，那你就得好好担心一下了。
+- [人的每一分钟都在变化，所以也要接受别人有变化。如果那个人跟你一日为友，就终身为友，你应该心里很紧张才对。就是：「怎么啦，我们两个都从此不变化了嘛？」所以如果有了变化，然后人际关系也跟着有了变化，他是你某一阶段最好的朋友，然后他当完了他该当的朋友，他就去当别人的朋友了。就接受人生的变化，是最好的态度。](https://www.bilibili.com/video/av80845403)
+- [计算机的所有东西都是人做出来的，别人能想得出来的，我也一定能想得出来。在计算机里头，没有任何黑魔法。所有的东西，只不过是我现在不知道而已，总有一天，我会把所有的细节、所有的内部的东西全都搞明白的！](https://www.bilibili.com/video/av15267247?p=82&t=44)
+- [骄傲在败坏以先，狂心在跌倒之前。](https://cnbible.com/proverbs/16-18.htm)
+- 所有的离别，都是我在练习失去你。
+- 已是悬崖百丈冰，犹有花枝俏。
+- 警察只是按要求训诫，主播只是按稿子播报，后台只是按上面意思删帖撤热搜。大家都认为自己是好人，一切是生活所迫。只有当每一个人都敢说 “我拒绝撒谎”，“我拒绝执行” 的时候，我们才不会在某一天求助无门，走投无路，像狗一样地死去。但你敢吗。你不敢。所以请记得，无论这个世界最终烂成什么样子，都是在我们的默许之下完成的。
+- 我们不能随便生气。生气的时候，你会使出真本领。这样，别人就会知道你的真本领很烂。
+- 人的大脑直到 25 岁才发育完全，然而从 15 岁到 18 岁他们的大脑运用得如何，往往将决定他们的余生。
+- 如果你非要等到新年才开始做出改变，说明这个改变对你也不太重要。
+- 最痛苦的是什么呢？你恰巧有一点天赋，够你去觊觎天才们那片殿堂，却不够你进入。你在门前徘徊，却敲不开那扇门。你颓然而坐，却隐隐约约听到殿堂内传来一声叹息：「我好菜啊」。
+- 其实，你觉得能觊觎也是错觉，你只是能大概理解对一些科学理论的通俗解释。
+- 每当成年人想要改变生活、逆转状态时，会不约而同做一件事：（再次开始）学英语。
+- 但愿我能给你带来快乐，同时，又反射到我身上。
+- [Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against the cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come.](https://www.youtube.com/watch?v=_3BhOWpurdc)
+  长夜将至，我从今开始守望，至死方休。我将不娶妻、不封地、不生子。我将不戴宝冠，不争荣宠。我将尽忠职守，生死於斯。我是黑暗中的利剑，长城上的守卫。我是抵御寒冷的烈焰，破晓时分的光线，唤醒眠者的号角，守护王国的坚盾。我将生命与荣耀献给守夜人，今夜如此，夜夜皆然。
+- 你一直兼容，用户就一直觉得没问题，用户就会一直用，用户一直用，你就要一直兼容。
+- 普通人负责普通就行了。
+- ![image](https://user-images.githubusercontent.com/57313137/177563897-d7786da3-cba6-4852-b22e-ccfbeb17356c.png)
+- ![image](https://user-images.githubusercontent.com/57313137/177563960-9a5a7b1e-8972-4e4b-91b7-687fa1f5e44b.png)
+- ![image](https://user-images.githubusercontent.com/57313137/177564123-35fe72de-da4f-400e-ad2e-03902edee4b9.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1176044780)
+
+
+
+# log(bug) Updated at 2022-07-06
+## Stage
+
+- [ ] #10
+ 
+![image](https://user-images.githubusercontent.com/57313137/174589695-4bb685d4-3b96-4ae1-a0db-2d628ce34372.png)
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7)
+
+## 整理房间
+
+- 绕线: 正一圈, 反一圈. via: https://www.bilibili.com/video/BV11s411f7Aj
+- 电工接线: https://www.bilibili.com/video/BV1nA411L7yf
+- 捯饬: 维生素E => 祛痘
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1003732232)
+
+## 英文自查
+
+- 图画: Paint / `win+r` -> `mspaint`
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1003931645)
+
+## 传播已出版书籍内容的视频算侵权吗? 多少算?
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1006577715)
+
+## 吃人条款
+
+- Tencent WeChat 
+- Netease Music
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1006578506)
+
+## Windows
+
+- 看不懂的迷幻操作
+  - `cmd` 的 `python` 默认指向微软商店
+    ![python-mStore](https://user-images.githubusercontent.com/57313137/148641377-aa7c7926-d18e-4ec5-902f-94bec7741098.png)
+  
+- __Fuck Windows Defend__ =>  fuck `Antimalware Service Executable`
+  - this [_Defender Control v2.0_](https://www.sordum.org/9480/defender-control-v2-0/) works for me(via blog(https://www.isharepc.com/32502.html)).
+  - but before that I try
+  ```bash
+  # administrator mode
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 0 /t REG_DWORD /f
+  # via: https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%A6%82%E4%BD%95%E5%BD%BB%E5%BA%95%E5%85%B3/f71fbc7f-9604-4493-a6b1-6c907664dc83
+  REG DELETE "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware
+  # via: https://www.thewindowsclub.com/virus-threat-protection-is-managed-by-your-organization
+  ```
+  
+- 之前我移除过到期的 Onedrive 账号, 因为图方便就直接把东西挪到回收站了, 但是今天发现里面部分的缓存是删不掉的. 位置在`C:\$Recycle.Bin\S-1-5-21-3804606499-716401209-922194820-1001\$R0Y1A2M\xxxx`, 附带报错代码`0x8007016A`. 这就导致了一个死循环
+  - 最后的做法是用 `PE` 进系统, 因为还是找不到这个文件夹, 就直接把`C:\$Recycle.Bin`这个文件夹也删掉了. 系统好像会自动生成? 
+  
+- [onenote怎么关闭开机启动啊? - 知乎](https://www.zhihu.com/question/395176312)
+
+- 开机自启动居然只需要添加快捷方式到 `Shell:common startup`/`Shell:startup` 就可以. via: https://answers.microsoft.com/en-us/windows/forum/all/autostart-a-program-in-windows-10/940682ae-8872-47ce-964d-8b1e820d9a5a
+
+---
+
+
+- [ ] Bluetooth 只有 stereo 没有 hand-free 模式
+- [ ] 怎么 安装 gem??
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1007953305)
+
+## RSS
+
+- [ ] 找不到订阅 https://github.com/LCTT/TranslateProject/blob/master/published 的方法...
+
+---
+昨天类似的翻译的项目找了很久也没有找到, 不限于已经停更或关站的
+
+- [伯乐在线](https://github.com/jobbole)
+- [众成翻译](https://zcfy.cc)
+
+当然这也看得出还是活跃在Github比较好, 起码项目不做了, 记录都还留着, 服务器一清理了什么都没了; 而且貌似技术社区中掘金还算好的? 淦噢😂
+
+痛点
+
+- 专业知识储量
+- 组员放话, 但不干活
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1017789376)
+
+## 电脑 
+
+- [x] 为什么DELL电脑不统一充电C口, 没有锐龙系列?
+
+> [前者] 我觉得这是基本的道德良心吧，毕竟DC口插三孔插座有接地，typeC往往是插二孔插座就没接地了.
+> via: https://www.zhihu.com/question/381287746/answer/1637537271
+
+---
+这里今天翻到一个电脑牌子推荐的帖子, 回复如下:
+
+> DELL - 入门商务 Vostro ，进阶 Inspiron ，高级 Latitude ，顶级 XPS/Precision
+> 
+> 联想 - 入门 Yoga/ThinkBook/Thinkpad L14 ，进阶 Thinkpad T14/T14s ，高级 T15p ，顶级 Thinkpad X1 Carbon / X1 Extreme / P1 / P15 / P17
+> 
+> HP - 入门 Pavilion ，进阶 Probook/Zhan66 ，高级 EliteBook ，顶级 ZBook / ZBook Studio / ZBook
+> via: https://www.v2ex.com/t/830186#87
+
+
+## 电源口救援
+
+笔电要在合盖实现开机可以说是有点难了, Thinkpad 拓展坞自带电源键, 或是其他品牌自带解决方案
+
+小白用户(自己)能做的已经算是很少了...
+
+- [插电唤醒] `Restore after AC Power Loss`, 笔电精简了 BIOS, 没有这个选项...
+- [网络唤醒] `WOL`, `wake on lan`, 只限于有线网线.
+- [芯片飞线] 难度拉满, 从引脚飞线出来一个按键(EC芯片). via: https://www.zhihu.com/question/53771647/answer/1566583028<img src="https://user-images.githubusercontent.com/57313137/150995669-47176831-a300-4355-a9f9-f63ae4de0c7c.png" height="240px" />
+
+- [ ] 所以暂时无解...
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1019233686)
+
+## 取消所有 star => unstar all repo
+
+也不是小气, 只是发现自己的 star 已经失去控制了, 太广泛了, 有的可能已经不再需要了, 但是再筛自己需要的又太多太难了, 简直是大海捞针, 索性全取消从头来过. 专注自己真正用到的几个仓库才是王道, 把精力放在刀刃上...
+
+当然一开始想自己写的, 抓包发现发送的居然是 `post`, 而不是 `delete` 有点意外, 当然被 [REST 思想](https://www.zhihu.com/question/28557115/answer/48094438)弄得有点魔怔了. `post` 在 `https` 下似乎更加安全..
+
+![image](https://user-images.githubusercontent.com/57313137/150986894-0924d607-2fb6-448a-b072-90986bf624bf.png)
+
+然后发现自己开启了 `Authy` 二部验证真的 `py` 不知道怎么实现, 放弃了, 发现 `GithubAPI` [取关居然是 `delete`请求](https://developer.github.com/v3/activity/starring/#unstar-a-repository), 真的是不怎么理解啊😂
+
+最后发现了 npm 得 [user-unstar](https://www.npmjs.com/package/github-unstar), 问题解决...
+
+via:
+1. https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars
+2. https://stackoverflow.com/questions/50183402/github-api-how-to-get-list-of-users-who-have-starred-a-repo-and-cloned-it
+3. https://stackoverflow.com/questions/42503179/how-to-remove-github-repository-stars-older-than-two-years
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021217971)
+
+## scoop 拉不到最新的版本
+
+安装哈希校验失败, 但是搜 issue 发现版本已经落后作者更新的 `json` 了,  执行安装该版本发现还是可以安装的...
+
+<img src="https://user-images.githubusercontent.com/57313137/151095161-619e2c50-ea32-4bc9-9f43-d98fbc848471.png" width="45%"> <img src="https://user-images.githubusercontent.com/57313137/151095280-080b47db-3605-4d31-b38f-1a822545dba1.png" width="50%">
+
+因为 scoop 依赖 git, 所以我之前翻过对应的 repo, 可能不小心修改过文件, 都会让 `git pull` 不下来仓库信息, 所以放弃更改就行了. 具体为以下报错信息
+
+```bash
+# error: Your local changes to the following files would be overwritten by merge:
+#          /xxxx/xxxx.json
+git reset --hard
+git pull
+```
+### 遗留问题
+
+- [ ] scoop 无法卸载未成功安装的软件, 非常神奇
+
+![image](https://user-images.githubusercontent.com/57313137/154320652-bc58623e-cb02-4d3a-9f56-ddd2abebaca5.png)
+
+
+### 拉不下来. 
+
+```shell
+scoop config proxy 127.0.0.1:7890
+scoop config aria2-enabled false
+```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021809568)
+
+## [PP] 远程控制 
+
+一度认为 `TeamViewer` 是最优解, 但是今天发现国区也需要[绑定](https://community.teamviewer.com/English/discussion/92643/cant-validate-my-account-cant-recieve-sms) `+86` 的手机号... 之后发现手机号绑到另一个号上了, 得嘞, 上另外一个号, excuse me??? [You have no switches left???](https://community.teamviewer.com/English/discussion/110182/how-can-i-remove-devices-in-free-account) 合着我这辈子就只能在这个账户下用两台设备是吗??? 官方也没个回复, 嫖不到服务, delete account, 走了...
+
+<img src="https://user-images.githubusercontent.com/57313137/151100126-f2bc26df-2c80-4b12-ba58-04caf5a53bab.png" width="50%">
+
+笑死, 挂了 SG 的节点, [todesk](https://user.todesk.com/index/index/index.html) 不让注册了(表现为那个滑块纹丝不动), tmd, 也是必须绑定 `+86` 手机号, 然后发现 V2-[安全漏洞](https://www.v2ex.com/t/788413) 的帖子, 啼笑皆非.
+
+最终确定了 `VNC Viewer`(从 [这里](https://www.twblogs.net/a/5b7e6e742b71776838574dc2) 拿到了专业版试用) & `Windows Remote Desktop` 两个软件, 但是前者无法传输 Audio 后者无法跨平台使用都挺操蛋的. 唯一都不识别的键位就是 `win` 了, 需要单独调出虚拟键盘拿到, 有点繁琐.
+
+<!--
+BQ24G-PDXE4-KKKRS-WBHZE-F5RCA
+8ZEZH-QPANM-NX3A5-8C4TS-8B97A
+-->
+
+### Diff
+
+两个软件的差别现在列举如下
+
+- 系统自带的更像是在本机上运行似的，而 VNC 更像投屏；
+  - 在使用输入法的时候可以明显感觉出来，VNC可以调用本机的输入法，而 RD 只能调用平板的输入法，因为我的同问输入法配置文件似乎不适配平板的一系列操作， 三星自带输入法又不支持双拼， 所以最后还是用了 Gboard， 唯一的缺点就是无法全局半角了，多少在写 markdown 的时候略感难受。
+  - 屏幕的显示比例也可以看出，RD 是全屏显示，VNC还是传统 16：9 的输出。
+
+
+### 优化 RD 显示及帧率
+
+走完一遍下来基本感觉稳在 `50-60` 之间了，反正比之前30帧舒服得多。
+
+1. 显卡支持: `gpedit.msc` -> `计算机配置->管理模板->Windows组件->远程桌面服务->远程桌面会话主机->远程会话环境` -> enable `硬件图形适配器应用于所有远程桌面服务会话`
+2. 添加注册表 -> `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations` -> `DWORD (32位)` -> `DWMFRAMEINTERVAL` -> `15` (十进制）
+3. reboot.
+
+via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.com/t/746154
+
+注意不要用 UDP 代替 TCP, 连接有时会断得很离谱. via: https://www.v2ex.com/t/507173 & https://www.nextofwindows.com/troubleshoot-and-improve-rdp-connections-with-udp
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1021832774)
+
+## 链路改装，刷固件
+
+### 改装链路
+
+- [x] 两个二级路由下的设备互访? 打通两个路由器网络?
+
+> 1. 如下我叙述的那样，将远程路由变成中继
+>
+> 2. 静态路由， 设置遇到另一个网段的地址， 直接转发到目的网段的路由器处理，此处类似转发的操作无需端口转发，直接用静态路由去做。
+>
+> 3. Lan To Lan, 实现网络的拓展，本质还是中继（PS：Wan To Lan 的路由器连接方法需要关闭 Lan 入口路由器的 DHCP功能，并设置网关为 Wan 出口路由 IP）
+>
+> via: [wikihow](https://zh.wikihow.com/%E8%BF%9E%E6%8E%A5%E4%B8%A4%E5%8F%B0%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BB%A5%E6%89%A9%E5%B1%95%E7%BD%91%E7%BB%9C) & https://zhuanlan.zhihu.com/p/85129768 ＆ https://www.zhihu.com/question/26598324
+
+更多链接:
+
+- [[请问电脑有ip地址，为啥还要网关地址呢？ 网关的ip地址是路由器的地址吗？ - 知乎](https://www.zhihu.com/question/327338744)](https://www.zhihu.com/question/327338744)
+- [[同一网段内的两台主机通信是否需要路由器？ - 知乎](https://www.zhihu.com/question/41496681)](https://www.zhihu.com/question/41496681)
+- [[你所见过最长或最大的二层局域网有多大？ - 知乎](https://www.zhihu.com/question/447734554)](https://www.zhihu.com/question/447734554)
+- [[VLAN 划分与子网划分联系与区别？ - 知乎](https://www.zhihu.com/question/51675361)](https://www.zhihu.com/question/51675361)
+- [设置静态路由 不同网段可以互相访问](http://blog.sina.com.cn/s/blog_86d75993010109cr.html)
+- [如何实现交换机不同VLAN、不同网段之间互访？](https://www.163.com/dy/article/GKHS9TAG0552DON3.html)
+- [[传统界面路由器\] 当无线AP（无线交换机）使用，怎么设置？ - TP-LINK 服务支持](https://service.tp-link.com.cn/detail_article_451.html)
+- [外网通过路由器DMZ功能访问内网 - 米扑博客](https://blog.mimvp.com/article/19730.html)
+- [小米路由器作为二级路由器的完美设置_小米路由器子网掩码 - 调色盘网络](https://www.tspweb.com/key/小米路由器子网掩码.html)
+
+今天发现没办法用远程桌面了, 才意识到去年搬家网络链路也变了(之前我电脑做服务器是直接连接交换机的, 现在电脑已经成了三级设备), 虽然知道网络层已经把两个网络独立开了, 还是傻逼般折腾了好一会儿, 换局域网的 IP, 用小米路由的转口转发什么的, 都不成. 中途关了 DHCP 直接连后台都进不去了, 最后还是走的重置路由. 真🐶.
+
+所以现在要么是复现当时的链路连接方法, 要么另寻他法, 因为自己没有找到合适的解决方案. 而且官方路由无法单独设置子网掩码, 永远是`255.255.255.0`, 所以产生了要刷路由固件的想法.
+
+<img src="https://user-images.githubusercontent.com/57313137/151391451-46637183-0cd2-4fd3-8943-8442dc7f191d.png" width="50%">
+
+### 刷固件
+
+个人买路由器是在 2006 的时候, 所以固件版本为 `1.0.14-stable` 也不用折腾去降级了, 直接跟着 [B站视频](https://www.bilibili.com/video/BV1dD4y1D7gM) 做, 一个小时连拆带刷, 再带探索, 一气呵成, 最后实现了也就是 对指定 IP(设备) 科学上网 和 去广告这两个馋了我好久的功能了...
+
+大概流程也就是像它那个 [脑图](https://mind.airmore.cn/doc/0421076311) 那样.
+
+- 卸载火绒, 关闭 `firewall`, via: [火绒怎么完全退出？ - 知乎](https://www.zhihu.com/question/442514458)
+- 网卡设置静态 IP
+- `windows` 开启 `telnet` 
+- 安装 `winpcap`
+  - 中途报了 `C:\WINDOWS\system32\npf.sys` 的错, 问题不大, 因该是权限问题, 复写完了大小也一样..
+- 执行脚本 && `telnet 192.168.31.1` && `cd /tmp&&wget http://192.168.31.177:8081/busybox&&chmod a+x ./busybox&&./busybox telnetd -l /bin/sh` && `telnet 192.168.31.1` && `cd /tmp` && `wget http://192.168.31.177:8081/breed-mt7621-xiaomi-r3g.bin&&nvram set uart_en=1&&nvram set bootdelay=5&&nvram set flag_try_sys1_failed=1&&nvram commit` && `mtd -r write breed-mt7621-xiaomi-r3g.bin Bootloader`
+- 长按 `reset` 后开机直到闪烁进入 `不死 breed`, 最后在里面刷上老毛子的固件, 版本当然还是2019年, 但是暂时够用了, nice.
+
+另外 安山的旧蓝奏的链接一般都是 `lanzous.com`, 用的时候全换成 `lanzoux.com` 就能用了
+
+~~家里还有台之后买的 `ac2100`, 回头有机会也一并刷上去吧~~
+
+突然发现小米路由器有中继功能, 什么都不用设置, 直接在网络连接里开启中继, 本来想着用 `lan to lan` + `DHCP`, 没想到小米直接可以, 太棒了. 最后后台变成了 `192.168.2.164`. 在考虑 IP 冲突的问题 这样不会冲突吧
+
+- AC2100 刷机参考教程
+  - https://www.right.com.cn/forum/thread-4016985-1-1.html
+  - https://www.right.com.cn/forum/thread-4017726-1-2.html
+  - https://www.right.com.cn/forum/thread-4033492-1-1.html
+  - https://www.right.com.cn/forum/thread-4019326-1-1.html
+  - https://www.kejiwanjia.com/jiaocheng/zheteng/160.html
+  - https://post.smzdm.com/p/aoo85457/
+
+###  一点概念
+
+- 固件差别 (via: https://www.right.com.cn/forum/thread-4009551-1-1.html)
+  - [OpenWRT](https://openwrt.org/)
+    - OpenWRT是参考了Linksys代码的开源系统，于2005年正式推出了1.0
+    - 嵌入式的 Linux 发行版, 但对博通的CPU支持的不好，主要是因为博通不开源（博通的路由常见于华硕的中高端型号）
+    - 硬件表格： https://openwrt.org/zh/toh/start
+  - LEDE
+    - OpenWRT在LEDE 17.01.0到LEDE 17.01.6的版本
+    - OpenWRT的一个成熟时期
+  - [潘多拉](https://www.pangubox.com)(PandoraBox)
+    - 国内lintel开发的一个基于OpenWRT的分支
+  - 华硕(Asuswrt)
+    - 固件功能和稳定性很强，缺点可定制性不高。
+    - 大多机型为博通CPU
+  - [梅林](https://www.asuswrt-merlin.net/)
+    - 基于华硕的改版
+  - [老毛子](https://bitbucket.org/padavan/)(Padavan)
+    - 俄罗斯人基于华硕的改版
+- 中继、无线桥接、级联、HyFi、AP/AC (via: https://service.tp-link.com.cn/detail_article_458.html)
+  - **AP(ACCESS POINT)**: 把有线网络转换为无线网络. 无线AP也就是一个无线交换机, 接入在有线交换机或是路由器上, 接入的无线终端和原来的网络是属于同一个子网
+  
+- SSID (Service Set Identifier): 无线名称
+- RSSI (Received Signal Strength Indicator): 接收信号的强度指示，在反向通道基带接收滤波器之后进行的
+
+## 电脑开始裸奔
+
+因为刷固件的时候把火绒卸载了， 现在就出现了另一个问题，我不想装回去了。
+
+- 开机自启动管理 -> `task manager`/`startup`.
+- Host -> `C:\Windows\System32\Drivers\etc\hosts`
+- Net Monitor -> `Traffic Monitor`
+- [ ] 右键管理
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1023411363)
+
+## Git 
+
+- submodule
+  - `git submodule add https://github.com/yyy/xxx.git`
+  - see https://knightyun.github.io/2021/03/21/git-submodule
+```shell
+[submodule "xxx"]
+	path = xxx
+	url = git@github.com:yyy/xxx.git
+```
+
+- 移除历史提交
+```shell
+git filter-branch --force --index-filter \
+  'git rm -r --cached --ignore-unmatch public/photos' \
+  --prune-empty --tag-name-filter cat -- --all
+echo public/photos >> .gitignore
+git add .gitignore && git commit -m "ignore rule for photos"
+git push origin branch -f
+// via: https://stackoverflow.com/questions/25458306/git-rm-fatal-pathspec-did-not-match-any-files
+```
+
+- git 如何不提交目录删除文件
+
+```shell
+git rm readme
+```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1037068425)
+
+## Jekyll 整修记
+
+### 可能会用到的 CSS 代码
+
+类 github 表格 CSS.
+
+```css
+/* via: typora github theme */ 
+table {
+  padding: 0;
+  word-break: initial;
+  border-collapse: collapse;
+}
+
+table tr {
+  border: 1px solid #dfe2e5;
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n), 
+thead {
+  background-color: #f8f8f8;
+}
+
+table th {
+  background:#bec1c4;
+  font-weight: bold;
+  border: 1px solid #dfe2e5;
+  border-bottom: 0;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table td {
+  border: 1px solid #dfe2e5;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table th:first-child,
+table td:first-child {
+  margin-top: 0;
+}
+
+table th:last-child,
+table td:last-child {
+  margin-bottom: 0;
+}
+
+tr:nth-child(n):hover td {
+  background:#D7C4BB;
+}
+```
+
+目录 Css
+
+```css
+/* via: sspai.com */
+.contents{
+  font-size: 16px;
+  overflow: auto;
+  max-height: 400px;
+  max-width: 300px;
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  padding: 10px;
+}
+
+.contents>ul{
+  list-style: none;
+  margin-left: -20px;
+}
+```
+
+## Math Latex Supported.
+
+#8 
+
+## Comment Jmp to Github Issues
+
+via: [Variables | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/variables/ )
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1041897827)
+
+## Samsung 
+
+### Galaxy App Booster
+
+via: https://www.youtube.com/watch?v=riWyEKS4d-M
+
+using android feature via https://android-developers.googleblog.com/2019/04/improving-app-performance-with-art.html
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1046239653)
+
+## Virtualbox
+
+腾讯会议 在 win7虚拟机 下绘制图形失败, 必须重启电脑
+
+<img src="https://user-images.githubusercontent.com/57313137/155131344-f7f16711-5678-4de7-8214-54a4525fe6b2.png" width="50%">
+
+就算是开启3d加速, 显卡拉到 256M 还是收效甚微. 所以打算换个系统 [win11](https://www.microsoft.com/zh-cn/software-download/windows11). 
+
+配置的时候记得开启如下选项
+
+1. 分配硬盘一定要 100G(动态), 要不容易卡在安装蓝屏.
+2. `系统` -> `主板` -> `内存4G` & `启用EFI`
+3. `系统` -> `处理器` -> `处理器数4` & `启用PAE/NX`
+4. `显示` -> `屏幕` -> `硬件加速` & `256M`
+
+进去系统在安装前 `shief+F10` 打开 `cmd` 敲 `regedit`
+
+在 `HKEY_LOCAL_MACHINE\SYSTEM\Setup` 下新建一个 `LabConfig` 的 `key`,  其下新建 `BypassTPMCheck`,  `BypassRAMCheck`, `BypassSecureBootCheck` 三个 DWORD (32位) 值，赋值均为 1. 骗过校验之后就能直接安装了.
+
+<img src="https://user-images.githubusercontent.com/57313137/155132896-9e4da0ba-42da-44c7-aa70-ca8c68b728a7.png" width="50%">
+
+之后发现还是很卡, 在 `系统` -> `硬件加速` -> `Hype-V`(win) / `KVM`(linux) 会有所好转. Mac 则有 [PD备胎](https://www.parallels.com/hk/) 可选 
+
+而且硬件居然显示的不是 SSD, 而是HDD. 暂时不知道要怎么做....
+
+
+## Refs
+
+1. https://www.zhihu.com/question/58179981
+2. https://www.zhihu.com/question/309295881
+3. https://www.zhihu.com/question/63156851
+4. https://www.v2ex.com/t/805490
+5. https://www.v2ex.com/t/623493
+6. https://www.v2ex.com/t/284666
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1047750363)
+
+## TTRSS Shortcuts | ttrss 快捷键
+
+I'm sorry that I couldn't found any related from offical [wiki](https://tt-rss.org/wiki.php) and other site. The only I found helpful site is unavailable now(via https://www.isitdownrightnow.com/ttrss.info.html).
+
+And I found some shortcuts by myself except arrow keys and `j`/`k`/`n`(j = previous category. · k = next category. · n = next unread article). 😂
+
+| Shortcuts | Mean |
+|------------|-------|
+| `Shift + q` | Mark All Readed. |
+| `o` | Open Origin Url in new tab|
+| `space` | Scroll |
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1065823971)
+
+## Get Windows WLAN IP
+
+```shell
+netsh interface ip show address "WLAN" | findstr "IP Address" | Select-String -Pattern '([0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*\.[0-9][0-9]*)' | %{ $_.matches.Value }
+````
+
+via: [networking - How to get network ip address via windows command prompt? - Super User](https://superuser.com/questions/719268/how-to-get-network-ip-address-via-windows-command-prompt/719274#719274 )
+
+After I learn some usage of windows command line, It's weird that `man xxx`/`Get-Help xxx` useless than `xxx ?`, like following:
+
+```shell
+PS C:\Users\15517> man netsh
+
+NAME
+    Netsh-Lan
+
+SYNTAX
+    Netsh-Lan
+
+
+PARAMETERS
+    None
+
+
+INPUTS
+    None
+
+
+OUTPUTS
+    System.Object
+
+ALIASES
+    None
+
+
+REMARKS
+    None
+
+
+
+PS C:\Users\15517> netsh ?
+
+Usage: C:\windows\system32\netsh.exe [-a AliasFile] [-c Context] [-r RemoteMachine] [-u [DomainName\]UserName] [-p Password | *]
+             [Command | -f ScriptFile]
+
+The following commands are available:
+
+Commands in this context:
+?              - Displays a list of commands.
+add            - Adds a configuration entry to a list of entries.
+advfirewall    - Changes to the `netsh advfirewall' context.
+branchcache    - Changes to the `netsh branchcache' context.
+bridge         - Changes to the `netsh bridge' context.
+delete         - Deletes a configuration entry from a list of entries.
+dhcpclient     - Changes to the `netsh dhcpclient' context.
+dnsclient      - Changes to the `netsh dnsclient' context.
+dump           - Displays a configuration script.
+exec           - Runs a script file.
+firewall       - Changes to the `netsh firewall' context.
+help           - Displays a list of commands.
+http           - Changes to the `netsh http' context.
+interface      - Changes to the `netsh interface' context.
+ipsec          - Changes to the `netsh ipsec' context.
+lan            - Changes to the `netsh lan' context.
+mbn            - Changes to the `netsh mbn' context.
+namespace      - Changes to the `netsh namespace' context.
+netio          - Changes to the `netsh netio' context.
+p2p            - Changes to the `netsh p2p' context.
+ras            - Changes to the `netsh ras' context.
+rpc            - Changes to the `netsh rpc' context.
+set            - Updates configuration settings.
+show           - Displays information.
+trace          - Changes to the `netsh trace' context.
+wcn            - Changes to the `netsh wcn' context.
+wfp            - Changes to the `netsh wfp' context.
+winhttp        - Changes to the `netsh winhttp' context.
+winsock        - Changes to the `netsh winsock' context.
+wlan           - Changes to the `netsh wlan' context.
+
+The following sub-contexts are available:
+ advfirewall branchcache bridge dhcpclient dnsclient firewall http interface ipsec lan mbn namespace netio p2p ras rpc trace wcn wfp winhttp winsock wlan
+
+To view help for a command, type the command, followed by a space, and then
+ type ?.
+```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1083107220)
+
+## 手机📱
+
+- 耳机连接声音有点大 情景模式
+- 几点之后设置静音🔇晚上通知容易吵着别人
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1091517326)
+
+## 为什么对她这么不好
+
+她有没有曾为我做些什么 为什么总是要我去做她做不来的事情 自己去做不就好了 不要什么事情都找我 很烦
+
+我不想听别人的废话 太费我的精力了
+
+一点点的东西就把我的精力打散了  好无奈
+
+怎么破除这样脆弱的状态 
+
+果然应该为明天做更加具体的计划吗
+
+当然计划应该有剩余 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1091525603)
+
+## Wget Here
+
+via: https://www.youtube.com/watch?v=Oe40pxcjPpM
+
+```shell
+wget --mirror --page-requisites --convert-link --no-clobber --no-parent --domains (root-domain) (url you want)
+``` 
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1110488840)
+
+## Python 
+
+### Uninstall Package I do not need
+
+Using [pip-date · PyPI](https://pypi.org/project/pip-date/ ) make sure what you want to uninstall.
+
+```shell
+pip freeze > requirements.txt
+pip uninstall -r requirements.txt [-y]
+```
+
+### Look where you install it
+
+```shell
+python -m site
+```
+
+### Install Env Here
+
+```shell
+pip install -r requirements.txt -t .
+```
+
+### Pipenv 
+
+- [Pipenv与虚拟环境 — pipenv 2020.8.13.dev0 文档](https://pipenv-zh.readthedocs.io/zh_CN/latest/install.html )
+- Proxy Address: https://pypi.tuna.tsinghua.edu.cn/simple
+- [python - Using pipenv behind a proxy - Stack Overflow](https://stackoverflow.com/questions/59817886/using-pipenv-behind-a-proxy )
+- [python - How to configure PIP per config file to use a proxy (with authentification)? - Stack Overflow](https://stackoverflow.com/questions/43473041/how-to-configure-pip-per-config-file-to-use-a-proxy-with-authentification )
+
+```python
+#pip.ini
+trusted-host = pypi.python.org
+               pypi.org
+               files.pythonhosted.org
+proxy = <proxy:port>
+http_proxy = xxx
+https_proxy = xxx
+
+# pipfile
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+```
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1114265643)
+
+## Java 
+### Basic
+- ArrayList 
+  - Init via: [How to initialize an ArrayList](https://beginnersbook.com/2013/12/how-to-initialize-an-arraylist/ )
+    - 常规
+      ```java
+      // 1
+      ArrayList<T> obj = new ArrayList<T>();
+      obj.add("o1");
+      obj.add("o2");
+      
+      // 2
+      ArrayList<T> obj = new ArrayList<T>();
+      List list = Arrays.asList("o1","o2",...);
+      obj.addAll(list);
+      ```
+    - 匿名内部内进行初始化
+      ```java
+      ArrayList<T> obj = new ArrayList<T>() {{
+          add(Object o1);
+          add(Object o2);
+          ...
+          ...
+      }};
+      ```
+    - Arrays.asList
+      ```java
+      ArrayList<Type> obj = new ArrayList<Type>(Arrays.asList(Object o1, Object o2, Object o3, ....so on));
+      ```
+    - Collections.ncopies
+      ```java
+      ArrayList<T> obj = new ArrayList<T>(Collections.nCopies(count,element));//把element复制count次填入ArrayList中
+      ```
+  - sort
+    via: [Java List排序的几种方式整理 - 掘金](https://juejin.cn/post/6986191577659998216 )
+    ```java
+    // 1. basic
+    Collections.sort(list);
+    // 2. user based
+    class classname implements Comparable<classname>{}
+    // 3. 匿名内部类
+    Collections.sort(list, new Comparator<User>() {
+    　　　　    @Override
+    　　　　    public int compare(User u1, User u2) {
+    　　　　　　    int diff = u1.getAge() - u2.getAge();
+    　　　　　　    if (diff > 0) {
+    　　　　　　　　    return 1;
+    　　　　　　    }else if (diff < 0) {
+    　　　　　　　　    return -1;
+    　　　　　　    }
+    　　　　　　    return 0; //相等为0
+    　　　　    }
+    　　    }); // 按年龄排序
+    // 4.
+    list.sort(Comparator.comparing(User::getAge));
+    ```
+  - to Array (seem like `set`)
+    ```java
+    String[] myArray = new String[list.size()];
+    list.toArray(myArray);
+    ```
+- Array
+  - init
+    ```java
+    int[] x;// 1
+    int x[];// 2
+    int []x;// 3
+    
+    int[] array=new int[]{10,20,30,40,50};
+    
+    int[] array=new int[50];
+    ```
+  - to list
+    ```java
+    List<String> list = new ArrayList<String>(Arrays.asList(myArray));
+    ```
+  - to Set
+    ```java
+    Set<String>set = new HashSet<>(Arrays.asList(arr));
+    ```
+    - NOTICE: int to Integer hasn't a init constructor. so just manually do it. / Stream
+    ```
+    // via: https://stackoverflow.com/questions/1073919
+    // Stream on Java 8+
+    int[] ints = {1,2,3};
+    List<Integer> list = Arrays.stream(ints).boxed().collect(Collectors.toList());
+    // Stream on Java 16+
+    List<Integer> list = Arrays.stream(ints).boxed().toList();
+    // Manual
+    List<Integer> intList = new ArrayList<Integer>(ints.length);
+    for (int i : ints)
+        intList.add(i);
+    ```
+### convert an integer to binary
+- `Integer.toBinaryString(int i)` via: [How to convert an integer to binary in Java](https://www.educative.io/answers/how-to-convert-an-integer-to-binary-in-java )
+  - To add the padding, first format the string to fixed-width string using the `String.format()` method. Then, replace spaces with 0s using the `String.replaceAll(String str, String replacement)`
+    - `String.format("%32s", binaryString).replaceAll(" ", "0");`
+  - Adding 4-bit blocks
+    - ```java
+      StringBuffer sb = new StringBuffer();
+      for (int i = 0; i< binaryString.length(); i++ ) {
+        sb.append(binaryString.charAt(i));
+        if (i%4 == 3 && i != binaryString.length() - 1)
+          sb.append(separator);
+      }
+      ```
+### JDBC & Mysql
+```
+chown -R mysql:mysql /var/lib/mysql/
+mysqld --initialize
+sudo service mysql start # systemctl start mysqld
+sudo mysqladmin -u root
+mysql -u (username) -p
+mysql> show global variables like 'port';
+grant all privileges on *.* to 'user'@'localhost' [identified by 'pass'];
+flush privileges;
+CREATE DATABASE database_name;
+USE database_name;
+```
+- [ ] 改密码始终没有成功, 最后是自己回忆起了密码, 总是在报SQL语句错误的问题, 但是在 Root 用户下一下子好像就成功了...
+  ```
+  UPDATE mysql.user SET authentication_string=PASSWORD('password') WHERE User='root' --ssl-mode=required; #error
+  
+  sudo mysqladmin -u root -p password #successful
+  ```
+  - Refs
+    - [MySQL 安装 | 菜鸟教程](https://www.runoob.com/mysql/mysql-install.html )
+    - [linux - error: 'Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)' -- Missing /var/run/mysqld/mysqld.sock - Stack Overflow](https://stackoverflow.com/questions/11990708/error-cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysq )
+    - [MySQL password issues (mac OS X Lion) - Stack Overflow](https://stackoverflow.com/questions/8541115/mysql-password-issues-mac-os-x-lion )
+    - [mysql - mysqladmin: Warning Using a password on the command line interface can be insecure - Stack Overflow](https://stackoverflow.com/questions/67109670/mysqladmin-warning-using-a-password-on-the-command-line-interface-can-be-insecu )
+    - [php - MySql Access denied for user ''@'localhost' to database - Stack Overflow](https://stackoverflow.com/questions/50496353/mysql-access-denied-for-user-localhost-to-database )
+    - [sql - Error 1046 No database Selected, how to resolve? - Stack Overflow](https://stackoverflow.com/questions/4005409/error-1046-no-database-selected-how-to-resolve )
+- [ ] docker 虚拟化环境, 不要污染环境
+  - [Docker 安装 MySQL | 菜鸟教程](https://www.runoob.com/docker/docker-install-mysql.html )
+- [ ] JDBC
+  - **mysql-connector.jar**
+  - [Mini tutorial on MySQL + JDBC connectivity](https://stackoverflow.com/questions/2839321/java-connectivity-with-mysql/2840358#2840358)
+  - via: [java - No suitable driver found for 'jdbc:mysql://localhost:3306/mysql - Stack Overflow](https://stackoverflow.com/questions/8146793/no-suitable-driver-found-for-jdbcmysql-localhost3306-mysql )
+- [x] Install Tomcat via [How To Install Apache Tomcat 10 on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04 )
+    ```shell
+    sudo useradd -m -d /opt/tomcat -U -s /bin/false tomcat
+    sudo apt update && sudo apt install default-jdk
+    cd /tmp
+    wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.20/bin/apache-tomcat-10.0.20.tar.gz
+    sudo tar xzvf apache-tomcat-10*tar.gz -C /opt/tomcat --strip-components=1
+    sudo chown -R tomcat:tomcat /opt/tomcat/
+    sudo chmod -R u+x /opt/tomcat/bin
+    sudo vim /opt/tomcat/conf/tomcat-users.xml
+    # set user password
+    sudo vim /opt/tomcat/webapps/manager/META-INF/context.xml
+    # remove the restriction for the Manager page, open its config file for editing
+    # <!--  <Valve className="org.apache.catalina.valves.RemoteAddrValve" allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" /> -->
+    sudo vim /opt/tomcat/webapps/host-manager/META-INF/context.xml
+    #like above
+    sudo nano /etc/systemd/system/tomcat.service
+    [Unit]
+    Description=Tomcat
+    After=network.target
+    [Service]
+    Type=forking
+    User=tomcat
+    Group=tomcat
+    Environment="JAVA_HOME=$JAVA_HOME" #here config!!!
+    Environment="JAVA_OPTS=-Djava.security.egd=file:///dev/urandom"
+    Environment="CATALINA_BASE=/opt/tomcat"
+    Environment="CATALINA_HOME=/opt/tomcat"
+    Environment="CATALINA_PID=/opt/tomcat/temp/tomcat.pid"
+    Environment="CATALINA_OPTS=-Xms512M -Xmx1024M -server -XX:+UseParallelGC"
+    ExecStart=/opt/tomcat/bin/startup.sh
+    ExecStop=/opt/tomcat/bin/shutdown.sh
+    RestartSec=10
+    Restart=always
+    [Install]
+    WantedBy=multi-user.target
+    sudo /opt/tomcat/bin/startup.sh
+    ```
+### Run Tomcat on WSL2
+Not Supported!!! It would all print error to Java JDK, but it matters to WSL2!!!
+via: [Run Tomcat on WSL 2 – IDEs Support (IntelliJ Platform) | JetBrains](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010609900-Run-Tomcat-on-WSL-2 )
+- > It's not supported at the moment, I've submitted a request at https://youtrack.jetbrains.com/issue/IDEA-265214.
+### Tomcat >=10, servlet from javax to jakarta
+> [Apache Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) 9 and 10 are equivalent products. The only difference is support for changes for the package names in the Jakarta Servlet and related technologies from javax.* to jakarta.*. via: [How to update Apache Tomcat Embed from 9.0.35 to 10.0.4 in Java application - Stack Overflow](https://stackoverflow.com/questions/66758269/how-to-update-apache-tomcat-embed-from-9-0-35-to-10-0-4-in-java-application )
+more via:
+- [记一次@WebServlet不生效的问题 - 冰肌玉骨小香脐 - 博客园](https://www.cnblogs.com/volun/p/15140946.html )
+- [从Java EE到Jakarta EE，企业版Java的发展历程-CSDN博客](https://fangshixiang.blog.csdn.net/article/details/118403779 )
+### Little Error
+- [How to Install Tomcat 9 on Ubuntu 20.04 | Linuxize](https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-20-04/ )
+  - [java - installing tomcat 9 on WSL - Stack Overflow](https://stackoverflow.com/questions/63312469/installing-tomcat-9-on-wsl )
+  - [Apache Tomcat® - Which Version Do I Want?](https://tomcat.apache.org/whichversion.html )
+- [Install Open JDK on WSL](https://kontext.tech/article/621/install-open-jdk-on-wsl )
+  - [How to Install Java on Ubuntu 18.04 | Linuxize](https://linuxize.com/post/install-java-on-ubuntu-18-04/ )
+  - [java - Getting Error:JRE_HOME variable is not defined correctly when trying to run startup.bat of Apache-Tomcat - Stack Overflow](https://stackoverflow.com/questions/28991391/getting-errorjre-home-variable-is-not-defined-correctly-when-trying-to-run-star )
+  - [How to set Java environment path in Ubuntu - Stack Overflow](https://stackoverflow.com/questions/9612941/how-to-set-java-environment-path-in-ubuntu )
+  ```shell
+  $ sudo apt-get install openjdk-8-jdk
+  $ sudo apt install default-jdk # 11
+  $ readlink -f $(which java)
+  # /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
+  $export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  # /usr/lib/jvm/java-11-openjdk-amd64
+  ```
+- [Tomcat Config : Diff between "Tomcat Home" and "Tomcat base directory" – IDEs Support (IntelliJ Platform) | JetBrains](https://intellij-support.jetbrains.com/hc/en-us/community/posts/207041235-Tomcat-Config-Diff-between-Tomcat-Home-and-Tomcat-base-directory- )
+  - Tomcat base ($CATALINA_BASE) is place where server stores its instance
+  - stuff (configs, etc). By default, it is the same as tomcat install dir
+  - (CATALINA_HOME).
+- [IDEA 出现cannot resolve method getParameter(Java.lang.String)解决方案 - 简书](https://www.jianshu.com/p/08d4eea27355 )
+  - File>Project Structure>Modules>Dependencies，然后点击右边的绿色+号，选择Library，然后选择你的Tomcat服务器添加，然后再Apply应用即可。
+- [java - Cannot resolve method getParameter() in JSP - Stack Overflow](https://stackoverflow.com/questions/50826313/cannot-resolve-method-getparameter-in-jsp )
+  - If that's the case, I'm almost sure you're missing the `servlet-api.jar` file in your classpath.
+  - Here's one of the ways to add it on IntelliJ:
+    - Right-click on your project and select **Open Module Settings**:
+    - Make sure that you're on the **Modules** section, **Dependencies** tab, click on the "+" button at the bottom, and select **1 JARs or directories...**:
+    - Select the file `servlet-api.jar` from the folder `lib` at (THIS IS IMPORTANT:) **the container where you're deploying your application** (in my case, **apache-tomcat-8.5.31**):
+    - Then click on the "Ok" button. Your program now should look like this:
+- JSP 自动刷新
+  ```html
+  <!-- 1 content=”5″ 是时间控制，表示每隔5秒刷新一次页面 -->
+  <meta http-equiv=”refresh” content=”5″>
+  <!-- 2 -->
+  <%@ page language="java" contentType="text/html; charset=UTF-8"
+      pageEncoding="UTF-8"%>
+  <%@ page import="java.io.*,java.util.*" %>
+  <html>
+  <head>
+  <title>自动刷新实例</title>
+  </head>
+  <body>
+  
+  <h2>自动刷新实</h2>
+  <%
+     // 设置每隔5秒刷新一次
+     response.setIntHeader("Refresh", 5);
+     // 获取当前时间
+     Calendar calendar = new GregorianCalendar();
+     String am_pm;
+     int hour = calendar.get(Calendar.HOUR);
+     int minute = calendar.get(Calendar.MINUTE);
+     int second = calendar.get(Calendar.SECOND);
+     if(calendar.get(Calendar.AM_PM) == 0)
+        am_pm = "AM";
+     else
+        am_pm = "PM";
+     String CT = hour+":"+ minute +":"+ second +" "+ am_pm;
+     out.println("当前时间为: " + CT + "\n");
+  %>
+  
+  </body>
+  </html>
+  <!-- via: https://www.runoob.com/jsp/jsp-auto-refresh.html-->
+  ```
+- 自动跳转
+  ```html
+  <meta http-equiv=”refresh” content=”1;url=index.jsp”>
+  <!-- ontent=”1 是时间控制,表示1秒后自动跳转到要跳转的页面. 
+  content=”0 表示打开该页后立即跳转到你要跳转的页面 -->
+  ```
+- Solving a "communications link failure" with JDBC and MySQL [duplicate](https://stackoverflow.com/questions/6865538/solving-a-communications-link-failure-with-jdbc-and-mysql)
+  - 5s 重启
+  - 修改等待时间 via: [解决Java程序连接mysql数据库出现CommunicationsException: Communications link failure错误的问题](https://www.cnblogs.com/hafiz/p/5879432.html )
+- [java - session.getAttribute from servlet and display in html - Stack Overflow](https://stackoverflow.com/questions/26657104/session-getattribute-from-servlet-and-display-in-html )
+  - [Forget about scriptlets, avoid its usage](https://stackoverflow.com/q/3177733/1065197). Use [Expression language](https://stackoverflow.com/tags/el/info) instead:
+  - ```
+    <div id="divUser">
+        Welcome ${FirstName} ${LastName}
+    </div>
+    ```
+- [java - Using Intellij to Build War and Deploy to Tomcat - Stack Overflow](https://stackoverflow.com/questions/31705700/using-intellij-to-build-war-and-deploy-to-tomcat )
+  - Checklist of things you can do to verify where things go wrong:
+    - Manually build the artifacts using Build > Build artifacts.
+    - Verify if the artifact is in the expected output directory (out/artifacts/xxx).
+    - If not, go to File > Project structure > Artifacts
+    - Select the artifact file in question (project_name in this case).
+    - Verify if the output directory is correct. Optionally try to create this directory yourselves in case IntelliJ doesn't do it (although this would surprise me)
+    - Verify if the contents are correct.
+    - Optionally check "Build on make" to always have the latest version of your code deployed whenever you run the server.
+  - Note that for deploying WAR files to a Tomcat, you should prefer to use the exploded WAR. This makes deploying/testing/debugging significantly faster.
+- [java - Intellij error=2 No such file or directory - Stack Overflow](https://stackoverflow.com/questions/42856555/intellij-error-2-no-such-file-or-directory )
+  - The answer from here [Change jdk path in IntelliJ 13 when compiling from 32 bit program file folder to 64 bit one](https://stackoverflow.com/questions/22392110/change-jdk-path-in-intellij-13-when-compiling-from-32-bit-program-file-folder-to/22392702#22392702) worked for me
+  - From the menu: `File` -> `Project Structure...`.
+  - On the left, below "Platform Settings", you have "SDKs": click on it; you can add your new JDK here.
+  - Always in the same window, below "Project Settings", select "Project": you have the option to select the JDK which you just added.
+- [How to get Maven to run war:exploded but not war:war - Stack Overflow](https://stackoverflow.com/questions/352612/how-to-get-maven-to-run-warexploded-but-not-warwar )
+  - The solution is quite simple. You need to override the default execution of the war plugin to disable it and add your own execution (for exploded):
+    ```xml
+    <pluginManagement>
+        <plugins>
+                <plugin><!-- don't pack the war  -->
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-war-plugin</artifactId>
+                    <executions>
+                        <execution>
+                            <id>default-war</id>
+                            <phase>none</phase>
+                        </execution>
+                        <execution>
+                            <id>war-exploded</id>
+                            <phase>package</phase>
+                            <goals>
+                                <goal>exploded</goal>
+                            </goals>
+                        </execution>
+                    </executions>
+                </plugin>
+        </plugins>
+    </pluginManagement>
+    ```
+- [ios - HTTP Status 404 Tomcat / Intellij - Stack Overflow](https://stackoverflow.com/questions/33013155/http-status-404-tomcat-intellij )
+- [java - Intellij warning no artifacts configured - Stack Overflow](https://stackoverflow.com/questions/35816563/intellij-warning-no-artifacts-configured )
+- [java - Warning the selected directory is not a valid tomcat home - Stack Overflow](https://stackoverflow.com/questions/33055786/warning-the-selected-directory-is-not-a-valid-tomcat-home )
+  - If you are using **IDEA on Linux platform**, use the command:
+  - `chmod 755 -R apache-tomcat-<>`
+  - Then try to restart your service again.
+- [java - IntelliJ, can't start simple web application: Unable to ping server at localhost:1099 - Stack Overflow](https://stackoverflow.com/questions/19068977/intellij-cant-start-simple-web-application-unable-to-ping-server-at-localhost )
+  - WSL JDK 换成 Windows 的 JDK
+- [networking - java.net.ConnectException :connection timed out: connect? - Stack Overflow](https://stackoverflow.com/questions/5662283/java-net-connectexception-connection-timed-out-connect )
+  - The error message says it all: your connection timed out. This means your request did not get a response within some (default) timeframe. The reasons that no response was received is likely to be one of:
+    - a) The IP/domain or port is incorrect
+    - b) The IP/domain or port (i.e service) is down
+    - c) The IP/domain is taking longer than your default timeout to respond
+    - d) You have a firewall that is blocking requests or responses on whatever port you are using
+    - e) You have a firewall that is blocking requests to that particular host
+    - f) Your internet access is down
+  - Note that firewalls and port or IP blocking may be in place by your ISP
+- [Configure Web application deployment | IntelliJ IDEA](https://www.jetbrains.com/help/idea/configure-web-app-deployment.html )
+  - Open the Project Structure dialog (e.g. Ctrl+Alt+Shift+S). 
+  - Click Artifacts to open the [Artifacts page](https://www.jetbrains.com/help/idea/artifacts.html).
+  - Do one of the following:
+    - To use a pre-defined exploded directory artifact, select the war:exploded artifact from the list on the left-hand pane. If necessary, change the name and output directory of the artifact in the corresponding fields on the right-hand pane.
+    - To create a new artifact, click New + on the left-hand pane and choose the artifact type from the New list.
+      - To have the application deployed as a directory, choose Web Application: Exploded.
+      - To have the application deployed in the packed form, choose Web Application: Archive.
+    - On the right-hand pane, specify the general settings of the artifact, such as name and output directory, in the corresponding fields.
+- [spring mvc - Error: tomEE required to support EAR/EJB deployment error message - Stack Overflow](https://stackoverflow.com/questions/25630054/error-tomee-required-to-support-ear-ejb-deployment-error-message )
+  - I got the same problem but solution was different. The problem was with artifact type which had to be changed from Java EE Application exploded to Web Application:Exploded/Archive
+- [java - My IntelliJ do not hint the out's method in JSP - Stack Overflow](https://stackoverflow.com/questions/42110578/my-intellij-do-not-hint-the-outs-method-in-jsp )
+  - I was having same issue on IntelliJ Ultimate 2020.3.2. Then I put the dependency mentioned by leela Daka on my pom.xml, reloaded the pom and It worked! The only change I've made was on version to **2.2** to match with Tomcat 7 that uses JSP 2.2.
+    ```xml
+       <dependency>
+            <groupId>javax.servlet.jsp</groupId>
+            <artifactId>jsp-api</artifactId>
+            <version>2.2</version>
+            <scope>provided</scope></dependency>
+        <dependency>
+    ```
+- [Cannot load driver class: com.mysql.jdbc.Driver Spring - Stack Overflow](https://stackoverflow.com/questions/33123985/cannot-load-driver-class-com-mysql-jdbc-driver-spring )
+  - If you're using Maven, add this to your `pom.xml`:
+  - (Recommended) For `MySQL 5.6, 5.7, 8.x` and `Java >= 8` use;
+    ```xml
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.25</version>
+    </dependency>
+    ```
+  - (Legacy) For `MySQL <= 5.5` or `Java <= 7` or `JDBC < 4.2` use;
+    ```xml
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>5.1.49</version>
+    </dependency>
+    ```
+- [ResultSet (Java 2 Platform SE 6)](https://aisia.moe/java6api-cn/java/sql/ResultSet.html )
+### More See
+- [mysql - ERROR 1698 (28000): Access denied for user 'root'@'localhost' - Stack Overflow](https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost )
+- [JDBC快速入门教程 - JDBC教程™](https://www.yiibai.com/jdbc/jdbc_quick_guide.html )
+- [java - installing tomcat 9 on WSL - Stack Overflow](https://stackoverflow.com/questions/63312469/installing-tomcat-9-on-wsl )
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1120449446)
+
+## WSL 
+- [ ] **resolv.conf** and **real IPv4** is different
+  ![image](https://user-images.githubusercontent.com/57313137/158162835-349cc9e5-b5b0-488a-823c-7de9c42d6171.png)
+- Docker 部署 TTRSS, 端口转发和防火墙
+  - _Main Tutorials_
+    - [Install Docker Compose | Docker Documentation](https://docs.docker.com/compose/install/ )
+      - [Docker 1小时快速上手教程，无废话纯干货_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11L411g7U1)
+    - [Awesome-TTRSS · HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docs/zh/README.md )
+      - also thx [Tiny Tiny RSS：最速部署私有 RSS 服务器 - Spencer's Blog](https://spencerwoo.com/blog/tiny-tiny-rss#an-zhuang-docker-compose )
+      - [如何在局域网的其他主机上中访问本机的WSL2 - 知乎](https://zhuanlan.zhihu.com/p/425312804 )
+      - [Docker的三种网络代理配置 · 零壹軒·笔记](https://note.qidong.name/2020/05/docker-proxy/ )
+    - deploy the docker using command
+  ```shell
+  $ sudo docker-compose --env .env up -d
+  ```
+  - `--env` is environment each we deploy. mainly to replace `${HTTP_PROXY}` in ` docker-compose.yml`
+    ```yaml
+    environment:
+    ...
+    - HTTP_PROXY=${HTTP_PROXY}
+    ```
+    - we see `.env` file like this, each I open the terminal proxy I will refreah this file using zsh. (cause wsl2's Ip is not fixed.
+    ```she
+    $ cat .env
+    HTTP_PROXY=172.27.176.1:7890
+    ```
+      - via: https://dockerdocs.cn/compose/environment-variables, BTW, _Baidu Source Sucks_ !!!
+    - When Deploy is error, stop it and redeploy it!
+    ```shell
+    $ docker-compose down
+    $ docker-compose rm # 删除已停止的 Docker 容器 ???
+    $ docker-compose up -d
+    ```
+    - When everything work well, start your ttrss career.😆 Buuuut, emmm, Where you deploy? WSL! What the feature is?  
+    
+    | Feature(via: [mircosoft](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)) | WSL 1 | WSL 2 |
+    | :----------------------------------------------------------- | :---- | :---- |
+    | Integration between Windows and Linux                        | ✅     | ✅     |
+    | Fast boot times                                              | ✅     | ✅     |
+    | Small resource foot print compared to traditional Virtual Machines | ✅     | ✅     |
+    | Runs with current versions of VMware and VirtualBox          | ✅     | ✅     |
+    | Managed VM                                                   | ❌     | ✅     |
+    | Full Linux Kernel                                            | ❌     | ✅     |
+    | Full system call compatibility                               | ❌     | ✅     |
+    | Performance across OS file systems                           | ✅     | ❌     |
+  - Fucking ___VM Network___!!! So you cannot visit using LAN IP, which you just only use it on your PC(using 127.0.0.1)!!! So next you should set ___port forwarding___ on win10.  The startup see more deatails on [here-csdn](https://blog.csdn.net/cf313995/article/details/108871531). Shortly like following:
+      > BTW, `SELF_URL_PATH` is really hard. when I not realize the problem is wsl network, I search it on google as much as I can. (Hundreds of tabs). Route DNS  Hijacking/domain DNS in cloudflare. At most is adding `define('_SKIP_SELF_URL_PATH_CHECK',true)` to `config.php`, via: [offical](https://community.tt-rss.org/t/solved-self-url-path-for-host-with-two-hostnames/2198). But appearly they are not the same problem, of course I failed. Haha, hard really... till i found LAN could work well from [v2ex](https://www.v2ex.com/t/822732 ).
+    ```shell
+    # on wsl
+    $ ip addr show eth0
+    # get v4ip likely: 192.168.97.228/20 ->  192.168.97.228, then switch windows ps
+    $ sudo netsh interface portproxy add v4tov4 listenport=4040 listenaddress=0.0.0.0 connectport=4040 connectaddress=192.168.97.228 protocol=tcp
+    # or -> sudo netsh interface portproxy add v4tov4 listenport=4040 listenaddress=* connectport=4040 connectaddress=192.168.97.228 protocol=tcp
+    # check what you set
+    $ netsh interface portproxy show all
+    ```
+    - Then if everything work well, you'll be able to visit your PC LAN IP to visit TTRSS. But on my machine it still not work. That's really wired... Open `firewall & network protection` -> `advanced settings` -> `inbound rules `-> `new rules`: `port`  -> `TCP&&4040` -> `defalut`... 
+  - Then everything work well for me. Nice🍻
+- vim clipboard sharing
+  ```vimrc
+  :w !clip.exe
+  ```
+  - via: https://blog.csdn.net/AngelLover2017/article/details/122072001
+- win10 GUI
+  - GWSL in Microsoft Store(recommand).
+  - [VcXsrv](https://sourceforge.net/projects/vcxsrv/). with following WSL2 Config:
+    ```shell
+    sudo apt install -y tasksel
+    sudo tasksel install xubuntu-desktop
+    sudo apt install gtk2-engines
+    
+    # .vimrc
+    export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+    #export DISPLAY=$(grep -m 1 nameserver /etc/resolv.conf | awk '{print $2}'):0
+    # export LIBGL_ALWAYS_INDIRECT=1 ?
+    # sudo /etc/init.d/dbus start &> /dev/null ?
+    ```
+    - Win10 Config: `“Multiple Windows” -> “Start no client” -> “Disable access control”`
+      - [ ] memory using seem okay, from `500M` -> `1100M` ->`900M`, 🤣seem enough debug programming...
+      what if using win11?
+    - So After Import Env in Jetbrains Idea, java Swing works well.
+    - via: https://blog.meathill.com/tools/install-wsl2-on-windows-10-and-config-gui-for-applications.html & https://www.shogan.co.uk/how-tos/wsl2-gui-x-server-using-vcxsrv/
+- WSL Node Can not Fetch Update
+  - ```
+    This script requires Node v12.14.0 or higher, but you are using v10.19.0
+    ```
+  - After I `sudo apt update -y`, I do not find the choose to upgrade my low version nodejs. So I try [Microsoft Doc](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)  to do. That works well. 😁
+    - ```bash
+      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+      nvm ls # check
+      nvm install --lts
+      ```
+- Compress JPEG
+    - ```bash
+      jpegoptim --stdout a.jpg > b.jpg
+      cat a.jpg | jpegoptim --stdin > b.jpg
+      //via: https://github.com/tjko/jpegoptim/issues/14
+      ```
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1124025397)
+
+## android browser download file cannot open(cannot find
+
+<img src="https://user-images.githubusercontent.com/57313137/169709645-c3e6f95e-7aba-4fde-9357-2859b44198da.png" width="50%">
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1133946995)
+
+## Http-sever Video Sound Strange
+
+- [ ] Samsung Internet Browser Work well, Via, Kiwi Browser Not Work 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1144347592)
+
+## Win10 
+
+### Open Hibernate
+
+```powershell
+# open administer power
+powercfg.exe /hibernate on
+```
+
+Power Option (Battery Plan) -> Choose what the power button do -> Change settings that are currently unavailable -> Hibernate.
+
+via: https://adersaytech.com/kb-article/enable-hibernate-mode.html 
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1144352726)
+
+## USB 接线图 
+
+via: http://www.usbzh.com/article/detail-206.html
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146570389)
+
+## Gtihub Page -> Index Directory
+
+- [ ] https://stackoverflow.com/questions/39048654/how-to-enable-directory-indexing-on-github-pages
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146747766)
+
+## Github Action 
+
+- Add timezone supported: https://github.com/github-community/community/discussions/13454
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146750958)
+
+## 人体工程学, 表面解决腰酸背痛问题
+
+via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https://www.bauhutte.jp/bauhutte-life/tip2/ )
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1146753949)
+
+## Productivity Pron
+
+- [workspacer/workspacer: a tiling window manager for Windows](https://github.com/workspacer/workspacer)
+  - ShortCut
+    - `alt-shift-{1..9}`: move focused window to workspace {1..9} | **移动窗口到工作台**
+    - `alt-{1..9}`: switch to workspace {1..9} | **换当前工作区**
+      - `alt-{wer}`: focus monitor {123}
+    - `alt-t`: toggle tiling for focused window | **释放控制窗口**
+    - `alt-h/alt-l`: shrink/expand  primary area | **左右调整窗口**
+    - `alt-shift-j`: swap focus and next window | **专注下一窗口**
+    - ? `alt-shief-e`
+- [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other.](https://kdeconnect.kde.org/ )
+  - [ ] clash with CFW.
+  - [x] Under phone, it needs to set storage path.
+- [ninja33/ODH: A chrome extension to show online dictionary content.](https://github.com/ninja33/ODH )
+  - [ ] clash with CFW while downloading audio. (cause [AnkiConnect - AnkiWeb](https://ankiweb.net/shared/info/2055492159 ))
+    ```
+    check_hostname requires server_hostname
+    ```
+    - [x] Alternative: [anki-dict-helper](https://github.com/ninja33/anki-dict-helper), ODH's father.
+    - [ ] Ubuntu still existed proxy?
+    - [Dict2Anki（有道,欧陆词典单词本同步工具） - AnkiWeb](https://ankiweb.net/shared/info/1284759083 )
+    - [(9.15)GoldenDict & 欧路 取词完美版(AHK) - GoldenDict - 掌上百科 - PDAWIKI - Powered by Discuz!](https://www.pdawiki.com/forum/thread-23696-1-1.html?x=304213 )
+    - [Import from Excel with html formatting (bold text when present) and return lines when present within the cells? : Anki](https://www.reddit.com/r/Anki/comments/3wbrun/import_from_excel_with_html_formatting_bold_text/ )
+- [WebCull - Ad-Free and Privacy-Focused Bookmark Manager](https://webcull.com/ )
+  - inspired by [yodhcn的收藏夹 - WebCull](https://app.webcull.com/w/yodhcn), 小众放弃😂
+  - 找到个挺有意思的 pron 网站😂 [Porn Dude](https://theporndude.com/zh )
+- [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/ )
+  - [ ] RainDrop cannot select by mouse, Raindrop part cannot select.
+    - [x] Bookmarklet Replace Tag CSS
+      ```javascript
+      javascript: (() => {document.getElementById('rdhs').innerHTML = '.rdhnav:before,mark[data-rdhid]{background:var(--rdhc,#fe0)!important}mark[data-rdhid]{background-image:linear-gradient(180deg,hsla(0,0%,100%,.7) 0,hsla(0,0%,100%,.7))!important;color:#000!important;-webkit-text-fill-color:#000!important;cursor:pointer!important}.rdhni{display:inline!important;padding:0!important;border:0!important;color:inherit!important;opacity:.5!important;fill:currentColor!important;background:transparent!important;border-radius:0!important;margin:0 .3em!important;width:.85em!important;height:.85em!important}.rdhnav{position:fixed!important;right:0!important;padding:10px 6px 10px 10px!important;cursor:pointer!important}.rdhnav:before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-radius:10px!important;box-shadow:0 0 0 .5px ButtonShadow,0 5px 30px rgb(0 0 0/30%)!important;background-image:linear-gradient(180deg,hsla(0,0%,100%,.2) 0,hsla(0,0%,100%,.2))!important}.rdhnav:hover:before{background-image:linear-gradient(180deg,hsla(0,0%,100%,.5) 0,hsla(0,0%,100%,.5))!important}.rdhnav:active{filter:brightness(50%)!important}';})();
+      ```
+    - [ ] Script: Raindrop 用的 `mark[data-rdhid]`, js 选中了 `mark` 也没用, 不知道为什么里面的 `style>user-select` 为什么是空, 没有定义.   
+      ```javascript
+      mark = document.getElementsByTagName('mark');
+      for(var i=0;i<mark[i].length;i++){
+          mark[i].style.removeProperty('-webkit-user-select');
+          mark[i].style.removeProperty('user-select');
+      }
+      
+      for(var i=0;i<mark[i].length;i++){
+          mark[i].style.setProperty('-webkit-user-select', 'text !important');
+          mark[i].style.setProperty(('user-select', 'text !important');
+      }
+      ```
+      全部都无效, 然后又尝试了 `parentNode.removeChild` 也还是不行, Chrome Extension 又会再次把 CSS 注入进来.
+      也尝试用 Stylish, 但是应该是 css 加载顺序的问题, 总是不生效...
+- Add a Back2Top Button
+    - Due to CSP, some userscript wasn't allowed injected into pages, so them will not work, even can't repair without paied...
+    - ```javascript
+      //... also with tampermonkey beta
+      (function() {
+          'use strict';
+          var newHTML=document.createElement ('div');
+          newHTML.innerHTML='<style>#kotori{position:fixed;bottom:-10px;left:-10px;height:70px;width:70px;cursor:pointer;transition:.2s all;display:block;z-index:100}#kotori:hover{transform:translate(10px,-10px)}</style><img id="kotori" src="https://s1.ax1x.com/2022/05/11/OUqj3D.png" onclick="smoothscroll()">';
+          document.body.appendChild (newHTML);
+      
+          var scriptElem = document.createElement('script');
+          scriptElem.innerHTML = 'window.addEventListener("scroll",handleScroll);function handleScroll(){var scollTop=document.documentElement.scrollTop||document.body.scrollTop;var clientHeight=document.documentElement.clientHeight;if(scollTop>=clientHeight){document.querySelector("#kotori").style.display="block"}else{document.querySelector("#kotori").style.display="none"}}function smoothscroll(){var currentScrollTop=document.documentElement.scrollTop||document.body.scrollTop;if(currentScrollTop>0){window.requestAnimationFrame(smoothscroll);window.scrollTo(0,currentScrollTop-currentScrollTop/10)}};';
+          document.body.appendChild(scriptElem);
+      
+          var code = 'window.addEventListener("scroll",handleScroll);function handleScroll(){var scollTop=document.documentElement.scrollTop||document.body.scrollTop;var clientHeight=document.documentElement.clientHeight;if(scollTop>=clientHeight){document.querySelector("#kotori").style.display="block"}else{document.querySelector("#kotori").style.display="none"}}function smoothscroll(){var currentScrollTop=document.documentElement.scrollTop||document.body.scrollTop;if(currentScrollTop>0){window.requestAnimationFrame(smoothscroll);window.scrollTo(0,currentScrollTop-currentScrollTop/10)}};';
+          eval(code);
+      
+          let script_tag = GM_addScript('alert("works!");');
+      })();
+      // more details via: https://github.com/Tampermonkey/tampermonkey/issues/296
+- Spotify 多终端本地音乐 via: [如何在 Spotify 听没有版权的歌 | Aemon's Blog](https://www.aemon.top/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/ )
+  - 利用不同终端的限制, 将音乐下载到其他终端上
+    - 同一个局域网下, 电脑 Spotify 上听这首音乐.
+    - 手机上加红心 (Liked Songs 自动下载本地)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1149723834)
+
+## 抓包
+
+- [ ] 极客时间超链接跳转
+    - 猜测是把跳转网址记录到缓存里面 (请求回来的数据里有 `<a>` 标签, 但是 HTML 文档里面没有出现).
+![image](https://user-images.githubusercontent.com/57313137/172740797-db518878-99b0-4fd2-a654-75f5e5ba3c18.png)
+![image](https://user-images.githubusercontent.com/57313137/172740804-318c4fcd-b222-47eb-a046-caba632c2320.png)
+![image](https://user-images.githubusercontent.com/57313137/172742199-090f1b46-fe16-4978-8f3b-eae0b934b1d5.png)
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1150561836)
+
+## Fuck Inner Mongolia DNS
+
+
+<img src = "https://user-images.githubusercontent.com/57313137/175514591-bb7ff0f1-8587-440f-bd1a-e60775b1f085.png" width="40%"/><img src = "https://user-images.githubusercontent.com/57313137/175514445-66b4c332-f5aa-4e62-a67b-ead5c6f7f840.png" width = "40%"/>
+
+```powershell
+PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.1.200
+Server:  200.1.74.222.broad.hh.nm.dynamic.163data.com.cn
+Address:  222.74.1.200
+
+Non-authoritative answer:
+Name:    github.com
+Addresses:  ::
+          0.0.0.0
+
+PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.126.230
+Server:  230.126.74.222.broad.tl.nm.dynamic.163data.com.cn
+Address:  222.74.126.230
+
+Non-authoritative answer:
+Name:    github.com
+Addresses:  ::
+          0.0.0.0
+
+PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.59.65
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  222.74.59.65
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 219.148.162.31
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  219.148.162.31
+PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 219.148.162.31
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  219.148.162.31
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+*** Request to UnKnown timed-out
+PS C:\Users\xxx\Desktop\review> nslookup.exe github.com 222.74.39.50
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  222.74.39.50
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+*** Request to UnKnown timed-out
+```
+
+### Change Public DNS
+
+via: [如何选择适合的公共 DNS](https://blog.skk.moe/post/which-public-dns-to-use/ )
+
+| DNSPod                                                       | Anycast                   | Export         | Address                                | TCP  | DoT  | DoH  | ECS  | Mark |
+| ------------------------------------------------------------ | ------------------------- | -------------- | -------------------------------------- | ---- | ---- | ---- | ---- | ---- |
+| [腾讯](https://www.dnspod.cn/Products/Public.DNS)            | 上海 / 天津 / 广州 / 香港 | 同左           | `119.29.29.29` / `119.28.28.28`        | ❌    | ✔    | ✔    | ❌    | 国内 |
+| [阿里云](http://www.alidns.com/)                             | 成都 / 深圳 / 杭州        | 同左           | `223.6.6.6` / `223.5.5.5`              | ❌    | ✔    | ✔    | ❌    |      |
+| [南京信风](https://www.114dns.com/)                          | 南京 / 济南 / 芝加哥      | N/A            | `114.114.114.114` /  `114.114.115.115` | ❌    | ❌    | ❌    | ❌    |      |
+| [CNNIC](http://www.sdns.cn/)                                 | 北京 / 杭州 / 香港        | CNNIC / 阿里云 | `1.2.4.8` / `210.2.4.8`                | ❌    | ❌    | ❌    | ❌    |      |
+| [百度](https://dudns.baidu.com/)                             | 北京 / 南京 / 深圳        | 同左           | `180.76.76.76`                         | ❌    | ✔    | ✔    | ❌    |      |
+| [Google](https://developers.google.com/speed/public-dns/)    | 36+ 数据中心              | 边缘网络       | `8.8.8.8` / `8.8.4.4`                  | ✔    | ✔    | ✔    | ✔    | 国外 |
+| [OpenDNS](https://www.opendns.com/)                          | 32+ 数据中心              | N/A            | `208.67.222.222` /  `208.67.220.220`   | ✔    | ❌    | ❌    | ✔    |      |
+| [Cloudflare DNS](https://1.0.0.1/)                           | 160+ 数据中心             | 同左           | `1.0.0.1` / `1.1.1.1`                  | ✔    | ✔    | ✔    | ❌    |      |
+| [Freenom World](https://www.freenom.world/zh/index.html?lang=zh) |                           | Transit        | `80.80.80.80` /  `80.80.81.81`         | ✔    | ❌    | ❌    | ✔    |      |
+| DNS.sb                                                       |                           | SB Network     | `185.222.222.222` /  `185.184.222.222` | ✔    | ✔    | ✔    | ❌    |      |
+
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1166728789)
+
+## Powershell 
+
+### Background Task
+
+```powershell
+(xxx) > task.log 2>&1 &
+# 最后一个 & 需要注意
+```
+
+- [What is the difference between dot (.) and ampersand (&) in PowerShell? - Stack Overflow](https://stackoverflow.com/questions/54661916/what-is-the-difference-between-dot-and-ampersand-in-powershell )
+    - `&`, the __call operator__, executes scripts and functions in a __child__ scope, which is the __typical__** use case**: functions and scripts are typically expected to **execute **__without side effects__:
+        - The variables, (nested) functions, aliases defined in the script / function invoked are local to the invocation and go out of scope when the script exits / function returns.
+        - Note, however, that **even a script run in a **__child__** scope can affect the caller's environment**, such as by using `Set-Location` to change the current location, explicitly modifying the parent scope (`Set-Variable -Scope 1 ...`) or the global scope (`$global:...`) or defining process-level environment variables.
+
+### access `%TEMP` directory
+
+```powershell
+cd $env:temp
+```
+
+- [How to access the %temp% directory using PowerShell](https://www.vistax64.com/threads/how-to-access-the-temp-directory-using-powershell.124111/ )
+    - PowerShell keeps environemnt variables in a special PSDrive called: `env`
+    - To get all environment variables, type:
+    - `dir env`
+    - To get a specific variable, type:
+    - `$env:<variableName>`, as in:
+    - `get-childitem $env:temp`
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1168125832)
+
+## C
+
+- [c - Two Equal Signs in One Line? - Stack Overflow](https://stackoverflow.com/questions/7244114/two-equal-signs-in-one-line )
+    - The value of the expression `(a = b)` is the value of `b`, so you can chain them this way. They are also right-associative, so it all works out.
+    - Essentially `ArcChar = ArcBit = 0;` is (approximately1) the same as
+      ```c
+      ArcBit = 0;
+      ArcChar = 0;
+      ```
+    - since the value of the first assigment is the assigned value, thus `0`.
+    - Regarding the types, even though `ArcBit` is an `unsigned char` the result of the assignment will get widened to `int`.
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1168127217)
 
 
 
