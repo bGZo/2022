@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-07-11](#logbug-updated-at-20220711)
+- [log(bug) Updated at 2022-07-14](#logbug-updated-at-20220714)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -52,6 +52,7 @@
         - [Tomcat >=10, servlet from javax to jakarta](#tomcat-10-servlet-from-javax-to-jakarta)
         - [Little Error](#little-error)
         - [More See](#more-see)
+    - [Maven](#maven)
     - [WSL](#wsl)
     - [android browser download file cannot open(cannot find](#android-browser-download-file-cannot-opencannot-find)
     - [Http-sever Video Sound Strange](#httpsever-video-sound-strange)
@@ -71,7 +72,7 @@
 - [最后一个 & 需要注意](#最后一个--需要注意)
         - [access `%TEMP` directory](#access-temp-directory)
     - [C](#c)
-- [make(mark) Updated at 2022-07-09](#makemark-updated-at-20220709)
+- [make(mark) Updated at 2022-07-14](#makemark-updated-at-20220714)
     - [比快排更高效的排序](#比快排更高效的排序)
     - [Five timeless lessons](#five-timeless-lessons)
         - [为什么不选择一些对新手更加友好的入门方式呢?](#为什么不选择一些对新手更加友好的入门方式呢)
@@ -127,7 +128,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-07-11
+# log(bug) Updated at 2022-07-14
 ## Stage
 
 - [ ] #10
@@ -881,6 +882,51 @@ url = "https://pypi.tuna.tsinghua.edu.cn/simple"
     for (int i : ints)
         intList.add(i);
     ```
+- HashMap 五种遍历方式 
+  - ```java
+    class Solution {
+        public List<Integer> findDuplicates(int[] nums) {
+            HashMap<Integer, Integer> lg = new HashMap<>();
+    
+            for (int i: nums){
+                lg.put(i, lg.getOrDefault(i, 0)+1);
+            }
+    
+            List<Integer> ans = new LinkedList<>();
+    
+    //// 1. forEach
+            lg.forEach((k, v) -> {
+                if(v > 1)
+                    ans.add(k);
+            });
+    //2. Iterator
+            Iterator it = lg.entrySet().iterator();
+            while(it.hasNext()){
+                Map.Entry <Integer, Integer> ele = (Map.Entry) it.next();
+                if(ele.getValue()>1)
+                    ans.add(ele.getKey());
+            }
+    //3.Map.Entry
+            for(Map.Entry <Integer, Integer> ele : lg.entrySet()){ // Map.Entry ele : lg.entrySet()
+                if(ele.getValue()>1)
+                    ans.add(ele.getKey());
+            }
+    //4.map.keySet()
+            for (Integer key : lg.keySet()) {
+                if(lg.get(key)>1)
+                    ans.add(key);
+            }
+    //5.keySet() + Array
+            Object key[] = lg.keySet().toArray(); // incompatible types: Object[] cannot be converted to Integer[]
+            int len = key.length;
+            for(int i = 0; i<len ; i++){
+                if( lg.get(key[i]) > 1 )
+                    ans.add((int)key[i]);          // ...
+            }
+            
+            return ans;
+        }
+    ```
 ### convert an integer to binary
 - `Integer.toBinaryString(int i)` via: [How to convert an integer to binary in Java](https://www.educative.io/answers/how-to-convert-an-integer-to-binary-in-java )
   - To add the padding, first format the string to fixed-width string using the `String.format()` method. Then, replace spaces with 0s using the `String.replaceAll(String str, String replacement)`
@@ -1168,6 +1214,139 @@ url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 - [mysql - ERROR 1698 (28000): Access denied for user 'root'@'localhost' - Stack Overflow](https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost )
 - [JDBC快速入门教程 - JDBC教程™](https://www.yiibai.com/jdbc/jdbc_quick_guide.html )
 - [java - installing tomcat 9 on WSL - Stack Overflow](https://stackoverflow.com/questions/63312469/installing-tomcat-9-on-wsl )
+
+## Maven
+
+via:  [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1309301146648610 )
+- 项目需要
+  - 确定引入哪些依赖包
+    - [commons logging](https://commons.apache.org/proper/commons-logging/)/[log4j](https://logging.apache.org/log4j/)，我们就必须把相关的 jar包放入classpath
+  - 确定项目的目录结构
+    - `src` 目录存放Java源码，
+    - `resources` 目录存放配置文件，
+    - `bin` 目录存放编译生成的`.class`文件
+  - 配置环境
+    - JDK的版本，编译打包的流程，当前代码的版本号
+  - 这些工作难度不大，但是非常琐碎且耗时。
+    - 需要的是一个**标准化的Java项目管理和构建工具**
+      - Maven 就是是专门为Java项目打造的管理和构建工具，它的主要提供了一套：
+        - 标准化的项目结构；
+          ```
+          a-maven-project					# 根目录, 项目名
+          ├── pom.xml						# 项目描述文件
+          ├── src
+          │   ├── main
+          │   │   ├── java				# Java源码
+          │   │   └── resources			# 资源文件
+          │   └── test
+          │       ├── java				# 测试源码
+          │       └── resources
+          └── target						# 所有编译、打包生成的文件
+          ```
+          - `pom.xml` 的内容
+            ```xml
+            <project ...>
+            	<modelVersion>4.0.0</modelVersion>
+            	<groupId>com.itranswarp.learnjava</groupId>
+            	<artifactId>hello</artifactId>
+            	<version>1.0</version>
+            	<packaging>jar</packaging>
+            	<properties>
+                    ...
+            	</properties>
+            	<dependencies>
+                    <dependency>
+                        <groupId>commons-logging</groupId> <!-- Java的包名, 公司或组织名称 -->
+                        <artifactId>commons-logging</artifactId> <!-- Java的类名，通常是项目名称 --> 
+                        <version>1.2</version>
+                    </dependency>
+            	</dependencies>
+            </project>
+            ```
+            - 通过上述 3 个变量，即可唯一确定某个jar包
+            - 通过 PGP 签名确保任何一个 jar 包一经发布就无法修改
+        - 标准化的构建流程（编译，测试，打包，发布……）；
+          - $$Lifecycle(生命周期) = \sum_{i=1}^{n} phase_{i} = \sum_{i=1}^{n} (\sum_{i=1}^{n} Goal_{i})_{i}$$
+            ```
+            mvn + phase
+            
+            default: 	validate, initialize, generate-sources, 
+            			process-sources, generate-resources, process-resources, 
+            			compile, process-classes, generate-test-sources, 
+            			process-test-sources, generate-test-resources, 
+            			process-test-resources, test-compile, process-test-classes, 
+            			test, prepare-package, package, pre-integration-test, 
+            			integration-test, post-integration-test, verify, 
+            			install, deploy
+            package		...package
+            compile		...compile
+            clean 		pre-clean, clean, post-clean
+            
+            frequestly  clean compile, clean test, clean package
+            ```
+          - 插件
+            - maven-shade-plugin：打包所有依赖包并生成可执行jar；
+            - cobertura-maven-plugin：生成单元测试覆盖率报告；
+            - findbugs-maven-plugin：对Java源码进行静态分析以找出潜在问题。
+          - 模块管理
+            ```
+            single-project
+            ├── pom.xml
+            └── src
+            
+            mutiple-project
+            ├── module-a
+            │   ├── pom.xml
+            │   └── src
+            ├── module-b
+            │   ├── pom.xml
+            │   └── src
+            └── module-c
+                ├── pom.xml
+                └── src
+            ```
+            - 模块可以提取出共同部分作为`parent`
+              ```
+              multiple-project
+              ├── pom.xml
+              ├── parent
+              │   └── pom.xml
+              ├── module-a
+              │   ├── pom.xml
+              │   └── src
+              ├── module-b
+              │   ├── pom.xml
+              │   └── src
+              └── module-c
+                  ├── pom.xml
+                  └── src
+              ```
+        - 依赖管理机制
+          - 无需研究依赖之间的依赖关系; Maven [中央仓库](http://repo1.maven.org) .
+            | scope    | 说明                                          | 示例            |
+            | :------- | :-------------------------------------------- | :-------------- |
+            | compile  | 编译时需要用到该jar包（默认）                 | commons-logging |
+            | test     | 编译Test时需要用到该jar包                     | junit           |
+            | runtime  | 编译时不需要，但运行时需要用到                | mysql           |
+            | provided | 编译时需要用到，但运行时由JDK或某个服务器提供 | servlet-api     |
+- Proxy
+  - 进入`.m2`目录, 创建 `settings.xml` 配置文件
+    ```xml
+    <settings>
+        <mirrors>
+            <mirror>
+                <id>aliyun</id>
+                <name>aliyun</name>
+                <mirrorOf>central</mirrorOf>
+                <!-- 国内推荐阿里云的Maven镜像 -->
+                <url>https://maven.aliyun.com/repository/central</url>
+            </mirror>
+        </mirrors>
+    </settings>
+    ```  
+- mvnw (Maven Wrapper) : 给一个项目提供一个独立的，指定版本的Maven给它使用
+- 发布
+
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1120449446)
 
@@ -1550,7 +1729,7 @@ cd $env:temp
 
 
 
-# make(mark) Updated at 2022-07-09
+# make(mark) Updated at 2022-07-14
 ## 比快排更高效的排序
 
 https://github.com/scandum/quadsort
@@ -3001,6 +3180,60 @@ Others usage about it: https://github.com/platinhom/DailyTools/blob/gh-pages/_la
     - 你觉得大学生送外卖很苦，那没读过大学送外卖不也一样苦？这种偏见来自于「读书不是为了知识和人格，只是一个在竞争中挤掉其他人的工具」这种科举制以来扭曲的思想。工业化社会应该彻底摈除这种农业时代的思维。 没人愿意进厂，不是因为这帮人学历太高了，而是因为工人在社会里没地位，靠打工无法维持一个体面的生活。这是分配问题，整天在所谓的学历内卷话题上做文章算是因噎废食，助纣为虐。
     - 有人说分配，怎么，一个个坐办公室的分配的很少吗？ 贫富差距，分配问题不是每个国家都有？ 你不殖民想翻身，很难的。
     - 这个问题，真的是得工作个十年以上才能有多个视角的理解。2000 年，中国的城市化率不到 40%，2021 年的城市化率 61.5%，过去 20 年，有三亿人口涌入城市谋生。未来还有 1.5 亿人口会步入城市谋求生路。如果没有抢其他国家的食，就只有内卷。 原本这三亿农村劳动力过的就是牛马生活。种地一个月几百块钱的收入。没有任何社会保障。在市场没涌入过量劳动力之前，不会有强烈的压迫感。但是显然，目前是劳动力超额了，对比产出，涌入的就业人口超过市场需求了。当然，占满某个市场之前，就业人数的扩张可以连带推动经济的繁荣。过去三十年就是代工经济。代工经济的利润就这么点。想某得超额利润，就意味着产业升级。如果产业不升级，还涌入人口，就是内卷。 再举一个例子。很多非计算机专业的学生，跑来卷计算机。无论怎么竞争激烈，对他们而言，哪怕干着五年经验不足一万的开发工作，对他们而言都是赢家。而对原本在行业内的人来说，这就是灾难。充分竞争的结果，就是这个行业对比别的行业不再有任何超额利润和超额收入。 高中生物学给了我们很大的提示。生物种群数量和生态圈资源的关系。 我们的社会分配是有问题。但是，社会分配不解决蛋糕太小的问题。一个八寸的蛋糕，无论怎么讲究分配公平，也分不出 100 寸的效果。 世界的格局很清楚的说明了问题。有人提了毛子和美帝的例子。毛子除了能源矿产，没有什么支柱产业。如果他们能在汽车或者机械产业也占据世界领头位置，足够他们的人均 GDP 步入发达国家。可以比肩台湾日本韩国。 如果毛子的人口缩减一半，就他们的矿产资源也能够比肩日韩。 美帝是天选之子。矿产资源丰富，还是农业大国，科技领域独步世界。 国内搞一路一带，本质上就是开拓市场倾销产品。然而一路一带的那些地方和我国是同状况国家，处于竞争状态。这个想法并不可靠。 我国的服装业，已经把传统服装大国意大利卷死了。现在搞半导体，本质上也是抢韩国日本的蛋糕。市场就这么多，要么在这个人手里，要么在另一个人手里。 在市场劳动生产力发生质变之前，产业升级大概率是抢夺别人嘴里的食物。大到国家之间，小到每个独立的个体人。 产业升级必然面临极强烈的反抗。那是从别人嘴里抢食。按中国的人口体量，想有台湾那种状态的福利，我认为得在家电行业，生物医学，半导体产业，汽车机械产业都占据世界领先地位。意味着日韩德国英国法国的产业都被中国拿走。
+- [从主用美区 Apple ID 被封帖子想到 - V2EX](https://www.v2ex.com/t/864512 )
+  - 更希望「你的账号不是你的」这个观念能更深入人心，更多的人在使用互联网账号服务时要心存戒备，不要付出过多的信任
+- [［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题 - V2EX](https://www.v2ex.com/t/865031 )
+  - 一方面要独立思考敢于质疑勇于创新才能成为顶级人才，另一方面又需要他从小听话服从无条件坚持被领导。很难的
+  - 因为这些招不到人的公司都是抱着用半份工资招一个人，要求干 2 个人甚至三个人的活。但凡公司福利待遇正常一点，也不至于到现在都招不到人
+  - 五个字终结这个问题，结构性失业
+  - 互联网野蛮生长的时候，所有人无限乐观的时候，互联网相关人员的收入被推到了不合理的高度 毕竟看看其他行业的收入，就可以知道中国的经济发展水平没有到那个程度 现在冷静下来之后，市场的付款意愿在降低，但是从业人员的期望值已经被拉得太高了
+- [有老哥分享下最近的就业市场吗？ - V2EX](https://www.v2ex.com/t/864676#; )
+  - 2011 年毕业的。到现在整整 11 年，工作快 12 年了。行业的竞争度上涨真的夸张。2011 年，只要会个 hello world(显示在 activity 上)，科班毕业，找安卓开发一天可以拿三个 offer 。2015 年的 ios 开发者会 storyboard 也可以一天拿一个 offer 。2018 年的 ios 岗位直接卷成红海，大量的人跳槽跳进坑了。2018 年的 java ，大专学历还有机会找工作。2021 年，大专学历很难混了，应届生面试者的基础普遍相当于 2011 年我毕业时候一年多工作经验平均水平。 行业完全处于存量市场，只有工厂还有新的东西可以做。从前年这么多大厂卷各种 app 的极速版。就已经说明了问题。他们找不到增量市场了。行业劳动力供应过剩了。我自己的评价，未来三年行业内的从业者会有特别剧烈的阵痛。我印象中，2018 年那波，有相当多的 ios 开发者被迫离开这个行业。此后再也没有培训机构愿意培训 ios 开发者了。目前留存下来的都是经验比较丰富的，这批人挺多过得挺好的。 反正我是不怕的，存了养老的资产，子女也有了。无非就是卷不动了离场换行业。 另一个方面，行业也很混乱。十年前的这个行业是自然生长。现在，培训机构一年少说产出十万个三年经验的零基础转行的开发者，这些人的简历全是假的，我还见过年龄都造假的简历。00 后冒充 97 年的。极度乱象。 三线城市的 it 行业目前还是蓝海，很多工厂缺开发者。但是机会也相对的比较少。
+  - 润国外。不只是薪资的问题，更多是劳动者能感受到尊重，你能感受到工作带来的意义，在国内尽管天天加班 996 却任然没有一个栖身之所，每天为生存而战，然后到了年纪等着被裁员。有时候我们好像忘记的工作的目的，我们为什么而工作？我天天加班，如此奋斗，最后得到了什么？
+  - 简而言之经济是套社皮的垄断资本主义谁接近权力谁发财，思想是延续 2000 年的争做人上人的封建遗毒，对 xx 的理解是上面政策都是好的下面念歪了经，对法治的理解是所有自己不认可的东西“早该管管了”，整个社会对弱者的态度是弱者活该去死“谁让你不努力” 可能确实和非洲拉美差距不大？
+  - 现在的招聘要求比起 5 年前，至少高了 10 倍，你就知道现在的就业形势有多严峻了。其实进来了也是 CRUD ，这活儿谁都能干，企业不愁招不到人，这就是现实。
+- [对于程序员来说，对代码有没有兴趣，到底有多重要？ - V2EX](https://www.v2ex.com/t/864647 )
+  - 有能力的领导两个都能领导得很好 领导的任务就是这个 领导的任务不是喜欢这个不喜欢那个 这个小孩子都会
+  - 第一个同事，人不会对没兴趣的事积极，人也不会因为兴趣就让兴趣的事去入侵其他事，这个同事很有可能是对代码很感兴趣的。——你不能因为下班不干就认为人家没兴趣，要知道，下课后绝对不碰书本的人才有希望成为学霸。
+
+- [学历，对人生，对婚姻的重要性真的特别差距大吗？ - V2EX](https://www.v2ex.com/t/864122 )
+  - 读下来感觉楼主对低学历的怨念有点儿魔怔了，下意识把所有的难以克服的困难都归结到学历上。 相亲谈恋爱，还是要看缘分碰到合适的人，不要因为个别人生过客否定自己的价值和追求。
+  - 学历自卑我也一直有，但最近我也想开了，在对方不知道我学历的情况下，没有任何人会发现我和他们有什么区别，当开始有学历后，他们开始强调这个不同，这类人我会一直保持距离的。 包括上面 27 楼所说的，客观原因是学历低会让人下意识感觉：这个人的学历能力不行，这就是我和她聊不来的原因。 你看，这就是懒人的思考，本质是学历低吗？人是社会环境的集合，是因为 2 个人本就不在一个环境下相处，怎么能达到沟通无阻呢？ 学历不代表什么，有偏见的人，永远会带着偏见去理解世界。学历只是其中的一个理由之一罢了。 说了这么多，33 岁后，可以想想自己要什么的人共度余生了，相亲只是提供了一个更高效的路径罢了，不用为一些不合适的人或者言论困扰，这并不值得。
+- [发现在微信发的每一个链接都会被腾讯访问一下 - V2EX](https://www.v2ex.com/t/865618 )
+  - 不夸张。印象非常深刻，让我搞了一下午。早就踩过这个坑了。。。 测试微信支付的时候有遇到过。 有个每次调起支付的唯一流水号，pc 微信发到手机微信去测试。 莫名其妙就是流水号已使用。 后来发现，只要通过微信发送 url ，微信就会访问一次，让我的流水号失效。
+  - 别什么都甩给监管，他就是想控制你访问，顺便统计网站访问，进而知道网站流量，好提前投资 /控制有潜力 /威胁的公司
+- [一直有个疑问，软件开源出去，就不怕竞争对手抄走吗？ - V2EX](https://www.v2ex.com/t/865805 )
+  - 所以说国外的开源真的是信仰，又好使还不要钱还靠谱的东西，除了梦里就只有开源软件了
+  - 软件实现本身的价值很有限。核心的生产资料还是业务的垄断、营销推广的有效性，以及低成本的运营。 谷歌搜索即便开源给你，你也只能当玩具，甚至是跑不起来。
+  - 我觉得这些大公司开源目的是建立技术标准，如果只是着眼软件本身就格局太低了。 以前 google 开源 tensorflow 的时候我也特别不理解。 一开始都用着真香，然后就看到 google 云上很多 tensorflow 相关套件，还有 TPU 等技术慢慢就想明白了。 大公司将自己的明星项目开源本身就是自带流量，等于一次大规模广告。等事实标准，周边的项目都丰富起来了后面的用户根本没有动力切换到一个相似的项目上，除非后来的项目有什么不可比拟的优势。
+  - 你现在回头看知道哪个开源项目火了，但项目起步阶段没有人能预测未来，不开源就意味着要加大投资，没有人能投资一切，总会漏掉一些项目的。 而且，不开源也意味着起步慢，别人做同类项目开源一下子就打开知名度了，你闭门造车花了钱到头来还可能错失了市场先机。
+  - 要是抄来的东西很容易能超过原作者，那国内软件行业早就是全宇宙老大了。软件行业重要的从来都是编码的人，不是代码。
+  - 社区非常非常重要 目前刚刚从大厂离职，之前也基本全职投入在开源项目上，业余也维护着一些小项目。现在在跟朋友在 MLOps 领域创业，也是开源的项目： https://github.com/tensorchord/envd
+  - 分享一下我的看法。从大厂的角度，国内外大厂在对开源的诉求上我认为是一致的。一方面可以提高自己的影响力，在招聘，云服务的认可度等不同方面都有很大的帮助。另外一方面对于一些面向开发领域的产品，开源的方式也能很大程度上帮助产品获得更多的用户和反馈，进而更快更好地迭代。VSCode 就属于第二个方面的诉求。 对于开源 Infra startup 来说，也类似于刚刚提到的第二点。大部分都是希望通过开源，获得尽可能多的反馈。因为很多 startup 是没有太多背景背书的，如果想要在一个技术方向上获得用户，收获认可，开源是最好的方式。对于个人来说，可能动机是多种多样的。像我之前业余维护一些项目更多还是处于热情，得到使用者的认可是一种可以快速分泌多巴胺的事情。 另外再说抄走的事情，楼主提到的 A 开源软件 x ，最后被 B 拿去再分发成软件 y ，最后 y 超过 x 的情况也有，在国内也有非常出名的例子（ 但是这个我觉得其实是非常困难的。一个成熟的，好的开源项目，最大的瓶颈不在架构和设计，而在于背后的社区。社区可以为你提供真实的海量的需求和测试场景，社区中的贡献者和维护者可以借此把项目设计地更合理。进而更加促进了社区的繁荣，这在我看来是飞轮效应。时间越长，项目的壁垒越高。 可能短时间内其他厂商的 fork 会在某一方面或多个方面超过原本的项目，但是没有社区的助力，这很难长久。这也是为什么大家谈开源项目谈的最多的还是社区运营。 回到 VSCode 的问题，它现在最大的壁垒在于社区和生态。VSCode Marketplace 上有成千上万的 extension ，并且有数以千计的贡献者为它贡献，它自己对于开发者已经有了自发的非常大的“引力”。 但是另外一方面 VSCode 不是完全开放的，它的 remote extension （远程开发特性），marketplace 都不是开源的。而且 marketplace 有比较严苛的使用条款。这也是为什么会有 https://open-vsx.org/ 这样的项目出现的原因。 所以 vscode core 充分地享受到了开源带来的巨大影响力加成，但是其他部分则未必。当然这也是 MS 自己的商业考量。
+  - 你有没有注意到，开源的都是一些框架、库、等等东西，这些东西是很难直接创造商业价值的，必须做成产品。比如一个 k8s ，公司可以直接卖他吗？都是用来部署服务，然后架设网站 /app ，公司最终销售的是网站 /app 里面的服务。这些东西是没有开源的 而对于框架和库，既然不能直接创造商业价值，那不如开源出来让别人帮忙提交代码来维护，这也是为了社区发展，扩大使用人群，减少 bug ，这是有好处的 而为什么不怕别人抄？很简单，马太效应，框架和库这种东西大家都是信任大厂。大厂有稳定的维护和更新，有 issue 解答，而用的人多了又会对社区内容有更大的贡献，雪球就这么滚起来了。小厂就算抄过去了，他能做到大厂那样的稳定更新吗？能像素级抄袭吗？能解决 bug 吗？能有专人解答问题吗？
+  - https://zh.wikipedia.org/zh-cn/Chromium “Google 选择了"Chromium"这个名字，比喻将铬(英语：Chromium)金属锻造成镀铬[1]。” vscodium 应该是采用了 chromium 的风格。
+- [很多人的朋友圈都是自我提纯后的朋友圈，接收的信息也是自我提纯后的信息和观点 - V2EX](https://www.v2ex.com/t/865728 )
+  - 讨论多了你就会发现，很多人喜欢一上来先给你定性。你是“好人”还是“坏人”，“同道”还是“异教徒”。 然后就把你身上贴满他对于那个阵营的刻板印象。完全忽略人是独立的个体，以及观点的独立性。 这点你从商业电视剧、电影就能略见一斑。必须给观众立一个“好人”和一个“坏人”。这个剧才会受欢迎。 那些角色真正有灵魂的剧，往往是不赚钱的。 之前用老号在水深火热和 v 站一堆人论战的时候我就说了。 这帮人没什么本事，只会三板斧：乱扣帽子，虚空打靶，人身攻击。
+  - 也就是说，多数人根本没有学过讨论问题，反而一直在学习用“输赢”来看待问题，成绩排名、高考、面试…… 输赢都比“对错”更重要。 因此，多数人只想分输赢，一旦分了输赢，他们也就可以放下这件事，不会再做进一步思考，也完全不管是非对错。 这就是很多人喜欢拉黑别人的原因，因为拉黑就是他对别人的裁决，在拉黑的一瞬间，他就感到自己赢了。 同时也是很多人讨论问题是容易生气或激动的原因，因为他们想的不是问题本身的对错，他们想的是自己不能输。是非对错不重要，输赢才重要。
+  - 我其实很喜欢那种在朋友圈上勇于发表自己真正观点或者喜好的朋友，因为他活着就不是“为别人而活”。本身他发表观点时候的想法也只是基于他发表的那个特定时间，可能受情绪，也可能受知识背景，也包括社会娱乐风向。想说就说呗，若干年后自己看起来是可笑，又如何呢，不必看作 timeline ，可以看作当时环境自己的想法的一种抒发。 很多人未必是厌恶不一致的观点，而是厌恶陈述观点的方式。可能你但凡犀利一些，他便认为是极端主义。所以才会有不少人虽然前面慷慨激昂，最后还要来一句“求轻喷”，或者加上一句“当然了，如果考虑到……”把相反观点综合一下来减弱一些锋芒。好比做菜，有些时候不该放太多盐，结果总有人认为放多了盐，再加些糖，就保持了“没有太咸”的正确性。 现代社会，对这个度其实特别难掌握，因为人都太敏感了，可能是社会压力的关系。如果压力很小，可能就会更擅于倾听，思考，甚至部分或全部接受别人的观点。他们可以让你有不同声音，但一旦“态度”，“度”，“方式”，任何一方面不符合心意，就炸了，就拉黑了。很多人看朋友圈都是在“审犯人”，并不是真正在找同类。 也许太多人不发朋友圈了，就是对掌握这些细节过于厌倦，那么难，逃离总行吧
+
+- [吐槽一下国内运营的游戏环境 - V2EX](https://www.v2ex.com/t/865571 )
+
+  - 看来未来全世界所有的创新，都是中国的孩子做出来的。 未来所有的诺贝尔奖，都被中国的孩子包揽。 因为其他国家的孩子，都玩游戏废掉了。
+
+- [JDK17 都出来了，感觉现在很多资深程序员 Stream 不会， Lambda 不会， Java .time 包不会 - V2EX](https://www.v2ex.com/t/865425 )
+
+  - 这圈子，特别是 Java 圈，垃圾太多，垃圾声音更多，这就是很多大神转去搞新语言的原因，这种乌烟瘴气导致语言和社区氛围极差，特别是年轻人，被这种坏风气带动的毫无编程乐趣。 单纯说 Java 这么多年，一直在语言层面进步，而且进步神速，反观一些所谓的“老开发”“老 Java”，教别人做人，以自己那点项目经验就以年轻人导师自居，嘚瑟什么呢？我见过很多程序员把编程作为职业也作为爱好，结合的很好，反观你们这些。 知道别的语言看 Java 为什么总是在歧视链最底层吗？知道为什么国内 Java 氛围就是造垃圾轮子吗？就是因为风气不好，写个 lambda 这么简单的事儿，都能阴阳怪气半天，学一下咋了？花很多时间吗？真经验丰富的人不是看几眼就会了吗？ 还有阿里或者蚂蚁吹，别吹了好吗，阿里和蚂蚁都尴尬了，阿里 Java 再强，能强过 Java 委员会？能强过真 Java 开发？阿里先把创新做出来再说，再创新这么多年，大家谁不知道国内的 IT 科技呢？何必尬吹？ 多看看国外的趋势，多看看第一手材料，少看阿里系，有好东西，但是别被带跑偏了，阿里也是趋势的跟风者而已，springcloud 、云原生、大数据、AI ，没有一股阿里吹起来的风，所以不用太在意你心中的“神”
+
+- [现在的生产力是否已经能够支持全人类过上物质充足的生活？ - V2EX](https://www.v2ex.com/t/865415 )
+
+  - ◇路德维希·冯·米塞斯：《社会主义国家的经济计算》
+    他在 1920 年发表了论文《社会主义国家的经济计算》（ Economic Calculation in the Socialist Commonwealth ），首次提出了 [经济计算问题] ，以此来质疑共产党政权的中央计划经济。那一年，俄国的十月革命才结束不久，苏联都还没成立，米塞斯就已经开始质疑中央计划经济了——再次感叹他超前的眼光。
+    米塞斯这篇论文指出：中央计划经济必然导致市场的 [价格机制] 受损（彻底的中央计划经济会完全摧毁价格机制，部分的中央计划经济会部分地破坏价格机制）。在价格机制受损的情况下，负责制定经济计划的官僚 [无法] 计算出各种资源的有效分配情况。这就是大名鼎鼎的“经济计算问题”。。
+
+     [所有的] 中央计划经济最后都面临严重的经济短缺、商品匮乏、资源浪费， [无一例外] 。
+
+    由于混沌性，这个计算不可能成功
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/8#issuecomment-1179499825)
 
