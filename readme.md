@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-07-14](#logbug-updated-at-20220714)
+- [log(bug) Updated at 2022-08-20](#logbug-updated-at-20220820)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -128,7 +128,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-07-14
+# log(bug) Updated at 2022-08-20
 ## Stage
 
 - [ ] #10
@@ -1679,6 +1679,10 @@ via: [如何选择适合的公共 DNS](https://blog.skk.moe/post/which-public-dn
 | [Freenom World](https://www.freenom.world/zh/index.html?lang=zh) |                           | Transit        | `80.80.80.80` /  `80.80.81.81`         | ✔    | ❌    | ❌    | ✔    |      |
 | DNS.sb                                                       |                           | SB Network     | `185.222.222.222` /  `185.184.222.222` | ✔    | ✔    | ✔    | ❌    |      |
 
+
+- [ ] 为什么手机执行 `nslookup` 的结果和电脑不一样, 是和 安卓/iOS 代理机制有关吗?
+
+<img src="https://user-images.githubusercontent.com/57313137/185732917-bafffe73-8897-408a-b5de-541f50a5ba69.png" width="50%">
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1166728789)
