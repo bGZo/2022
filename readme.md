@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-08-20](#logbug-updated-at-20220820)
+- [log(bug) Updated at 2022-10-09](#logbug-updated-at-20221009)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -33,7 +33,7 @@
         - [Galaxy App Booster](#galaxy-app-booster)
     - [Virtualbox](#virtualbox)
     - [Refs](#refs)
-    - [TTRSS Shortcuts | ttrss 快捷键](#ttrss-shortcuts--ttrss-快捷键)
+    - [TTRSS Shortcuts, ttrss 快捷键](#ttrss-shortcuts-ttrss-快捷键)
     - [Get Windows WLAN IP](#get-windows-wlan-ip)
     - [手机📱](#手机)
     - [为什么对她这么不好](#为什么对她这么不好)
@@ -128,7 +128,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-08-20
+# log(bug) Updated at 2022-10-09
 ## Stage
 
 - [ ] #10
@@ -605,7 +605,7 @@ using android feature via https://android-developers.googleblog.com/2019/04/impr
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1047750363)
 
-## TTRSS Shortcuts | ttrss 快捷键
+## TTRSS Shortcuts, ttrss 快捷键
 
 I'm sorry that I couldn't found any related from offical [wiki](https://tt-rss.org/wiki.php) and other site. The only I found helpful site is unavailable now(via https://www.isitdownrightnow.com/ttrss.info.html).
 
