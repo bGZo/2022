@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-10-09](#logbug-updated-at-20221009)
+- [log(bug) Updated at 2022-10-17](#logbug-updated-at-20221017)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -72,6 +72,7 @@
 - [最后一个 & 需要注意](#最后一个--需要注意)
         - [access `%TEMP` directory](#access-temp-directory)
     - [C](#c)
+    - [Spotify](#spotify)
 - [make(mark) Updated at 2022-07-14](#makemark-updated-at-20220714)
     - [比快排更高效的排序](#比快排更高效的排序)
     - [Five timeless lessons](#five-timeless-lessons)
@@ -128,7 +129,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-10-09
+# log(bug) Updated at 2022-10-17
 ## Stage
 
 - [ ] #10
@@ -1572,10 +1573,6 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
           let script_tag = GM_addScript('alert("works!");');
       })();
       // more details via: https://github.com/Tampermonkey/tampermonkey/issues/296
-- Spotify 多终端本地音乐 via: [如何在 Spotify 听没有版权的歌 | Aemon's Blog](https://www.aemon.top/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/ )
-  - 利用不同终端的限制, 将音乐下载到其他终端上
-    - 同一个局域网下, 电脑 Spotify 上听这首音乐.
-    - 手机上加红心 (Liked Songs 自动下载本地)
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1149723834)
@@ -1730,6 +1727,23 @@ cd $env:temp
     - Regarding the types, even though `ArcBit` is an `unsigned char` the result of the assignment will get widened to `int`.
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1168127217)
+
+## Spotify
+
+- Spotify 多终端本地音乐 via: [如何在 Spotify 听没有版权的歌 | Aemon's Blog](https://www.aemon.top/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/ )
+  - 利用不同终端的限制, 将音乐下载到其他终端上
+    - 同一个局域网下, 电脑 Spotify 上听这首音乐.
+    - 手机上加红心 (Liked Songs 自动下载本地)
+- Disable Update
+  - > If you can't see the "Update" folder it might be because Spotify hasn't downloaded those files yet. Try waiting until you see the blue dot in the top right of Spotify (that indicates an update is ready to be applied) and then the folder should be there. via: https://www.reddit.com/r/spotify/comments/alw999/comment/egm5v34/
+  - Open Admin Command Prompt and type via: https://www.reddit.com/r/spotify/comments/a8wqon/comment/efhfs59/
+    `rm %localappdata%\Spotify\Update`
+    `mkdir %localappdata%\Spotify\Update`
+    `icacls %localappdata%\Spotify\Update /deny "%username%":D`
+    `icacls %localappdata%\Spotify\Update /deny "%username%":R`
+
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1280168965)
 
 
 
