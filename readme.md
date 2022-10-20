@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-10-17](#logbug-updated-at-20221017)
+- [log(bug) Updated at 2022-10-20](#logbug-updated-at-20221020)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -73,6 +73,7 @@
         - [access `%TEMP` directory](#access-temp-directory)
     - [C](#c)
     - [Spotify](#spotify)
+    - [Cloudflare Forward Request](#cloudflare-forward-request)
 - [make(mark) Updated at 2022-07-14](#makemark-updated-at-20220714)
     - [比快排更高效的排序](#比快排更高效的排序)
     - [Five timeless lessons](#five-timeless-lessons)
@@ -129,7 +130,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-10-17
+# log(bug) Updated at 2022-10-20
 ## Stage
 
 - [ ] #10
@@ -469,7 +470,28 @@ via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.c
     ```shell
     git rm readme
     ```
+- Git log Corrupt
+  ```
+  # via: https://stackoverflow.com/questions/11706215/
+  error: object file .git/objects/c1/1f7a16a52bc71a318650710c1fa1e82e72a2ce is empty
+  fatal: loose object 1f7a16a52bc71a318650710c1fa1e82e72a2ce (stored in .git/objects/c1/1f7a16a52bc71a318650710c1fa1e82e72a2ce) is corrupt
+  ```
+  Well, above [methods](https://stackoverflow.com/questions/11706215/) maybe helpful, yet I need the simplest way... While my repo has serveal submodules so when I move dir `.git` to origin, it throws error `fatal: Not a git repository`.
 
+  ```shell
+  # backup your old repo, seriously!!!
+  # via: https://stackoverflow.com/questions/41718822/
+  $ git clone git@github.com:user/repo.git
+  $ git submodule update --init --recursive
+  ```
+
+  So my fool method is to git clone origin repo and submodule and move the old repo to my new repo. Also it will throws error `mv: Directory not empty`. Then, just
+
+  ```shell
+  # via: https://stackoverflow.com/questions/29135986/
+  $ cp -R source/* destination/ 
+  $ rm -R source/
+  ```
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1037068425)
 
@@ -1744,6 +1766,16 @@ cd $env:temp
 
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1280168965)
+
+## Cloudflare Forward Request
+
+1. **DNS whatever**: set type A, Name \@, Content 8.8.8.8 and proxy
+2. **Rules**: `jingrong.wang/*`, Forwarding URL (Status Code: 301 - Permanent Redirect, Url: http://blog.bgzo.cc)
+3. Done!
+
+via: [使用CloudFlare进行域名重定向-月光博客](https://www.williamlong.info/archives/6045.html ) & [Understanding and configuring Cloudflare Page Rules (Page Rules Tutorial) – Cloudflare Help Center](https://support.cloudflare.com/hc/en-us/articles/218411427-Understanding-and-configuring-Cloudflare-Page-Rules-Page-Rules-Tutorial- )
+
+[⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1285633288)
 
 
 
