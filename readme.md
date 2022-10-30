@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-10-20](#logbug-updated-at-20221020)
+- [log(bug) Updated at 2022-10-30](#logbug-updated-at-20221030)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -130,7 +130,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-10-20
+# log(bug) Updated at 2022-10-30
 ## Stage
 
 - [ ] #10
@@ -492,6 +492,32 @@ via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.c
   $ cp -R source/* destination/ 
   $ rm -R source/
   ```
+- git rebase
+  - More via: [Rebase Rewriting History - Mastering Git - raywenderlich.com - YouTube](https://www.youtube.com/watch?v=9y9IRBKDU4I )
+    ```
+    [alias]
+    lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+    lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+    lg = !"git lg1"
+    
+    git log --all --decorate --oneline --graph
+    
+    via: [git log - Pretty Git branch graphs - Stack Overflow](https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs )
+    ```
+  - [git rebase 成功之后如何撤销_AndyCheng_hgcc的博客-CSDN博客_git rebase 回退](https://blog.csdn.net/chengde6896383/article/details/83418488 )
+    ```
+    git reflog
+    # git reflog是显示所有的操作记录，包括提交，回退的操作。 一般用来找出操作记录中的版本号，进行回退。 git reflog常用于恢复本地的错误操作。
+    ```
+    > The reflog is strictly local and isn’t part of the repository. It’s also not included in pushes, fetches, or clones.
+    The most significant distinction between git reflog and log is that the log is a public record of the repository’s commit history, whereas the reflog is private. After a push, fetch or pull, the git log is duplicated as part of the git repository. The git reflog, on the other hand, is not included.
+    via: [How to use git reflog - reflog vs. log - Blog | GitProtect.io](https://gitprotect.io/blog/how-to-use-git-reflog-reflog-vs-log/ )
+---
+- [ ] TODO [garbage collection - How to skip "Loose Object" popup when running 'git gui' - Stack Overflow](https://stackoverflow.com/questions/1106529/how-to-skip-loose-object-popup-when-running-git-gui )
+- [ ] `git show -20` / `git show hash-value` 
+  more via: [git查看历史记录及修改内容_AlbertS的博客-CSDN博客_git查看文件修改记录](https://blog.csdn.net/albertsh/article/details/126455725 )
+- [ ] TODO [Git - 关于版本控制](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6 )
+
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1037068425)
 
