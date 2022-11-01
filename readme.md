@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-10-30](#logbug-updated-at-20221030)
+- [log(bug) Updated at 2022-11-01](#logbug-updated-at-20221101)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -130,7 +130,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-10-30
+# log(bug) Updated at 2022-11-01
 ## Stage
 
 - [ ] #10
@@ -512,12 +512,14 @@ via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.c
     > The reflog is strictly local and isn’t part of the repository. It’s also not included in pushes, fetches, or clones.
     The most significant distinction between git reflog and log is that the log is a public record of the repository’s commit history, whereas the reflog is private. After a push, fetch or pull, the git log is duplicated as part of the git repository. The git reflog, on the other hand, is not included.
     via: [How to use git reflog - reflog vs. log - Blog | GitProtect.io](https://gitprotect.io/blog/how-to-use-git-reflog-reflog-vs-log/ )
+   - `git rebase` 会刷新此刻时间线往后的所有 Commit, 因为 Git 中, `author (the person who wrote the code)` & `committer (the person who committed it to the repository)` 是分离的, 在 Github 上显示的就是前者; 
+     more via: [What does "authored 7 days ago; committed 14 hours ago" mean on GitHub? - Web Applications Stack Exchange](https://webapps.stackexchange.com/questions/70383/what-does-authored-7-days-ago-committed-14-hours-ago-mean-on-github )
 ---
 - [ ] TODO [garbage collection - How to skip "Loose Object" popup when running 'git gui' - Stack Overflow](https://stackoverflow.com/questions/1106529/how-to-skip-loose-object-popup-when-running-git-gui )
 - [ ] `git show -20` / `git show hash-value` 
   more via: [git查看历史记录及修改内容_AlbertS的博客-CSDN博客_git查看文件修改记录](https://blog.csdn.net/albertsh/article/details/126455725 )
 - [ ] TODO [Git - 关于版本控制](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6 )
-
+- [ ] TODO [修改Git全部Commit提交记录的用户名Name和邮箱Email - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1352623 )
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1037068425)
 
