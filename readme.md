@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-11-01](#logbug-updated-at-20221101)
+- [log(bug) Updated at 2022-11-05](#logbug-updated-at-20221105)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -130,7 +130,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-11-01
+# log(bug) Updated at 2022-11-05
 ## Stage
 
 - [ ] #10
@@ -1623,7 +1623,10 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
           let script_tag = GM_addScript('alert("works!");');
       })();
       // more details via: https://github.com/Tampermonkey/tampermonkey/issues/296
-
+- Scroll to bottom
+  ```javascript
+  javascript:(()=>{ function scrollDownTillEnd(countryDropdownList){ let scrollingInterval = setInterval( function(){ window.scrollBy(0,1000); if (window.scrollHeight > 10000){ clearInterval(scrollingInterval); }},100);}; scrollDownTillEnd();})();
+  ```
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1149723834)
 
