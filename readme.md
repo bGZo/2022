@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-11-05](#logbug-updated-at-20221105)
+- [log(bug) Updated at 2022-11-06](#logbug-updated-at-20221106)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -130,7 +130,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-11-05
+# log(bug) Updated at 2022-11-06
 ## Stage
 
 - [ ] #10
@@ -1583,7 +1583,7 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
   - inspired by [yodhcn的收藏夹 - WebCull](https://app.webcull.com/w/yodhcn), 小众放弃😂
   - 找到个挺有意思的 pron 网站😂 [Porn Dude](https://theporndude.com/zh )
 - [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/ )
-  - [ ] RainDrop cannot select by mouse, Raindrop part cannot select.
+  - [x] RainDrop cannot select by mouse, Raindrop part cannot select.
     - [x] Bookmarklet Replace Tag CSS
       ```javascript
       javascript: (() => {document.getElementById('rdhs').innerHTML = '.rdhnav:before,mark[data-rdhid]{background:var(--rdhc,#fe0)!important}mark[data-rdhid]{background-image:linear-gradient(180deg,hsla(0,0%,100%,.7) 0,hsla(0,0%,100%,.7))!important;color:#000!important;-webkit-text-fill-color:#000!important;cursor:pointer!important}.rdhni{display:inline!important;padding:0!important;border:0!important;color:inherit!important;opacity:.5!important;fill:currentColor!important;background:transparent!important;border-radius:0!important;margin:0 .3em!important;width:.85em!important;height:.85em!important}.rdhnav{position:fixed!important;right:0!important;padding:10px 6px 10px 10px!important;cursor:pointer!important}.rdhnav:before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-radius:10px!important;box-shadow:0 0 0 .5px ButtonShadow,0 5px 30px rgb(0 0 0/30%)!important;background-image:linear-gradient(180deg,hsla(0,0%,100%,.2) 0,hsla(0,0%,100%,.2))!important}.rdhnav:hover:before{background-image:linear-gradient(180deg,hsla(0,0%,100%,.5) 0,hsla(0,0%,100%,.5))!important}.rdhnav:active{filter:brightness(50%)!important}';})();
@@ -1624,8 +1624,9 @@ via: [机の高さと椅子の座面の高さの関連性 | Bauhütte®](https:/
       })();
       // more details via: https://github.com/Tampermonkey/tampermonkey/issues/296
 - Scroll to bottom
+  via: [javascript - Scroll Automatically to the Bottom of the Page - Stack Overflow](https://stackoverflow.com/questions/11715646/scroll-automatically-to-the-bottom-of-the-page ) & [javascript - Why cant I scroll browser window in a loop in console? - Stack Overflow](https://stackoverflow.com/questions/56173022/why-cant-i-scroll-browser-window-in-a-loop-in-console )
   ```javascript
-  javascript:(()=>{ function scrollDownTillEnd(countryDropdownList){ let scrollingInterval = setInterval( function(){ window.scrollBy(0,1000); if (window.scrollHeight > 10000){ clearInterval(scrollingInterval); }},100);}; scrollDownTillEnd();})();
+  javascript: (() => { let i = 0; var times = prompt("Input how many times to scroll?"); if (times == ""){ times = 1000; } function scrollDownTillEnd(countryDropdownList) { let scrollingInterval = setInterval(function () { window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight); if(i >= times) clearInterval(scrollingInterval); console.log(i++ + "Times."); }, 200); } scrollDownTillEnd(); })();
   ```
 
 [⚓ Anchor of above parts](https://github.com/bGZo/2022/issues/7#issuecomment-1149723834)
