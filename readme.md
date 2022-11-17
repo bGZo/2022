@@ -1,4 +1,4 @@
-- [log(bug) Updated at 2022-11-06](#logbug-updated-at-20221106)
+- [log(bug) Updated at 2022-11-17](#logbug-updated-at-20221117)
     - [Stage](#stage)
     - [整理房间](#整理房间)
     - [English QuickRef](#english-quickref)
@@ -130,7 +130,7 @@
     - [TIL](#til)
 
 
-# log(bug) Updated at 2022-11-06
+# log(bug) Updated at 2022-11-17
 ## Stage
 
 - [ ] #10
@@ -514,6 +514,9 @@ via https://blog.csdn.net/csdn_life18/article/details/108250846 & https://v2ex.c
     via: [How to use git reflog - reflog vs. log - Blog | GitProtect.io](https://gitprotect.io/blog/how-to-use-git-reflog-reflog-vs-log/ )
    - `git rebase` 会刷新此刻时间线往后的所有 Commit, 因为 Git 中, `author (the person who wrote the code)` & `committer (the person who committed it to the repository)` 是分离的, 在 Github 上显示的就是前者; 
      more via: [What does "authored 7 days ago; committed 14 hours ago" mean on GitHub? - Web Applications Stack Exchange](https://webapps.stackexchange.com/questions/70383/what-does-authored-7-days-ago-committed-14-hours-ago-mean-on-github )
+  [git rebase，看这一篇就够了 - 掘金](https://juejin.cn/post/6969101234338791432 )
+  [Git 更安全的强制推送，--force-with-lease - walterlv](https://blog.walterlv.com/post/safe-push-using-force-with-lease.html )
+  [Git合并那些事——神奇的Rebase - 晴耕小筑](https://morningspace.github.io/tech/git-merge-stories-6/ )
 ---
 - [ ] TODO [garbage collection - How to skip "Loose Object" popup when running 'git gui' - Stack Overflow](https://stackoverflow.com/questions/1106529/how-to-skip-loose-object-popup-when-running-git-gui )
 - [ ] `git show -20` / `git show hash-value` 
